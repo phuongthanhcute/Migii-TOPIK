@@ -1,0 +1,303 @@
+1.
+
+### Question: 다음 중 밑줄 친 부분이 맞는 문장을 고르십시오.
+### Answer choices:
+1.  어제 친구하고 영화<u>봤어요</u>.
+2.  저는 매일 아침 7시에 <u>일어납니다</u>.
+3.  지금 밖에는 비가 많이 <u>내립니다</u>.
+4.  내일은 날씨가 <u>좋아요</u>.
+### Correct answer: 2
+### Vietnamese explanation:
+저는 매일 아침 7시에 일어납니다.
+Tôi thức dậy lúc 7 giờ sáng mỗi ngày.
+--------------------
+-   V + ㅂ니다/습니다: Đuôi câu trần thuật, nghi vấn, mệnh lệnh, thỉnh dụ trang trọng.
+-   V + 아/어요: Đuôi câu trần thuật, nghi vấn, mệnh lệnh, thỉnh dụ thân mật.
+
+1.  어제 친구하고 영화 봤어요.
+2.  지금 밖에는 비가 많이 내려요.
+3.  내일은 날씨가 좋을 거예요.
+### English explanation:
+<g>저는 매일 아침 7시에 일어납니다.</g>
+I wake up at 7 AM every day.
+--------------------
+<g>V + ㅂ니다/습니다</g>: Formal ending for declarative, interrogative, imperative, and propositive sentences.
+<g>V + 아/어요</g>: Informal ending for declarative, interrogative, imperative, and propositive sentences.
+
+<g>1. 어제 친구하고 영화 봤어요.</g>
+<g>3. 지금 밖에는 비가 많이 내려요.</g>
+<g>4. 내일은 날씨가 좋을 거예요.</g>
+
+2.
+
+### Question: 다음 중 밑줄 친 부분이 맞는 문장을 고르십시오.
+### Answer choices:
+1.  저는 한국 음식을 아주 <u>좋아합니다</u>.
+2.  이 옷은 너무 <u>비싸요</u>.
+3.  내일 시험이 <u>있습니다</u>.
+4.  어제 숙제를 안 <u>했어요</u>.
+### Correct answer: 2
+### Vietnamese explanation:
+이 옷은 너무 비싸요.
+Cái áo này đắt quá.
+--------------------
+-   Tính từ + 아/어요: Diễn tả trạng thái, tính chất.
+-   V + ㅂ니다/습니다: Đuôi câu trần thuật, nghi vấn, mệnh lệnh, thỉnh dụ trang trọng.
+-   V + 아/어요: Đuôi câu trần thuật, nghi vấn, mệnh lệnh, thỉnh dụ thân mật.
+
+1.  저는 한국 음식을 아주 좋아해요.
+2.  내일 시험이 있을 거예요.
+3.  어제 숙제를 안 했어요.
+### English explanation:
+<g>이 옷은 너무 비싸요.</g>
+This shirt is too expensive.
+--------------------
+Adjective + <g>아/어요</g>: Expresses state or quality.
+<g>V + ㅂ니다/습니다</g>: Formal ending for declarative, interrogative, imperative, and propositive sentences.
+<g>V + 아/어요</g>: Informal ending for declarative, interrogative, imperative, and propositive sentences.
+
+<g>1. 저는 한국 음식을 아주 좋아해요.</g>
+<g>3. 내일 시험이 있을 거예요.</g>
+<g>4. 어제 숙제를 안 했어요.</g>
+
+3.
+
+### Question: 다음 중 밑줄 친 부분이 맞는 문장을 고르십시오.
+### Answer choices:
+1.  저는 매일 운동을 <u>합니다</u>.
+2.  주말에 보통 집에서 <u>쉬어요</u>.
+3.  어제 친구를 <u>만났습니다</u>.
+4.  오늘 날씨가 <u>춥습니다</u>.
+### Correct answer: 2
+### Vietnamese explanation:
+주말에 보통 집에서 쉬어요.
+Cuối tuần tôi thường nghỉ ngơi ở nhà.
+--------------------
+-   V + 아/어요: Đuôi câu trần thuật, nghi vấn, mệnh lệnh, thỉnh dụ thân mật.
+-   V + ㅂ니다/습니다: Đuôi câu trần thuật, nghi vấn, mệnh lệnh, thỉnh dụ trang trọng.
+
+1.  저는 매일 운동을 해요.
+2.  어제 친구를 만났어요.
+3.  오늘 날씨가 추워요.
+### English explanation:
+<g>주말에 보통 집에서 쉬어요.</g>
+I usually rest at home on weekends.
+--------------------
+<g>V + 아/어요</g>: Informal ending for declarative, interrogative, imperative, and propositive sentences.
+<g>V + ㅂ니다/습니다</g>: Formal ending for declarative, interrogative, imperative, and propositive sentences.
+
+<g>1. 저는 매일 운동을 해요.</g>
+<g>3. 어제 친구를 만났어요.</g>
+<g>4. 오늘 날씨가 추워요.</g>
+
+4.
+
+### Question: 다음 중 밑줄 친 부분이 맞는 문장을 고르십시오.
+### Answer choices:
+1.  저는 커피를 안 <u>마십니다</u>.
+2.  어제 영화가 재미<u>있어요</u>.
+3.  지금 밥을 <u>먹습니다</u>.
+4.  내일 친구를 <u>만나요</u>.
+### Correct answer: 4
+### Vietnamese explanation:
+내일 친구를 만나요.
+Ngày mai tôi gặp bạn.
+--------------------
+-   V + 아/어요: Đuôi câu trần thuật, nghi vấn, mệnh lệnh, thỉnh dụ thân mật.
+-   V + ㅂ니다/습니다: Đuôi câu trần thuật, nghi vấn, mệnh lệnh, thỉnh dụ trang trọng.
+
+1.  저는 커피를 안 마셔요.
+2.  어제 영화가 재미있었어요.
+3.  지금 밥을 먹어요.
+### English explanation:
+<g>내일 친구를 만나요.</g>
+I will meet my friend tomorrow.
+--------------------
+<g>V + 아/어요</g>: Informal ending for declarative, interrogative, imperative, and propositive sentences.
+<g>V + ㅂ니다/습니다</g>: Formal ending for declarative, interrogative, imperative, and propositive sentences.
+
+<g>1. 저는 커피를 안 마셔요.</g>
+<g>2. 어제 영화가 재미있었어요.</g>
+<g>3. 지금 밥을 먹어요.</g>
+
+5.
+
+### Question: 다음 중 밑줄 친 부분이 맞는 문장을 고르십시오.
+### Answer choices:
+1.  저는 한국어를 조금 <u>배웁니다</u>.
+2.  어제 날씨가 아주 <u>좋아요</u>.
+3.  지금 음악을 <u>듣습니다</u>.
+4.  내일 시험을 <u>봅니다</u>.
+### Correct answer: 1
+### Vietnamese explanation:
+저는 한국어를 조금 배웁니다.
+Tôi học tiếng Hàn một chút.
+--------------------
+-   V + ㅂ니다/습니다: Đuôi câu trần thuật, nghi vấn, mệnh lệnh, thỉnh dụ trang trọng.
+-   V + 아/어요: Đuôi câu trần thuật, nghi vấn, mệnh lệnh, thỉnh dụ thân mật.
+
+1.  어제 날씨가 아주 좋았어요.
+2.  지금 음악을 들어요.
+3.  내일 시험을 봐요.
+### English explanation:
+<g>저는 한국어를 조금 배웁니다.</g>
+I learn a little Korean.
+--------------------
+<g>V + ㅂ니다/습니다</g>: Formal ending for declarative, interrogative, imperative, and propositive sentences.
+<g>V + 아/어요</g>: Informal ending for declarative, interrogative, imperative, and propositive sentences.
+
+<g>2. 어제 날씨가 아주 좋았어요.</g>
+<g>3. 지금 음악을 들어요.</g>
+<g>4. 내일 시험을 봐요.</g>
+
+6.
+
+### Question: 다음 중 밑줄 친 부분이 맞는 문장을 고르십시오.
+### Answer choices:
+1.  저는 매일 아침 빵을 <u>먹어요</u>.
+2.  어제 친구를 <u>만납니다</u>.
+3.  지금 숙제를 <u>합니다</u>.
+4.  내일 영화를 <u>봅니다</u>.
+### Correct answer: 1
+### Vietnamese explanation:
+저는 매일 아침 빵을 먹어요.
+Tôi ăn bánh mì vào mỗi buổi sáng.
+--------------------
+-   V + 아/어요: Đuôi câu trần thuật, nghi vấn, mệnh lệnh, thỉnh dụ thân mật.
+-   V + ㅂ니다/습니다: Đuôi câu trần thuật, nghi vấn, mệnh lệnh, thỉnh dụ trang trọng.
+
+1.  어제 친구를 만났어요.
+2.  지금 숙제를 해요.
+3.  내일 영화를 봐요.
+### English explanation:
+<g>저는 매일 아침 빵을 먹어요.</g>
+I eat bread every morning.
+--------------------
+<g>V + 아/어요</g>: Informal ending for declarative, interrogative, imperative, and propositive sentences.
+<g>V + ㅂ니다/습니다</g>: Formal ending for declarative, interrogative, imperative, and propositive sentences.
+
+<g>2. 어제 친구를 만났어요.</g>
+<g>3. 지금 숙제를 해요.</g>
+<g>4. 내일 영화를 봐요.</g>
+
+7.
+
+### Question: 다음 중 밑줄 친 부분이 맞는 문장을 고르십시오.
+### Answer choices:
+1.  저는 주말에 등산을 <u>갑니다</u>.
+2.  어제 비가 많이 <u>왔어요</u>.
+3.  지금 책을 <u>읽습니다</u>.
+4.  내일 친구 집에 <u>가요</u>.
+### Correct answer: 2
+### Vietnamese explanation:
+어제 비가 많이 왔어요.
+Hôm qua trời mưa rất nhiều.
+--------------------
+-   V + 아/어요: Đuôi câu trần thuật, nghi vấn, mệnh lệnh, thỉnh dụ thân mật.
+-   V + ㅂ니다/습니다: Đuôi câu trần thuật, nghi vấn, mệnh lệnh, thỉnh dụ trang trọng.
+
+1.  저는 주말에 등산을 가요.
+2.  지금 책을 읽어요.
+3.  내일 친구 집에 갈 거예요.
+### English explanation:
+<g>어제 비가 많이 왔어요.</g>
+It rained a lot yesterday.
+--------------------
+<g>V + 아/어요</g>: Informal ending for declarative, interrogative, imperative, and propositive sentences.
+<g>V + ㅂ니다/습니다</g>: Formal ending for declarative, interrogative, imperative, and propositive sentences.
+
+<g>1. 저는 주말에 등산을 가요.</g>
+<g>3. 지금 책을 읽어요.</g>
+<g>4. 내일 친구 집에 갈 거예요.</g>
+
+8.
+
+### Question: 다음 중 밑줄 친 부분이 맞는 문장을 고르십시오.
+### Answer choices:
+1.  저는 매일 한국 뉴스를 <u>봅니다</u>.
+2.  어제 숙제를 안 <u>했어요</u>.
+3.  지금 커피를 <u>마십니다</u>.
+4.  내일 시험이 <u>있어요</u>.
+### Correct answer: 2
+### Vietnamese explanation:
+어제 숙제를 안 했어요.
+Hôm qua tôi đã không làm bài tập.
+--------------------
+-   V + 아/어요: Đuôi câu trần thuật, nghi vấn, mệnh lệnh, thỉnh dụ thân mật.
+-   V + ㅂ니다/습니다: Đuôi câu trần thuật, nghi vấn, mệnh lệnh, thỉnh dụ trang trọng.
+
+1.  저는 매일 한국 뉴스를 봐요.
+2.  지금 커피를 마셔요.
+3.  내일 시험이 있을 거예요.
+### English explanation:
+<g>어제 숙제를 안 했어요.</g>
+I didn't do my homework yesterday.
+--------------------
+<g>V + 아/어요</g>: Informal ending for declarative, interrogative, imperative, and propositive sentences.
+<g>V + ㅂ니다/습니다</g>: Formal ending for declarative, interrogative, imperative, and propositive sentences.
+
+<g>1. 저는 매일 한국 뉴스를 봐요.</g>
+<g>3. 지금 커피를 마셔요.</g>
+<g>4. 내일 시험이 있을 거예요.</g>
+
+9.
+
+### Question: 다음 중 밑줄 친 부분이 맞는 문장을 고르십시오.
+### Answer choices:
+1.  저는 보통 주말에 <u>쉬어요</u>.
+2.  어제 친구를 <u>만납니다</u>.
+3.  지금 음악을 <u>듣습니다</u>.
+4.  내일 영화를 <u>봅니다</u>.
+### Correct answer: 1
+### Vietnamese explanation:
+저는 보통 주말에 쉬어요.
+Tôi thường nghỉ ngơi vào cuối tuần.
+--------------------
+-   V + 아/어요: Đuôi câu trần thuật, nghi vấn, mệnh lệnh, thỉnh dụ thân mật.
+-   V + ㅂ니다/습니다: Đuôi câu trần thuật, nghi vấn, mệnh lệnh, thỉnh dụ trang trọng.
+
+1.  어제 친구를 만났어요.
+2.  지금 음악을 들어요.
+3.  내일 영화를 봐요.
+### English explanation:
+<g>저는 보통 주말에 쉬어요.</g>
+I usually rest on weekends.
+--------------------
+<g>V + 아/어요</g>: Informal ending for declarative, interrogative, imperative, and propositive sentences.
+<g>V + ㅂ니다/습니다</g>: Formal ending for declarative, interrogative, imperative, and propositive sentences.
+
+<g>2. 어제 친구를 만났어요.</g>
+<g>3. 지금 음악을 들어요.</g>
+<g>4. 내일 영화를 봐요.</g>
+
+10.
+
+### Question: 다음 중 밑줄 친 부분이 맞는 문장을 고르십시오.
+### Answer choices:
+1.  저는 매일 아침 6시에 <u>일어납니다</u>.
+2.  어제 숙제를 <u>했어요</u>.
+3.  지금 밥을 <u>먹습니다</u>.
+4.  내일 친구를 <u>만나요</u>.
+### Correct answer: 2
+### Vietnamese explanation:
+어제 숙제를 했어요.
+Hôm qua tôi đã làm bài tập.
+--------------------
+-   V + 아/어요: Đuôi câu trần thuật, nghi vấn, mệnh lệnh, thỉnh dụ thân mật.
+-   V + ㅂ니다/습니다: Đuôi câu trần thuật, nghi vấn, mệnh lệnh, thỉnh dụ trang trọng.
+
+1.  저는 매일 아침 6시에 일어나요.
+2.  지금 밥을 먹어요.
+3.  내일 친구를 만날 거예요.
+### English explanation:
+<g>어제 숙제를 했어요.</g>
+I did my homework yesterday.
+--------------------
+<g>V + 아/어요</g>: Informal ending for declarative, interrogative, imperative, and propositive sentences.
+<g>V + ㅂ니다/습니다</g>: Formal ending for declarative, interrogative, imperative, and propositive sentences.
+
+<g>1. 저는 매일 아침 6시에 일어나요.</g>
+<g>3. 지금 밥을 먹어요.</g>
+<g>4. 내일 친구를 만날 거예요.</g>
+
+Tôi hy vọng những câu hỏi này hữu ích cho việc luyện thi EPS của bạn! Nếu bạn cần thêm câu hỏi hoặc có bất kỳ yêu cầu nào khác, đừng ngần ngại cho tôi biết.

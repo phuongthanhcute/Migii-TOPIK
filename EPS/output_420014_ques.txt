@@ -1,0 +1,65 @@
+Tuyệt vời! Dưới đây là một câu hỏi trắc nghiệm được tạo theo yêu cầu của bạn:
+
+1.  ### Tài liệu đầu vào:
+
+    **업무 분담 대화**
+
+    A: 이번 프로젝트 업무 분담 어떻게 할까요?
+
+    B: 저는 설계 부분을 맡겠습니다.
+
+    A: 그럼 저는 테스트 부분을 담당할게요.
+
+    B: 좋아요. 서로 협력해서 잘 진행해 봅시다.
+
+    ### Danh sách đáp án:
+
+    1.  A는 프로젝트의 설계 부분을 맡기로 했습니다.
+    2.  B는 프로젝트의 테스트 부분을 맡기로 했습니다.
+    3.  A와 B는 서로 협력하여 프로젝트를 진행하기로 했습니다.
+    4.  A와 B는 프로젝트를 혼자서 진행하기로 했습니다.
+
+    ### Đáp án đúng: 3
+
+    ### Giải thích tiếng Việt:
+
+    **업무 분담 대화 (Cuộc trò chuyện về phân công công việc)**
+
+    A: 이번 프로젝트 업무 분담 어떻게 할까요? (Chúng ta sẽ phân công công việc cho dự án này như thế nào?)
+
+    B: 저는 설계 부분을 맡겠습니다. (Tôi sẽ đảm nhận phần thiết kế.)
+
+    A: 그럼 저는 테스트 부분을 담당할게요. (Vậy thì tôi sẽ đảm nhận phần kiểm thử.)
+
+    B: 좋아요. 서로 협력해서 잘 진행해 봅시다. (Tốt thôi. Chúng ta hãy hợp tác với nhau để hoàn thành tốt nhé.)
+
+    1.  A quyết định đảm nhận phần thiết kế của dự án.
+    2.  B quyết định đảm nhận phần kiểm thử của dự án.
+    3.  A và B đã quyết định hợp tác với nhau để thực hiện dự án.
+    4.  A và B đã quyết định tự mình thực hiện dự án.
+
+    --------------------
+
+    서로 협력해서 잘 진행해 봅시다 (Chúng ta hãy hợp tác với nhau để hoàn thành tốt nhé.) => A và B đã quyết định hợp tác với nhau để thực hiện dự án.
+
+    ### Giải thích tiếng Anh: (chứa thẻ <g></g> với các nội dung tiếng Hàn)
+
+    <g>업무 분담 대화</g> (Work division conversation)
+
+    A: <g>이번 프로젝트 업무 분담 어떻게 할까요?</g> (How should we divide the work for this project?)
+
+    B: <g>저는 설계 부분을 맡겠습니다.</g> (I will take on the design part.)
+
+    A: <g>그럼 저는 테스트 부분을 담당할게요.</g> (Then I will take charge of the testing part.)
+
+    B: <g>좋아요. 서로 협력해서 잘 진행해 봅시다.</g> (Okay. Let's cooperate and do well together.)
+
+    1.  A decided to take on the design part of the project.
+    2.  B decided to take on the testing part of the project.
+    3.  A and B decided to cooperate with each other to carry out the project.
+    4.  A and B decided to carry out the project by themselves.
+
+    --------------------
+
+    <g>서로 협력해서 잘 진행해 봅시다</g> (Let's cooperate and do well together.) => A and B decided to cooperate with each other to carry out the project.
+

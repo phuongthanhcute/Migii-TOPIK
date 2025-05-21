@@ -1,0 +1,2959 @@
+1.  ### Text Audio:
+        여자: 안녕하세요? 저는 네팔 사람입니다.
+        남자: 안녕하세요? 저는 몽골 사람입니다.
+### Vietnamese:
+        Nữ: Xin chào? Tôi là người Nepal. 
+        Nam: Xin chào? Tôi là người Mông Cổ.
+        
+### English:
+        Woman: Hello? I am from Nepal. 
+        Man: Hello? I am from Mongolia.
+        
+### Answer:
+        
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Tên 
+        2. Tuổi 
+        3. Quốc tịch 
+        4. Giới tính
+        ------------------
+        네팔 사람, 몽골 사람 => 국적.
+### English Explain:
+        1. Name 
+        2. Age 
+        3. Nationality 
+        4. Gender
+        ------------------
+        <g>네팔 사람, 몽골 사람 => 국적.</g>
+
+2.  ### Text Audio:
+        남자: 어부입니까?
+        여자: 아니요. 저는 농부입니다.
+### Vietnamese:
+        Nam: Cô là ngư dân à? 
+        Nữ: Không, tôi là nông dân.
+### English:
+        Man: Are you a fisherman? 
+        Woman: No, I am a farmer.
+        
+### Answer:
+        
+### Correct Answer: 2
+### Vietnamese Explain:
+        1. Quê quán 
+        2. Nghề nghiệp 
+        3. Tên 
+        4. Quốc tịch
+        ------------------
+        어부, 농부 => 직업.
+### English Explain:
+        1. Hometown 
+        2. Job 
+        3. Name 
+        4. Nationality
+        ------------------
+        <g>어부, 농부 => 직업.</g>
+
+3.  ### Text Audio:
+        남자: 가방에 뭐가 있어요?
+        여자: 열쇠하고 지갑이 있어요. 그리고 여권도 있어요.
+### Vietnamese:
+        Nam: Trong túi cô có gì? 
+        Nữ: Có chìa khóa và ví. Và còn có hộ chiếu.
+### English:
+        Man: What's in your bag? 
+        Woman: There are keys and a wallet. And also a passport.
+        
+### Answer:
+        
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Quốc tịch 
+        2. Tuổi 
+        3. Đồ vật 
+        4. Nghề nghiệp
+        ------------------
+        열쇠, 지갑, 여권 => 물건.
+### English Explain:
+        1. Nationality 
+        2. Age 
+        3. Object
+        4. Job
+        ------------------
+        <g>열쇠, 지갑, 여권 => 물건.</g>
+
+4.  ### Text Audio:
+        남자: 집에 에어컨이 있어요?
+        여자: 에어컨은 없어요. 선풍기가 있어요.
+### Vietnamese:
+        Nam: Nhà cô có điều hoà không? 
+        Nữ: Không có điều hoà. Có quạt điện.
+### English:
+        Man: Do you have air conditioning at home? 
+        Woman: No, there's no air conditioning. There's an electric fan.
+        
+### Answer:
+        
+### Correct Answer: 4
+### Vietnamese Explain:
+        1. Việc nhà 
+        2. Cách nấu 
+        3. Giao thông công cộng 
+        4. Thiết bị điện tử
+        ------------------
+        에어컨, 선풍기 => 전자제품.
+### English Explain:
+        1. Housework 
+        2. Cooking recipe 
+        3. Public transportation 
+        4. Electronic product
+        ------------------
+        <g>에어컨, 선풍기 => 전자제품.</g>
+
+5.  ### Text Audio:
+        여자: 8월 7일이 무슨 요일이에요?
+        남자: 월요일이에요. 
+### Vietnamese:
+        Nữ: Ngày 7 tháng 8 là thứ mấy? 
+        Nam: Là thứ hai.
+### English:
+        Woman: What day of the week is August 7th? 
+        Man: It's Monday.
+### Answer:
+        
+### Correct Answer: 2
+### Vietnamese Explain:
+        1. Thời tiết 
+        2. Các thứ trong tuần
+        3. Thức ăn 
+        4. Tên
+        ------------------
+        월요일 => 요일.
+### English Explain:
+        1. Weather 
+        2. Day of the week 
+        3. Food 
+        4. Name
+        ------------------
+        <g>월요일 => 요일.</g>
+
+6.  ### Text Audio:
+        여자: 비가 계속 오네요.
+        남자: 일기예보에서 밤까지 비가 올 거라고 했어요. 
+### Vietnamese:
+        Nữ: Mưa liên tục nhỉ. 
+        Nam: Dự báo thời tiết nói mưa sẽ kéo dài đến tối.
+        
+### English:
+        Woman: It's still raining. 
+        Man: The weather forecast said it would rain until tonight.
+        
+### Answer:
+        
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Vị trí 
+        2. Đặt hàng 
+        3. Thời tiết 
+        4. Các thứ trong tuần
+        ------------------
+        비가 오다 => 날씨.
+### English Explain:
+        1. Location 
+        2. Order 
+        3. Weather 
+        4. Day of the week
+        ------------------
+        <g>비가 오다 => 날씨.</g>
+
+7.  ### Text Audio:
+        남자: 이분이 딜로바 씨 아버지세요?
+        여자: 네. 그리고 그 옆에 계신 분은 제 어머니세요.
+### Vietnamese:
+        Nam: Vị này là bố của cô phải không, Dilova? 
+        Nữ: Vâng, và người bên cạnh là mẹ của tôi.
+### English:
+        Man: Is this your father, Dilova?
+        Woman: Yes, and the person next to him is my mother.
+### Answer:
+        
+### Correct Answer: 1
+### Vietnamese Explain:
+        1. Gia đình 
+        2. Quê quán 
+        3. Tuổi 
+        4. Bạn bè
+        ------------------
+        아버지, 어머니 => 가족.
+### English Explain:
+        1. Family 
+        2. Hometown 
+        3. Age 
+        4. Friends
+        ------------------
+        <g>아버지, 어머니 => 가족.</g>
+
+8.  ### Text Audio:
+        남자: 동생도 닛차난 씨처럼 키가 커요?
+        여자: 아니요. 제 동생은 키가 작아요.
+### Vietnamese:
+        Nam: Em của cô Nitchanan cũng cao như cô sao? 
+        Nữ: Không. Em tôi thấp.
+        
+### English:
+        Man: Is your younger sibling as tall as you, Nitchanan? 
+        Woman: No. My younger sibling is shorter.
+        
+### Answer:
+        
+### Correct Answer: 2
+### Vietnamese Explain:
+        1. Tính cách 
+        2. Ngoại hình 
+        3. Nghề nghiệp 
+        4. Sở thích
+        ------------------
+        키가 크다, 키가 작다 => 외모.
+### English Explain:
+        1. Personality 
+        2. Appearance 
+        3. Job 
+        4. Hobby
+        ------------------
+        <g>키가 크다, 키가 작다 => 외모.</g>
+
+9.  ### Text Audio:
+        남자: 뭐가 맛있어요?
+        여자: 불고기가 맛있어요.
+### Vietnamese:
+        Nam: Món nào ngon? 
+        Nữ: Bulgogi ngon.
+### English:
+        Man: What's delicious? 
+        Woman: Bulgogi is delicious.
+        
+### Answer:
+        
+### Correct Answer: 4
+### Vietnamese Explain:
+        1. Thể thao 
+        2. Mua sắm 
+        3. Sở thích 
+        4. Đồ ăn
+        ------------------
+        불고기, 맛있다 => 음식.
+### English Explain:
+        1. Sports 
+        2. Shopping 
+        3. Hobby 
+        4. Food
+        ------------------
+        <g>불고기, 맛있다 => 음식.</g>
+
+10.  ### Text Audio:
+        남자: 이 티셔츠는 오만 원이에요.
+        여자: 티셔츠가 비싸네요. 좀 깎아 주세요.
+### Vietnamese:
+        Nam: Áo thun này giá năm mươi ngàn won. 
+        Nữ: Áo thun đắt quá. Hãy giảm giá cho tôi chút.
+        
+### English:
+        Man: This T-shirt is fifty thousand won. 
+        Woman: The T-shirt is expensive. Please give me a discount.
+        
+### Answer:
+        
+### Correct Answer: 1
+### Vietnamese Explain:
+        1. Giá cả 
+        2. Thời tiết 
+        3. Địa điểm 
+        4. Nghề nghiệp
+        ------------------
+        오만 원, 비싸다, 깎다 => 가격.
+### English Explain:
+        1. Price 
+        2. Weather 
+        3. Place 
+        4. Job
+        ------------------
+        <g>오만 원, 비싸다, 깎다 => 가격.</g>
+
+11.  ### Text Audio:
+        여자: 노란색을 좋아해요?
+        남자: 아니요, 파란색을 좋아해요.
+### Vietnamese:
+        Nữ: Anh có thích màu vàng không? 
+        Nam: Không, tôi thích màu xanh dương.
+### English:
+        Woman: Do you like yellow? 
+        Man: No, I like blue.
+        
+### Answer:
+        
+### Correct Answer: 4
+### Vietnamese Explain:
+        1. Thời tiết 
+        2. Các thứ trong tuần 
+        3. Sở thích 
+        4. Màu sắc
+        ------------------
+        노란색, 파란색 => 색깔.
+### English Explain:
+        1. Weather 
+        2. Day of the week 
+        3. Hobby 
+        4. Color
+        ------------------
+        <g>노란색, 파란색 => 색깔.</g>
+
+12.  ### Text Audio:
+        남자: 이 원룸은 한 달에 얼마예요?
+        여자: 한 달에 50만 원이에요.
+### Vietnamese:
+        Nam: Căn hộ một phòng này mỗi tháng bao nhiêu tiền? 
+        Nữ: Năm trăm nghìn won một tháng.
+        
+### English:
+        Man: How much is this studio apartment per month? 
+        Woman: It's 500,000 won per month.
+### Answer:
+        
+### Correct Answer: 1
+### Vietnamese Explain:
+        1. Tiền thuê nhà hàng tháng 
+        2. Lương tháng 
+        3. Tiền hợp đồng 
+        4. Tiền đảm bảo
+        ------------------
+        원룸, 한 달, 50만 원 => 월세.
+### English Explain:
+        1. Monthly rent 
+        2. Monthly salary 
+        3. Contract deposit 
+        4. Security deposit
+        ------------------
+        <g>원룸, 한 달, 50만 원 => 월세.</g>
+
+13.  ### Text Audio:
+        여자: 제주도는 어땠어요?
+        남자: 아주 좋았어요. 경치도 좋고 음식도 맛있었어요.
+### Vietnamese:
+        Nữ: Anh thấy đảo Jeju thế nào?
+        Nam: Rất tuyệt. Phong cảnh đẹp và đồ ăn ngon.
+### English:
+        Woman: How was Jeju Island?
+        Man: It was very nice. The scenery was nice and the food was delicious.
+### Answer:
+        
+### Correct Answer: 2
+### Vietnamese Explain:
+        1. Thể thao 
+        2. Du lịch 
+        3. Cuộc hẹn 
+        4. Triệu chứng
+        ------------------
+        제주도, 경치, 음식 => 여행.
+### English Explain:
+        1. Sports 
+        2. Travel 
+        3. Appointment 
+        4. Symptoms
+        ------------------
+        <g>제주도, 경치, 음식 => 여행.</g>
+
+14.  ### Text Audio:
+        남자: 저는 영화 보는 것을 좋아해서 영화관에 자주 가요. 딜로바 씨는요?
+        여자: 저는 등산을 좋아해요.
+### Vietnamese:
+        Nam: Tôi thích xem phim nên thường xuyên đi rạp. Còn cô Dilova thì sao? 
+        Nữ: Tôi thích leo núi.
+### English:
+        Man: I like watching movies so I often go to the cinema. How about you, Dilova? 
+        Woman: I like hiking.
+        
+### Answer:
+        
+### Correct Answer: 1
+### Vietnamese Explain:
+        1. Sở thích 
+        2. Nghề nghiệp 
+        3. Giao thông 
+        4. Tính cách
+        ------------------
+        영화 보는 것, 등산 => 취미.
+### English Explain:
+        1. Hobby 
+        2. Job 
+        3. Transportation 
+        4. Personality
+        ------------------
+        <g>영화 보는 것, 등산 => 취미.</g>
+
+15.  ### Text Audio:
+        남자: 찌개 맛이 어때요?
+        여자: 조금 싱거워요.
+### Vietnamese:
+        Nam: Hương vị món canh thế nào? 
+        Nữ: Hơi nhạt.
+### English:
+        Man: How does the stew taste? 
+        Woman: A bit bland.
+        
+### Answer:
+        
+### Correct Answer: 4
+### Vietnamese Explain:
+        1. Vị trí nhà hàng 
+        2. Nguyên liệu nấu ăn 
+        3. Địa điểm ăn uống 
+        4. Hương vị món ăn
+        ------------------
+        찌개 맛, 싱겁다 => 음식의 맛.
+### English Explain:
+        1. Restaurant location 
+        2. Cooking ingredients 
+        3. Dining place 
+        4. Taste of food
+        ------------------
+        <g>찌개 맛, 싱겁다 => 음식의 맛.</g>
+
+16.  ### Text Audio:
+        남자: 불고기를 만들려면 어떤 고기를 사야 해요?
+        여자: 소고기, 돼지고기 모두 괜찮아요.
+### Vietnamese:
+        Nam: Để làm bulgogi, cần mua loại thịt nào? 
+        Nữ: Bò hoặc heo đều được.
+        
+### English:
+        Man: What kind of meat should I buy to make bulgogi? 
+        Woman: Beef or pork is fine.
+        
+### Answer:
+        
+### Correct Answer: 1
+### Vietnamese Explain:
+        1. Nguyên liệu 
+        2. Giá cả 
+        3. Sức khỏe 
+        4. Mua sắm
+        ------------------
+        불고기, 소고기, 돼지고기 => 재료.
+### English Explain:
+        1. Ingredients 
+        2. Price 
+        3. Health 
+        4. Shopping
+        ------------------
+        <g>불고기, 소고기, 돼지고기 => 재료.</g>
+
+17.  ### Text Audio:
+        남자: 아지자 씨, 눈이 아파요? 눈이 빨개요.
+        여자: 네, 아침부터 눈이 아프고 눈물이 나요.
+### Vietnamese:
+        Nam: Aziza, cô bị đau mắt sao? Mắt cô bị đỏ. 
+        Nữ: Vâng, mắt tôi đau và chảy nước mắt từ sáng.
+        
+### English:
+        Man: Aziza, are your eyes hurting? They're red. 
+        Woman: Yes, my eyes have been hurting and watering since this morning.
+        
+### Answer:
+        
+### Correct Answer: 4
+### Vietnamese Explain:
+        1. Vị trí 
+        2. Màu sắc 
+        3. Giao thông 
+        4. Triệu chứng
+        ------------------
+        눈이 아프다, 눈이 빨갛다, 눈이 나다 => 증상.
+### English Explain:
+        1. Location 
+        2. Color 
+        3. Transportation 
+        4. Symptoms
+        ------------------
+        <g>눈이 아프다, 눈이 빨갛다, 눈이 나다 => 증상.</g>
+
+18.  ### Text Audio:
+        여자: 어깨가 좀 아프네요. 파스 좀 주세요.
+        남자: 네, 여기 있습니다. 파스를 붙이고 찜질도 해 보세요.
+### Vietnamese:
+        Nữ: Vai tôi hơi đau. Hãy cho tôi miếng dán giảm đau. 
+        Nam: Vâng, đây ạ. Hãy dán miếng giảm đau và thử chườm nóng nhé.
+        
+### English:
+        Woman: My shoulder hurts a bit. Please give me a pain relief patch. 
+        Man: Sure, here it is. Apply the patch and try a warm compress.
+        
+### Answer:
+        
+### Correct Answer: 2
+### Vietnamese Explain:
+        1. Số lần điều trị 
+        2. Phương pháp điều trị 
+        3. Thời gian điều trị 
+        4. Địa điểm điều trị
+        ------------------
+        파스를 붙이다, 찜질을 하다 => 치료 방법.
+### English Explain:
+        1. Number of treatments 
+        2. Treatment method 
+        3. Treatment duration 
+        4. Treatment location
+        ------------------
+        <g>파스를 붙이다, 찜질을 하다 => 치료 방법.</g>
+
+19.  ### Text Audio:
+        남자: 이 서류를 부산으로 보내고 싶은데 뭐가 가장 빨라요?
+        여자: 익일 특급이 가장 빠릅니다. 지금 보내면 내일 도착합니다. 
+### Vietnamese:
+        Nam: Tôi muốn gửi tài liệu này đến Busan, cách nào nhanh nhất? 
+        Nữ: Dịch vụ chuyển phát nhanh ngày hôm sau là nhanh nhất. Nếu gửi bây giờ, ngày mai nó sẽ đến ạ.
+### English:
+        Man: I want to send this document to Busan. What is the fastest way? 
+        Woman: Next-day express delivery is the fastest. If you send it now, it will arrive tomorrow.
+        
+### Answer:
+        
+### Correct Answer: 4
+### Vietnamese Explain:
+        1. Phí vận chuyển 
+        2. Địa điểm giao hàng 
+        3. Tra cứu vận chuyển 
+        4. Phương thức vận chuyển
+        ------------------
+        익일 특급 => 배송 방법.
+### English Explain:
+        1. Delivery cost 
+        2. Delivery location 
+        3. Delivery tracking 
+        4. Delivery method
+        ------------------
+        <g>익일 특급 => 배송 방법.</g>
+
+20.  ### Text Audio:
+        남자: 어제 은행에 가서 뭘 했어요?
+        여자: 고향에 돈을 좀 보냈어요.
+### Vietnamese:
+        Nam: Hôm qua cô đến ngân hàng làm gì? 
+        Nữ: Tôi đã gửi một ít tiền về quê.
+### English:
+        Man: What did you do at the bank yesterday? 
+        Woman: I sent some money to my hometown.
+        
+### Answer:
+        
+### Correct Answer: 2
+### Vietnamese Explain:
+        1. Nạp tiền 
+        2. Chuyển tiền 
+        3. Rút tiền 
+        4. Số dư
+        ------------------
+        고향에 돈을 보내다 => 송금.
+### English Explain:
+        1. Deposit 
+        2. Remittance 
+        3. Withdrawal 
+        4. Balance
+        ------------------
+        <g>고향에 돈을 보내다 => 송금.</g>
+
+21.  ### Text Audio:
+        남자: 한국 사람들은 더운 여름에 뭘 먹어요?
+        여자: 시원한 냉면이나 삼계탕을 많이 먹어요.
+### Vietnamese:
+        Nam: Người Hàn Quốc ăn gì vào mùa hè nóng bức? 
+        Nữ: Họ thường ăn mì lạnh hoặc gà hầm sâm.
+        
+### English:
+        Man: What do Koreans eat in the hot summer? 
+        Woman: They often eat cold noodles or ginseng chicken soup.
+        
+### Answer:
+        
+### Correct Answer: 1
+### Vietnamese Explain:
+        1. Thức ăn 
+        2. Mùa 
+        3. Du lịch 
+        4. Kỳ nghỉ
+        ------------------
+        냉면, 삼계탕 => 음식.
+### English Explain:
+        1. Food 
+        2. Season 
+        3. Travel 
+        4. Vacation
+        ------------------
+        <g>냉면, 삼계탕 => 음식.</g>
+
+22.  ### Text Audio:
+        남자: 이번 주 토요일이 할아버지 칠순인데 무엇을 사 드리면 좋을까요?
+        여자: 용돈을 드리는 게 어때요?
+### Vietnamese:
+        Nam: Thứ Bảy tuần này là lễ mừng thọ 70 tuổi của ông tôi, tôi nên mua gì tặng ông? 
+        Nữ: Sao anh không tặng tiền mừng?
+### English:
+        Man: This Saturday is my grandfather's 70th birthday. What should I buy for him? 
+        Woman: How about giving him some money?
+        
+### Answer:
+        
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Ngày tháng
+        2. Giới tính
+        3. Quà tặng
+        4. Mua sắm
+        ------------------
+        칠순, 사 드리다, 용돈을 드리는 게 => 선물.
+### English Explain:
+        1. Date
+        2. Gender
+        3. Gift
+        4. Shopping
+        ------------------
+        <g>칠순, 사 드리다, 용돈을 드리는 게 => 선물.</g>
+
+23.  ### Text Audio:
+        여자: 한국 사람들은 설날에 뭐 해요?
+        남자: 차례를 지내고 떡국을 먹어요.
+### Vietnamese:
+        Nữ: Người Hàn Quốc làm gì vào dịp Tết? 
+        Nam: Họ làm lễ cúng tổ tiên và ăn canh bánh gạo.
+        
+### English:
+        Woman: What do Koreans do on Lunar New Year? 
+        Man: They perform ancestral rites and eat rice cake soup.
+        
+### Answer:
+        
+### Correct Answer: 1
+### Vietnamese Explain:
+        1. Ngày lễ 
+        2. Quê hương 
+        3. Cuối tuần 
+        4. Du lịch
+        ------------------
+        설날 => 명절.
+### English Explain:
+        1. Holiday 
+        2. Hometown 
+        3. Weekend 
+        4. Travel
+        ------------------
+        <g>설날 => 명절.</g>
+
+24.  ### Text Audio:
+        여자: 어제 마트에 갔는데 아이가 혼자 뛰어다니는 것을 봤어요. 
+        남자: 사람들이 많은 장소에서 그러면 안 되는데……. 아이의 부모님은 없었어요?
+### Vietnamese:
+        Nữ: Hôm qua tôi đi siêu thị và thấy một đứa bé chạy nhảy một mình. 
+        Nam: Ở nơi đông người như vậy thì không nên… Bố mẹ đứa bé không có ở đó sao?
+        
+### English:
+        Woman: Yesterday, I went to the supermarket and saw a child running around alone. 
+        Man: That shouldn't happen in a crowded place… Weren't the child's parents there?
+        
+### Answer:
+        
+### Correct Answer: 1
+### Vietnamese Explain:
+        1. Lễ nghi phép tắc
+        2. Sự kiện 
+        3. Tư vấn 
+        4. Khám bệnh
+        ------------------
+        Hai người đang nói về việc cha mẹ không nên để con của mình chạy nhảy một mình ở nơi đông người => Lễ nghi phép tắc.
+### English Explain:
+        1. Etiquette 
+        2. Event 
+        3. Consultation 
+        4. Medical treatment
+        ------------------
+        The two people are talking about how parents shouldn't let their children run around alone in crowded places => Etiquette.
+
+25.  ### Text Audio:
+        남자: 여기 사람들이 왜 이렇게 많아요?  
+        여자: 근처에서 아이돌 그룹의 콘서트가 있어요.
+### Vietnamese:
+        Nam: Sao ở đây có nhiều người vậy? 
+        Nữ: Có một buổi concert của nhóm nhạc thần tượng gần đây.
+        
+### English:
+        Man: Why are there so many people here? 
+        Woman: There's an idol group concert nearby.
+        
+### Answer:
+        
+### Correct Answer: 4
+### Vietnamese Explain:
+        1. Sinh nhật 
+        2. Cổ vũ 
+        3. Mua sắm 
+        4. Làn sóng Hàn Quốc (Hallyu)
+        ------------------
+        아이돌 그룹, 콘서트 => 한류.
+### English Explain:
+        1. Birthday 
+        2. Support 
+        3. Shopping 
+        4. Korean Wave (Hallyu)
+        ------------------
+        <g>아이돌 그룹, 콘서트 => 한류.</g>
+
+26.  ### Text Audio:
+        남자: 새로 온 직원은 어때요?
+        여자: 성실하게 일해요. 그래서 반장님이 칭찬을 많이 하세요.
+### Vietnamese:
+        Nam: Nhân viên mới thế nào? 
+        Nữ: Người đó làm việc rất chăm chỉ. Vì vậy tổ trương khen nhiều lắm.
+        
+### English:
+        Man: How is the new employee? 
+        Woman: The new employee works diligently, so the team leader praises him/her a lot.
+### Answer:
+        
+### Correct Answer: 1
+### Vietnamese Explain:
+        1. Thái độ của nhân viên mới 
+        2. Ngoại hình của nhân viên mới 
+        3. Trang phục của nhân viên mới 
+        4. Quốc tịch của nhân viên mới
+        ------------------
+        성실하게 일하다 => 새로 온 직원의 태도.
+        
+        Lưu ý: 칭찬을 하세요 ở đây không phải câu cầu khiến (hãy...) mà là câu kể lịch sự dạng kính ngữ.
+        
+        칭찬을 하다 + (으)시 + 아/어요 => 칭찬을 하세요.
+### English Explain:
+        1. New employee's attitude 
+        2. New employee's appearance 
+        3. New employee's attire 
+        4. New employee's nationality
+        ------------------
+        <g>성실하게 일하다 => 새로 온 직원의 태도.</g>
+        
+        Note:<g>칭찬을 하세요</g> here is not an imperative sentence (please...) but a polite declarative sentence in honorific form.
+        
+        <g>칭찬을 하다 + (으)시 + 아/어요 => 칭찬을 하세요.</g>
+
+27.  ### Text Audio:
+        남자: 구내식당에서 밥을 먹으려고 하는데 현금으로 계산하면 돼요?
+        여자: 아니요. 먼저 식권을 산 다음에 식당 직원한테 식권을 줘야 돼요.
+### Vietnamese:
+        Nam: Tôi định ăn tại nhà ăn công ty, có thể trả bằng tiền mặt không? 
+        Nữ: Không. Anh phải mua phiếu ăn trước rồi đưa cho nhân viên nhà ăn.
+        
+### English:
+        Man: I want to eat at the company cafeteria. Can I pay with cash? 
+        Woman: No, you have to buy a meal ticket first and give it to the cafeteria staff.
+        
+### Answer:
+        
+### Correct Answer: 4
+### Vietnamese Explain:
+        1. Vị trí nhà ăn công ty 
+        2. Giá cả ở nhà ăn công ty 
+        3. Các món ăn ở nhà ăn công ty 
+        4. Cách sử dụng nhà ăn công ty
+        ------------------
+        Người phụ nữ hướng dẫn người đàn ông cách sử dụng nhà ăn công ty.
+### English Explain:
+        1. Company cafeteria location 
+        2. Company cafeteria price 
+        3. Company cafeteria menu
+        4. How to use the company cafeteria
+        ------------------
+        The woman instructs the man on how to use the company cafeteria.
+
+28.  ### Text Audio:
+        여자: 마두 씨 회사 동료들은 서로 친하게 잘 지내요? 
+        남자: 네, 서로 위해 주면서 즐겁게 일해요.
+### Vietnamese:
+        Nữ: Đồng nghiệp ở công ty của anh Madu có thân thiết không? 
+        Nam: Vâng, chúng tôi làm việc vui vẻ và luôn hỗ trợ nhau.
+        
+### English:
+        Woman: Are your colleagues close to each other, Madu? 
+        Man: Yes, we work happily and support each other.
+        
+### Answer:
+        
+### Correct Answer: 4
+### Vietnamese Explain:
+        1. Lễ nghi công sở 
+        2. Cấp trên tại nơi làm việc 
+        3. Công việc tại công ty 
+        4. Bầu không khí nơi làm việc
+        ------------------
+        Hai người đang nói về bầu không khí nơi làm việc của người đàn ông.
+### English Explain:
+        1. Workplace etiquette 
+        2. Workplace superior 
+        3. Workplace tasks 
+        4. Workplace atmosphere
+        ------------------
+        The two people are talking about the atmosphere at the man's workplace.
+
+29.  ### Text Audio:
+        남자: 왜 온도를 자주 확인하세요?
+        여자: 식품 창고는 온도 유지가 중요해요. 온도가 올라가면 안 되니까 자주 확인해야 돼요.
+### Vietnamese:
+        Nam: Sao cô thường xuyên kiểm tra nhiệt độ vậy? 
+        Nữ: Vì việc duy trì ổn định nhiệt độ ở kho thực phẩm rất quan trọng. Nếu nhiệt độ tăng lên thì không được nên tôi phải kiểm tra thường xuyên.
+        
+### English:
+        Man: Why do you check the temperature so often? 
+        Woman: Because maintaining a stable temperature is crucial in a food storage warehouse. I have to check it often because the temperature should not rise.
+### Answer:
+        
+### Correct Answer: 2
+### Vietnamese Explain:
+        1. Thay đổi công việc 
+        2. Điều cần lưu ý
+        3. Trình tự công việc 
+        4. Dọn dẹp sắp xếp
+        ------------------
+        Hai người đang nói về việc cần phải lưu ý kiểm tra nhiệt độ ở kho thực phẩm => Điều cần lưu ý.
+### English Explain:
+        1. Work change 
+        2. Precautions 
+        3. Work sequence 
+        4. Organization & tidiness
+        ------------------
+        The two people are talking about the need to check the temperature in a food storage warehouse => Precautions.
+
+30.  ### Text Audio:
+        남자: 상자를 차에 옮겨 실으면 될까요?
+        여자: 네, 위험할 수 있으니까 너무 높게 쌓지 않도록 하세요. 
+### Vietnamese:
+        Nam: Tôi chuyển và chất các thùng hàng lên xe nhé? 
+        Nữ: Vâng, nhưng hãy cẩn thận đừng chất quá cao, có thể nguy hiểm.
+### English:
+        Man: Should I move and load the boxes onto the truck? 
+        Woman: Yes, but be careful not to stack them too high, it could be dangerous.
+        
+### Answer:
+        
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Cách vận hành 
+        2. Thời gian sử dụng 
+        3. Lưu ý 
+        4. Quản lý cơ sở vật chất
+        ------------------
+        Hai người đang nói về việc không được chất thùng hàng quá cao => Điều cần lưu ý.
+### English Explain:
+        1. Operating method 
+        2. Usage time 
+        3. Precautions 
+        4. Facility management
+        ------------------
+        The two people are talking about not stacking boxes too high => Precautions.
+
+31.  ### Text Audio:
+        여자: 반장님, 밀링 머신의 먼지를 털고 작업해야 되지요? 
+        남자: 그럼요, 밀링 작업을 할 때는 작업대 위를 깨끗이 치우고 해야 돼요.
+### Vietnamese:
+        Nữ: Tổ trưởng, tôi cần lau bụi máy phay trước khi làm việc phải không? 
+        Nam: Đúng vậy, khi cô thực hiện công việc phay, cô phải dọn sạch bề mặt bệ làm việc.
+### English:
+        Woman: Team leader, should I clean the dust off the milling machine before starting work? 
+        Man: Of course, when you do milling work, you have to clean up the work surface.
+### Answer:
+        
+### Correct Answer: 2
+### Vietnamese Explain:
+        1. Trình tự vận hành 
+        2. Quy tắc làm việc 
+        3. Cách vận hành 
+        4. Trang phục làm việc
+        ------------------
+        Hai người đang nói về quy tắc cần tuân thủ trước khi thực hiện công việc phay.
+### English Explain:
+        1. Operating sequence 
+        2. Work rules
+        3. Operating method 
+        4. Work attire
+        ------------------
+        The two people are talking about the rules to follow before doing milling work.
+
+32.  ### Text Audio:
+        여자: 이 나사는 뭐로 조여야 돼요?
+        남자: 나사가 커서 제일 큰 드라이버로 조여야 돼요. 
+### Vietnamese:
+        Nữ: Tôi nên dùng gì để vặn con ốc này? 
+        Nam: Vì con ốc to, cô phải dùng tua vít lớn nhất để vặn nó.
+        
+### English:
+        Woman: What should I use to tighten this screw? 
+        Man: Since the screw is big, you should use the largest screwdriver to tighten it. 
+        
+### Answer:
+        
+### Correct Answer: 1
+### Vietnamese Explain:
+        1. Dụng cụ làm việc 
+        2. Trình tự làm việc 
+        3. Thời gian làm việc 
+        4. Địa điểm làm việc
+        ------------------
+        Hai người đang nói về dụng cụ làm việc cần thiết để vặn con ốc.
+### English Explain:
+        1. Working tool
+        2. Work order 
+        3. Work hours
+        4. Work location
+        ------------------
+        The two people are talking about the tool needed to tighten the screw.
+
+33.  ### Text Audio:
+        남자: 반장님이 표면을 깎으라고 하셨는데, 뭘로 깎아야 돼요?
+        여자: 이건 금속이라서 줄로 깎아야 돼요. 공구함에 줄이 있을 거예요.
+### Vietnamese:
+        Nam: Tổ trưởng bảo tôi gọt bề mặt này, tôi nên dùng gì? 
+        Nữ: Vì đây là kim loại, anh nên dùng dũa. Trong hộp dụng cụ chắc có dũa đấy.
+        
+### English:
+        Man: The team leader told me to cut the surface. What should I use? 
+        Woman: Since this is metal, you should use a file. There should be one in the toolbox.
+        
+### Answer:
+        
+### Correct Answer: 2
+### Vietnamese Explain:
+        1. Quy tắc làm việc 
+        2. Dụng cụ làm việc 
+        3. Trình tự làm việc 
+        4. Địa điểm làm việc
+        ------------------
+        Hai người đang nói về dụng cụ làm việc cần thiết để gọt bề mặt.
+### English Explain:
+        1. Work rules 
+        2. Working tool 
+        3. Work order 
+        4. Work location
+        ------------------
+        The two people are talking about the tool needed to cut the surface.
+
+34.  ### Text Audio:
+        여자: 날씨가 덥거나 습하면 원사가 변색될 수 있어요.
+        남자: 주기적으로 보관 창고의 온도와 습도를 확인하겠습니다.
+        여자: 확인 후 관리 대장에도 꼭 기록해 놓으세요.
+### Vietnamese:
+        Nữ: Khi trời nóng hoặc ẩm, sợi vải có thể bị đổi màu. 
+        Nam: Tôi sẽ kiểm tra nhiệt độ và độ ẩm trong kho thường xuyên. 
+        Nữ: Sau khi kiểm tra, hãy nhớ ghi vào sổ cái quản lý nhé.
+        
+### English:
+        Woman: If the weather is hot or humid, the yarn may discolor. 
+        Man: I will regularly check the temperature and humidity in the storage room. 
+        Woman: After checking, be sure to record it in the management ledger.
+### Answer:
+        
+### Correct Answer: 2
+### Vietnamese Explain:
+        1. Nhuộm sợi 
+        2. Quản lý sợi 
+        3. Mua sợi 
+        4. Đóng gói sợi
+        ------------------
+        Hai người đang nói về cách quản lý sợi.
+### English Explain:
+        1. Yarn dyeing 
+        2. Yarn management 
+        3. Yarn purchasing 
+        4. Yarn packaging
+        ------------------
+        The two people are talking about how to manage yarn.
+
+35.  ### Text Audio:
+        여자: 관을 모두 설치했는데 이제 땅을 메우면 되지요?
+        남자: 아니요, 먼저 모래와 자갈로 관 주변을 채우세요.
+### Vietnamese:
+        Nữ: Chúng tôi đã lắp đặt xong toàn bộ đường ống, bây giờ chỉ cần lấp đất lại đúng không? 
+        Nam: Không, trước tiên hãy lấp xung quanh đường ống bằng cát và sỏi.
+        
+### English:
+        Woman: We have installed all the pipes. Now we just need to fill in the ground, right? 
+        Man: No, first, fill around the pipes with sand and gravel.
+        
+### Answer:
+        
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Dụng cụ làm việc 
+        2. Thời gian làm việc 
+        3. Quy trình làm việc 
+        4. Hiện trường làm việc
+        ------------------
+        Hai người đang nói về thứ tự của các công việc.
+### English Explain:
+        1. Working tool
+        2. Work duration 
+        3. Work procedure 
+        4. Work site
+        ------------------
+        The two people are talking about the order of tasks.
+
+36.  ### Text Audio:
+        남자: 축사 청소는 다 했어요?
+        여자: 아니요, 아직 분뇨를 치우고 있어요.
+### Vietnamese:
+        Nam: Cô đã dọn dẹp chuồng trại xong chưa? 
+        Nữ: Chưa, tôi vẫn đang dọn phân.
+        
+### English:
+        Man: Have you finished cleaning the livestock barn? 
+        Woman: No, I'm still cleaning up the excrement.
+### Answer:
+        
+### Correct Answer: 4
+### Vietnamese Explain:
+        1. Chỉ thị công việc 
+        2. Trình tự công việc 
+        3. Dụng cụ làm việc 
+        4. Tình hình công việc
+        ------------------
+        Người phụ nữ báo cáo với người đàn ông về tình hình công việc.
+### English Explain:
+        1. Work instructions 
+        2. Work sequence 
+        3. Working tool
+        4. Work status
+        ------------------
+        The woman reports to the man about the work status.
+
+37.  ### Text Audio:
+        여자: 배에 오르기 전에 구명조끼를 입으세요.
+        남자: 네, 빨리 입고 오겠습니다.
+### Vietnamese:
+        Nữ: Hãy mặc áo phao trước khi lên thuyền. 
+        Nam: Vâng, tôi sẽ mặc ngay.
+        
+### English:
+        Woman: Put on a life jacket before boarding the boat. 
+        Man: Okay, I'll put it on right away.
+### Answer:
+        
+### Correct Answer: 4
+### Vietnamese Explain:
+        1. Thời gian làm việc 
+        2. Địa điểm làm việc 
+        3. Trình tự làm việc 
+        4. Trang phục làm việc
+        ------------------
+        구명조끼 => 작업 복장.
+### English Explain:
+        1. Work hours
+        2. Work location 
+        3. Work order 
+        4. Work attire
+        ------------------
+        <g>구명조끼 => 작업 복장.</g>
+
+38.  ### Text Audio:
+        남자: 깔판 작업을 모두 끝냈는데 밑받침 철물을 설치할까요? 
+        여자: 네, 그럽시다. 밑받침 철물 작업 후에 비계기둥을 세워 주세요.
+### Vietnamese:
+        Nam: Tôi đã hoàn thành công việc lắp đặt tấm ván sàn, giờ tôi lắp phụ kiện kim loại cơ bản nhé? 
+        Nữ: Vâng, hãy làm vậy. Sau khi lắp phụ kiện kim loại cơ bản, hãy dựng cột giàn giáo.
+### English:
+        Man: I have finished installing the floorboard. Should I install the base metal fittings now? 
+        Woman: Yes, let's do that. After installing the base metal fittings, set up the scaffold columns.
+### Answer:
+        
+### Correct Answer: 4
+### Vietnamese Explain:
+        1. Thái độ làm việc 
+        2. Địa điểm làm việc 
+        3. Quy tắc làm việc 
+        4. Trình tự làm việc
+        ------------------
+        Hai người đang nói về thứ tự của các công việc.
+### English Explain:
+        1. Work attitude 
+        2. Work location 
+        3. Work rules
+        4. Work sequence
+        ------------------
+        The two people are talking about the order of tasks.
+
+39.  ### Text Audio:
+        여자: 반장님, 레일을 깔기 시작할까요? 
+        남자: 지주부터 세우고 레일을 깔아야 해요.
+### Vietnamese:
+        Nữ: Tổ trưởng, tôi bắt đầu lắp đường ray nhé? 
+        Nam: Trước tiên, hãy dựng trụ đỡ rồi mới lắp đường ray.
+### English:
+        Woman: Team leader, can I start laying the rails? 
+        Man: You need to set up the support posts first before laying the rails.
+        
+### Answer:
+        
+### Correct Answer: 1
+### Vietnamese Explain:
+        1. Trình tự làm việc 
+        2. Địa điểm làm việc 
+        3. Thời gian làm việc 
+        4. Trang phục làm việc
+        ------------------
+        Hai người đang nói về thứ tự của các công việc.
+### English Explain:
+        1. Work order 
+        2. Work location 
+        3. Work hours
+        4. Work attire
+        ------------------
+        The two people are talking about the order of tasks.
+
+40.  ### Text Audio:
+        남자: 분 감기는 어떻게 해야 돼요?
+        여자: 먼저 마대로 분을 감은 후에 밴드로 다시 감아야 해요.
+### Vietnamese:
+        Nam: Tôi phải quấn rễ như thế nào?
+        Nữ: Trước tiên, hãy dùng vải bố quấn rễ, sau đó quấn thêm bằng dây đai.
+### English:
+        Man: How should I wrap the root-ball? 
+        Woman: First, wrap the root-ball with a burlap bag, then wrap it again with a band.
+### Answer:
+        
+### Correct Answer: 1
+### Vietnamese Explain:
+        1. Phương pháp làm việc 
+        2. Trang phục làm việc 
+        3. Môi trường làm việc 
+        4. Lịch trình làm việc
+        ------------------
+        Người phụ nữ hướng dẫn cho người đàn ông phương pháp quấn rễ cây.
+### English Explain:
+        1. Work method 
+        2. Work attire 
+        3. Work environment 
+        4. Work schedule
+        ------------------
+        The woman instructs the man on the method of wrapping the root-ball.
+
+41.  ### Text Audio:
+        여자: 객실에 올라가면 욕실부터 청소하면 되지요?
+        남자: 아니요, 창문을 열어 환기를 시키고 객실 청소부터 하세요. 욕실 청소는 마지막에 하세요.
+### Vietnamese:
+        Nữ: Khi lên phòng của khách, tôi nên dọn phòng tắm trước đúng không? 
+        Nam: Không, hãy mở cửa sổ để thông gió rồi dọn phòng trước. Dọn phòng tắm sau cùng.
+        
+### English:
+        Woman: When I go to the room, should I clean the bathroom first? 
+        Man: No, open the windows for ventilation first, then clean the room. Clean the bathroom last.
+        
+### Answer:
+        
+### Correct Answer: 4
+### Vietnamese Explain:
+        1. Dụng cụ dọn dẹp 
+        2. Thời gian dọn dẹp 
+        3. Thái độ dọn dẹp 
+        4. Trình tự dọn dẹp
+        ------------------
+        Người đàn ông cho người phụ nữ biết về trình tự dọn dẹp.
+### English Explain:
+        1. Cleaning tool
+        2. Cleaning time 
+        3. Cleaning attitude 
+        4. Cleaning order
+        ------------------
+        The man tells the woman about the cleaning order.
+
+42.  ### Text Audio:
+        여자: 며칠 전에 만든 빵인데 벌써 곰팡이가 폈어요.
+        남자: 빵은 실온에 오래 두면 안 돼요. 밀봉해서 냉동실에 보관해야 돼요.
+### Vietnamese:
+        Nữ: Bánh mì tôi làm vài ngày trước đã bị mốc rồi. 
+        Nam: Bánh mì không nên để ở nhiệt độ phòng quá lâu. Hãy bọc kín và bảo quản trong tủ đông.
+        
+### English:
+        Woman: The bread I made a few days ago has already gone moldy. 
+        Man: Bread shouldn't be left at room temperature for too long. You should seal it and store it in the freezer.
+        
+### Answer:
+        
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Trình tự bảo quản 
+        2. Loại hình bảo quản 
+        3. Phương pháp bảo quản 
+        4. Ngày bảo quản
+        ------------------
+        Người đàn ông nói cho người phụ nữ cách bảo quản bánh mì.
+### English Explain:
+        1. Storage order 
+        2. Storage type 
+        3. Storage method 
+        4. Storage date
+        ------------------
+        The man tells the woman how to store bread.
+
+43.  ### Text Audio:
+        여자: 작업장 안에서는 담배를 피우면 안 돼요. 불이 붙기 쉬운 것들이 많이 있어요.
+        남자: 죄송합니다. 앞으로는 작업장 안에서 담배를 피우지 않겠습니다.
+### Vietnamese:
+        Nữ: Không được hút thuốc trong xưởng làm việc đâu. Có rất nhiều vật dễ bắt lửa. 
+        Nam: Xin lỗi. Từ nay tôi sẽ không hút thuốc trong xưởng nữa.
+### English:
+        Woman: You must not smoke inside the workshop. There are many flammable materials. 
+        Man: I'm sorry. I won't smoke inside the workshop again.
+### Answer:
+        
+### Correct Answer: 4
+### Vietnamese Explain:
+        1. Kiểm tra cơ sở vật chất 
+        2. Trình tự công việc 
+        3. Môi trường làm việc 
+        4. Quy tắc an toàn
+        ------------------
+        Không được hút thuốc trong xưởng làm việc => Quy tắc an toàn.
+### English Explain:
+        1. Facility inspection 
+        2. Work sequence 
+        3. Work environment 
+        4. Safety rules
+        ------------------
+        No smoking in the workshop => Safety rules.
+
+44.  ### Text Audio:
+        남자: 산소가 얼마나 있는지 자주 확인하도록 하세요.
+        여자: 알겠습니다. 산소가 부족하면 작업을 중단하도록 하겠습니다.
+### Vietnamese:
+        Nam: Hãy thường xuyên kiểm tra lượng oxy. 
+        Nữ: Tôi hiểu rồi. Nếu thiếu oxy, tôi sẽ dừng công việc ngay.
+        
+### English:
+        Man: Make sure to check the oxygen level frequently. 
+        Woman: I got it. If there's a shortage of oxygen, I'll stop working immediately.
+### Answer:
+        
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Quản lý cơ sở vật chất 
+        2. Đánh giá công việc 
+        3. Quy tắc an toàn 
+        4. Thời gian làm việc
+        ------------------
+        Cần kiểm tra lượng oxy để đảm bảo an toàn tại nơi làm việc.
+### English Explain:
+        1. Facility management 
+        2. Work evaluation 
+        3. Safety rules
+        4. Work hours
+        ------------------
+        It is necessary to check the oxygen level to ensure safety in the workplace.
+
+45.  ### Text Audio:
+        남자: 전원을 꼭 차단해야 돼요?
+        여자: 그럼요. 전기 작업을 할 때에는 전원을 차단해야 돼요. 그리고 절연 장갑과 절연화도 꼭 착용해야 돼요.
+### Vietnamese:
+        Nam: Có cần phải cắt nguồn điện không? 
+        Nữ: Tất nhiên. Khi làm công việc điện, phải cắt nguồn điện. Và đừng quên đeo găng tay cách điện và giày cách điện.
+        
+### English:
+        Man: Do we have to cut off the power? 
+        Woman: Of course. When working with electricity, you must cut off the power. Also, be sure to wear insulated gloves and insulated shoes.
+### Answer:
+        
+### Correct Answer: 1
+### Vietnamese Explain:
+        1. Quy tắc làm việc 
+        2. Thời gian làm việc 
+        3. Địa điểm làm việc 
+        4. Dụng cụ làm việc
+        ------------------
+        Người phụ nữ cho biết các quy tắc cần tuân thủ khi làm công việc điện.
+### English Explain:
+        1. Work rules
+        2. Work hours
+        3. Work location 
+        4. Working tools
+        ------------------
+        The woman says the rules to follow when working with electricity.
+
+46.  ### Text Audio:
+        여자: 가스 냄새가 나는 것 같아요.
+        남자: 정말 냄새가 나네요. 빨리 밸브를 잠그고 창문을 엽시다.
+### Vietnamese:
+        Nữ: Tôi ngửi thấy mùi gas. 
+        Nam: Đúng là có mùi gas thật. Hãy nhanh chóng khóa van và mở cửa sổ!
+        
+### English:
+        Woman: I think I smell gas. 
+        Man: You're right. Let's quickly shut off the valve and open the windows!
+        
+### Answer:
+        
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Lưu ý khi làm việc 
+        2. Tình trạng gọn gàng của nơi làm việc 
+        3. Cách ứng phó tình huống khẩn cấp 
+        4. Cách sử dụng dụng cụ làm việc
+        ------------------
+        Người đàn ông nói các bước ứng phó với tình huống khẩn cấp ngửi thấy mùi gas.
+### English Explain:
+        1. Work precautions 
+        2. Workplace tidiness 
+        3. Emergency response guidelines 
+        4. How to use working tools
+        ------------------
+        The man says the steps to respond to an emergency situation of smelling gas.
+
+47.  ### Text Audio:
+        여자: 고용허가제를 신청하고 싶은데 어떻게 하면 돼요?
+        남자: 이 신청서를 작성해 주시면 됩니다.
+### Vietnamese:
+        Nữ: Tôi muốn đăng ký Chương trình Cấp phép Lao động, tôi phải làm thế nào? 
+        Nam: Cô chỉ cần điền vào đơn đăng ký này.
+### English:
+        Woman: I want to apply for the Employment Permit System. What should I do? 
+        Man: You just need to fill out this application form.
+### Answer:
+        
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Thời gian đăng ký
+        2. Phí đăng ký
+        3. Cách thức đăng ký
+        4. Thay đổi đăng ký
+        ------------------
+        Người đàn ông hướng dẫn cách thức đăng ký cho người phụ nữ.
+### English Explain:
+        1. Application period
+        2. Application fee
+        3. Application method
+        4. Application change
+        ------------------
+        The man tells the woman how to apply.
+
+48.  ### Text Audio:
+        여자: 어젯밤에 몇 시까지 일했어요?
+        남자: 조금 늦게까지 했는데 10시 전에는 퇴근했어요.
+### Vietnamese:
+        Nữ: Hôm qua anh làm việc đến mấy giờ? 
+        Nam: Tôi làm hơi muộn nhưng vẫn về trước 10 giờ.
+        
+### English:
+        Woman: Until what time did you work last night? 
+        Man: I worked a bit late, but I left before 10 o'clock.
+        
+### Answer:
+        
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Giờ làm việc theo luật 
+        2. Giờ làm việc ngày nghỉ 
+        3. Giờ làm thêm 
+        4. Giờ làm đêm
+        ------------------
+        Về muộn nhưng trước 10 giờ tối => Giờ làm thêm.
+### English Explain:
+        1. Legal working hours 
+        2. Holiday working hours 
+        3. Overtime working hours 
+        4. Night working hours
+        ------------------
+        Leave work late but before 10 o'clock => Overtime working hours.
+
+49.  ### Text Audio:
+        남자: 한국에서 몇 년 동안 일할 수 있어요?
+        여자: 3년 일한 후에 1년 10개월 더 일할 수 있어요.
+### Vietnamese:
+        Nam: Tôi có thể làm việc ở Hàn Quốc trong mấy năm? 
+        Nữ: Sau khi làm 3 năm thì có thể làm thêm 1 năm 10 tháng nữa.
+### English:
+        Man: How many years can I work in Korea?
+        Woman: After working for 3 years, you can work for 1 year and 10 months more.
+### Answer:
+        
+### Correct Answer: 1
+### Vietnamese Explain:
+        1. Thời gian lưu trú có thể 
+        2. Ngày hết hạn lưu trú 
+        3. Cách đăng ký tìm việc 
+        4. Thủ tục đăng ký người nước ngoài
+        ------------------
+        Người phụ nữ cho biết thời gian lưu trú có thể của người có visa E-9.
+### English Explain:
+        1. Permitted length of stay
+        2. Stay expiration date 
+        3. Job application method 
+        4. Foreigner registration process
+        ------------------
+        The woman indicates the permitted length of stay for the E-9 visa holder.
+
+50.  ### Text Audio:
+        남자: 귀국비용보험에 가입하고 싶은데 몇 번을 내야 돼요?
+        여자: 세 번에 나눠서 내거나 한꺼번에 낼 수도 있어요.
+### Vietnamese:
+        Nam: Tôi muốn đăng ký bảo hiểm chi phí hồi hương, tôi phải nộp bao nhiêu đợt? 
+        Nữ: Anh có thể chia thành ba đợt nộp hoặc nộp một đợt duy nhất.
+### English:
+        Man: I want to sign up for the return cost insurance. How many installments do I have to pay?
+        Woman: You can pay in three installments or all at once.
+### Answer:
+        
+### Correct Answer: 4
+### Vietnamese Explain:
+        1. Địa điểm nộp tiền 
+        2. Ngày nộp tiền 
+        3. Số tiền nộp 
+        4. Số đợt nộp
+        ------------------
+        Người phụ nữ cho biết số đợt nộp tiền bảo hiểm.
+### English Explain:
+        1. Payment location 
+        2. Payment date 
+        3. Payment amount 
+        4. Number of payments
+        ------------------
+        The woman tells the man how many installments he can pay.
+
+51.  ### Text Audio:
+        남자: 오늘 날씨가 정말 좋네요.
+        여자: 네, 하늘도 맑고 햇살도 따뜻해요.
+### Vietnamese:
+        Nam: Thời tiết hôm nay thật là đẹp.
+        Nữ: Vâng, bầu trời trong xanh và ánh nắng ấm áp.
+### English:
+        Man: The weather is really nice today.
+        Woman: Yes, The sky is clear and the sun is warm.
+### Answer:
+        
+### Correct Answer: 2
+### Vietnamese Explain:
+        1. Nghề nghiệp
+        2. Thời tiết
+        3. Đồ ăn
+        4. Thể thao
+        --------------------
+        날씨가 좋다, 하늘이 맑다, 햇살이 따뜻하다 => 날씨.
+### English Explain:
+        1. Job
+        2. Weather
+        3. Food
+        4. Sports
+        --------------------
+        <g>날씨가 좋다, 하늘이 맑다, 햇살이 따뜻하다 => 날씨.</g>
+
+52.  ### Text Audio:
+        여자: 저는 김민지라고 합니다. 스물다섯 살입니다.
+        남자: 만나서 반갑습니다. 저는 박철수이고 스물여덟 살입니다.
+### Vietnamese:
+        Nữ: Tôi là Kim Minji. Tôi 25 tuổi.
+        Nam: Rất vui được gặp bạn. Tôi là Park Cheolsu và tôi 28 tuổi.
+### English:
+        Woman: I'm Kim Minji. I'm 25 years old.
+        Man: Nice to meet you. I'm Park Cheolsu and I'm 28 years old.
+### Answer:
+        
+### Correct Answer: 2
+### Vietnamese Explain:
+        1. Sở thích
+        2. Tuổi
+        3. Quốc tịch
+        4. Tính cách
+        --------------------
+        스물다섯 살, 스물여덟 살 => 나이.
+### English Explain:
+        1. Hobby
+        2. Age
+        3. Nationality
+        4. Personality
+        --------------------
+        <g>스물다섯 살, 스물여덟 살 => 나이.</g>
+
+53.  ### Text Audio:
+        남자: 저는 축구를 좋아해요.
+        여자: 저는 농구를 좋아해요.
+### Vietnamese:
+        Nam: Tôi thích bóng đá.
+        Nữ: Tôi thích bóng rổ.
+### English:
+        Man: I like soccer.
+        Woman: I like basketball.
+### Answer:
+        
+### Correct Answer: 2
+### Vietnamese Explain:
+        1. Đồ ăn
+        2. Thể thao
+        3. Nghề nghiệp
+        4. Gia đình
+        --------------------
+        축구, 농구 => 운동.
+### English Explain:
+        1. Food
+        2. Sports
+        3. Job
+        4. Family
+        --------------------
+        <g>축구, 농구 => 운동.</g>
+
+54.  ### Text Audio:
+        여자: 저는 베트남 사람입니다.
+        남자: 아, 그렇군요. 저는 한국 사람입니다.
+### Vietnamese:
+        Nữ: Tôi là người Việt Nam.
+        Nam: À, vậy à. Tôi là người Hàn Quốc.
+### English:
+        Woman: I am Vietnamese.
+        Man: Oh, I see. I am Korean.
+### Answer:
+        
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Tên
+        2. Nghề nghiệp
+        3. Quốc tịch
+        4. Quê hương
+        --------------------
+        베트남 사람, 한국 사람 => 국적.
+### English Explain:
+        1. Name
+        2. Job
+        3. Nationality
+        4. Hometown
+        --------------------
+        <g>베트남 사람, 한국 사람 => 국적.</g>
+
+55.  ### Text Audio:
+        남자: 오늘 점심에 뭘 먹을까요?
+        여자: 김치찌개 어때요?
+### Vietnamese:
+        Nam: Hôm nay ăn gì vào bữa trưa?
+        Nữ: Món Kimchi jjigae thì sao?
+### English:
+        Man: What should we eat for lunch today?
+        Woman: How about Kimchi jjigae?
+### Answer:
+        
+### Correct Answer: 4
+### Vietnamese Explain:
+        1. Thời tiết
+        2. Sở thích
+        3. Địa điểm
+        4. Đồ ăn
+        --------------------
+        김치찌개 => 음식.
+### English Explain:
+        1. Weather
+        2. Hobby
+        3. Place
+        4. Food
+        --------------------
+        <g>김치찌개 => 음식.</g>
+
+56.  ### Text Audio:
+        여자: 이 가방은 얼마예요?
+        남자: 5만원입니다.
+### Vietnamese:
+        Nữ: Cái túi này giá bao nhiêu?
+        Nam: 50.000 won.
+### English:
+        Woman: How much is this bag?
+        Man: It's 50,000 won.
+### Answer:
+        
+### Correct Answer: 1
+### Vietnamese Explain:
+        1. Giá cả
+        2. Màu sắc
+        3. Kích cỡ
+        4. Hình dáng
+        --------------------
+        5만원 => 가격.
+### English Explain:
+        1. Price
+        2. Color
+        3. Size
+        4. Shape
+        --------------------
+        <g>5만원 => 가격.</g>
+
+57.  ### Text Audio:
+        남자: 저는 요리하는 것을 좋아합니다.
+        여자: 저는 그림을 그리는 것을 좋아합니다.
+### Vietnamese:
+        Nam: Tôi thích nấu ăn.
+        Nữ: Tôi thích vẽ.
+### English:
+        Man: I like cooking.
+        Woman: I like drawing.
+### Answer:
+        
+### Correct Answer: 2
+### Vietnamese Explain:
+        1. Nghề nghiệp
+        2. Sở thích
+        3. Tính cách
+        4. Ngoại hình
+        --------------------
+        요리하다, 그림을 그리다 => 취미.
+### English Explain:
+        1. Job
+        2. Hobby
+        3. Personality
+        4. Appearance
+        --------------------
+        <g>요리하다, 그림을 그리다 => 취미.</g>
+
+58.  ### Text Audio:
+        여자: 내일 친구를 만날 거예요.
+        남자: 어디에서 만날 거예요?
+### Vietnamese:
+        Nữ: Ngày mai tôi sẽ gặp bạn bè.
+        Nam: Bạn sẽ gặp ở đâu?
+### English:
+        Woman: I'm going to meet a friend tomorrow.
+        Man: Where are you going to meet?
+### Answer:
+        
+### Correct Answer: 2
+### Vietnamese Explain:
+        1. Thời gian
+        2. Địa điểm
+        3. Thời tiết
+        4. Giao thông
+        --------------------
+        어디에서 => 장소.
+### English Explain:
+        1. Time
+        2. Place
+        3. Weather
+        4. Transportation
+        --------------------
+        <g>어디에서 => 장소.</g>
+
+59.  ### Text Audio:
+        여자: 저는 버스를 타고 회사에 가요.
+        남자: 저는 지하철을 타고 회사에 가요.
+### Vietnamese:
+        Nữ: Tôi đi làm bằng xe buýt.
+        Nam: Tôi đi làm bằng tàu điện ngầm.
+### English:
+        Woman: I go to work by bus.
+        Man: I go to work by subway.
+### Answer:
+        
+### Correct Answer: 1
+### Vietnamese Explain:
+        1. Giao thông
+        2. Địa điểm
+        3. Thời gian
+        4. Thời tiết
+        --------------------
+        버스, 지하철 => 교통.
+### English Explain:
+        1. Transportation
+        2. Place
+        3. Time
+        4. Weather
+        --------------------
+        <g>버스, 지하철 => 교통.</g>
+
+60.  ### Text Audio:
+        남자: 오늘 날씨가 너무 덥네요.
+        여자: 네, 시원한 아이스크림 먹고 싶어요.
+### Vietnamese:
+        Nam: Hôm nay thời tiết nóng quá.
+        Nữ: Vâng, tôi muốn ăn kem mát lạnh.
+### English:
+        Man: The weather is so hot today.
+        Woman: Yes, I want to eat cool ice cream.
+### Answer:
+        
+### Correct Answer: 2
+### Vietnamese Explain:
+        1. Mùa
+        2. Thời tiết
+        3. Sức khỏe
+        4. Vận động
+        --------------------
+        덥다 => 날씨.
+### English Explain:
+        1. Season
+        2. Weather
+        3. Health
+        4. Exercise
+        --------------------
+        <g>덥다 => 날씨.</g>
+
+61.  ### Text Audio:
+        여자: 감기에 걸린 것 같아요. 목이 너무 아파요.
+        남자: 병원에 가서 진찰을 받아 보세요.
+### Vietnamese:
+        Nữ: Tôi nghĩ mình bị cảm rồi. Cổ họng tôi đau quá.
+        Nam: Hãy đi bệnh viện khám đi.
+### English:
+        Woman: I think I have a cold. My throat hurts so much.
+        Man: You should go to the hospital and get a checkup.
+### Answer:
+        
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Sở thích
+        2. Nghề nghiệp
+        3. Sức khỏe
+        4. Giao thông
+        --------------------
+        감기, 목이 아프다, 병원 => 건강.
+### English Explain:
+        1. Hobby
+        2. Job
+        3. Health
+        4. Transportation
+        --------------------
+        <g>감기, 목이 아프다, 병원 => 건강.</g>
+
+62.  ### Text Audio:
+        남자: 이 바지는 얼마예요?
+        여자: 2만원입니다.
+### Vietnamese:
+        Nam: Cái quần này bao nhiêu tiền?
+        Nữ: 20 ngàn won ạ.
+### English:
+        Man: How much is this pair of pants?
+        Woman: It's 20,000 won.
+### Answer:
+        
+### Correct Answer: 4
+### Vietnamese Explain:
+        1. Màu sắc
+        2. Kích cỡ
+        3. Thiết kế
+        4. Giá cả
+        --------------------
+        얼마예요 => 가격.
+### English Explain:
+        1. Color
+        2. Size
+        3. Design
+        4. Price
+        --------------------
+        <g>얼마예요 => 가격.</g>
+
+63.  ### Text Audio:
+        여자: 오늘 저녁에 뭐 먹을까요?
+        남자: 글쎄요. 피자 어때요?
+### Vietnamese:
+        Nữ: Tối nay chúng ta ăn gì?
+        Nam: Ừm... pizza thì sao?
+### English:
+        Woman: What should we eat for dinner tonight?
+        Man: Hmm... how about pizza?
+### Answer:
+        
+### Correct Answer: 1
+### Vietnamese Explain:
+        1. Đồ ăn
+        2. Cuộc hẹn
+        3. Phim
+        4. Vận động
+        --------------------
+        뭐 먹을까요, 피자 => 음식.
+### English Explain:
+        1. Food
+        2. Appointment
+        3. Movie
+        4. Exercise
+        --------------------
+        <g>뭐 먹을까요, 피자 => 음식.</g>
+
+64.  ### Text Audio:
+        남자: 내일 몇 시에 만날까요?
+        여자: 2시에 만나는 게 어때요?
+### Vietnamese:
+        Nam: Ngày mai mấy giờ chúng ta gặp nhau?
+        Nữ: Gặp nhau lúc 2 giờ thì sao?
+### English:
+        Man: What time shall we meet tomorrow?
+        Woman: How about meeting at 2 o'clock?
+### Answer:
+        
+### Correct Answer: 1
+### Vietnamese Explain:
+        1. Thời gian
+        2. Địa điểm
+        3. Thời tiết
+        4. Giao thông
+        --------------------
+        몇 시에 => 시간.
+### English Explain:
+        1. Time
+        2. Place
+        3. Weather
+        4. Transportation
+        --------------------
+        <g>몇 시에 => 시간.</g>
+
+65.  ### Text Audio:
+        여자: 무슨 색깔을 좋아하세요?
+        남자: 저는 파란색을 좋아해요.
+### Vietnamese:
+        Nữ: Bạn thích màu gì?
+        Nam: Tôi thích màu xanh dương.
+### English:
+        Woman: What color do you like?
+        Man: I like blue.
+### Answer:
+        
+### Correct Answer: 2
+### Vietnamese Explain:
+        1. Đồ ăn
+        2. Màu sắc
+        3. Vận động
+        4. Mùa
+        --------------------
+        무슨 색깔, 파란색 => 색깔.
+### English Explain:
+        1. Food
+        2. Color
+        3. Exercise
+        4. Season
+        --------------------
+        <g>무슨 색깔, 파란색 => 색깔.</g>
+
+66.  ### Text Audio:
+        남자: 주말에 뭐 할 거예요?
+        여자: 영화를 볼 거예요.
+### Vietnamese:
+        Nam: Cuối tuần bạn sẽ làm gì?
+        Nữ: Tôi sẽ xem phim.
+### English:
+        Man: What are you going to do on the weekend?
+        Woman: I'm going to watch a movie.
+### Answer:
+        
+### Correct Answer: 4
+### Vietnamese Explain:
+        1. Nghề nghiệp
+        2. Thời tiết
+        3. Sở thích
+        4. Cuối tuần
+        --------------------
+        주말에 => 주말.
+### English Explain:
+        1. Job
+        2. Weather
+        3. Hobby
+        4. Weekend
+        --------------------
+        <g>주말에 => 주말.</g>
+
+67.  ### Text Audio:
+        여자: 오늘 무슨 요일이에요?
+        남자: 수요일이에요.
+### Vietnamese:
+        Nữ: Hôm nay là thứ mấy?
+        Nam: Hôm nay là thứ Tư.
+### English:
+        Woman: What day is today?
+        Man: It's Wednesday.
+### Answer:
+        
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Thời gian
+        2. Ngày tháng
+        3. Thứ trong tuần
+        4. Mùa
+        --------------------
+        무슨 요일, 수요일 => 요일.
+### English Explain:
+        1. Time
+        2. Date
+        3. Day of the week
+        4. Season
+        --------------------
+        <g>무슨 요일, 수요일 => 요일.</g>
+
+68.  ### Text Audio:
+        남자: 오늘 저녁에 김치찌개 먹을까요?
+        여자: 네, 좋아요. 김치찌개에 돼지고기를 좀 더 넣으면 맛있겠어요.
+### Vietnamese:
+        Nam: Tối nay chúng ta ăn canh kim chi nhé?
+        Nữ: Vâng, được đấy. Nếu cho thêm thịt heo vào canh kim chi thì sẽ ngon hơn.
+### English:
+        Man: Shall we have Kimchi stew for dinner tonight?
+        Woman: Yes, that's good. It would be delicious if we add more pork to the Kimchi stew.
+### Answer:
+        
+### Correct Answer: 4
+### Vietnamese Explain:
+        1. Thời tiết
+        2. Phim ảnh
+        3. Thể thao
+        4. Thức ăn
+        --------------------
+        김치찌개, 돼지고기 => 음식
+### English Explain:
+        1. Weather
+        2. Movie
+        3. Exercise
+        4. Food
+        --------------------
+        <g>김치찌개, 돼지고기 => 음식.</g>
+
+69.  ### Text Audio:
+        여자: 이 원피스 어때요?
+        남자: 색깔도 디자인도 마음에 들어요. 아주 잘 어울려요.
+### Vietnamese:
+        Nữ: Cái váy liền này thế nào?
+        Nam: Màu sắc và thiết kế đều ưng ý. Rất hợp với bạn đấy.
+### English:
+        Woman: How is this dress?
+        Man: I like the color and design. It suits you very well.
+### Answer:
+        
+### Correct Answer: 2
+### Vietnamese Explain:
+        1. Giá cả
+        2. Quần áo
+        3. Thời tiết
+        4. Tâm trạng
+        --------------------
+        원피스, 디자인, 색깔 => 옷
+### English Explain:
+        1. Price
+        2. Clothes
+        3. Weather
+        4. Mood
+        --------------------
+        <g>원피스, 디자인, 색깔 => 옷.</g>
+
+70.  ### Text Audio:
+        남자: 다음 달에 월세 내야 하는데 돈이 부족해요.
+        여자: 저도 그래요. 요즘 생활비가 너무 많이 들어요.
+### Vietnamese:
+        Nam: Tháng tới phải trả tiền thuê nhà mà tôi không đủ tiền.
+        Nữ: Tôi cũng vậy. Dạo này chi phí sinh hoạt tốn quá nhiều.
+### English:
+        Man: I have to pay the monthly rent next month, but I don't have enough money.
+        Woman: Me too. These days, living expenses are too high.
+### Answer:
+        
+### Correct Answer: 1
+### Vietnamese Explain:
+        1. Vật giá
+        2. Thời tiết
+        3. Giao thông
+        4. Sở thích
+        --------------------
+        월세, 돈이 부족하다, 생활비 => 물가
+### English Explain:
+        1. Price
+        2. Weather
+        3. Transportation
+        4. Hobby
+        --------------------
+        <g>월세, 돈이 부족하다, 생활비 => 물가.</g>
+
+71.  ### Text Audio:
+        여자: 생일 선물로 뭘 받고 싶어요?
+        남자: 글쎄요. 따뜻한 목도리나 장갑이 있으면 좋겠어요.
+### Vietnamese:
+        Nữ: Bạn muốn nhận quà sinh nhật gì?
+        Nam: Ừm... Nếu có khăn quàng cổ ấm áp hoặc găng tay thì tốt.
+### English:
+        Woman: What do you want for your birthday gift?
+        Man: Well... It would be nice to have a warm scarf or gloves.
+### Answer:
+        
+### Correct Answer: 4
+### Vietnamese Explain:
+        1. Thức ăn
+        2. Phim ảnh
+        3. Thể thao
+        4. Quà tặng
+        --------------------
+        생일 선물, 목도리, 장갑 => 선물
+### English Explain:
+        1. Food
+        2. Movie
+        3. Exercise
+        4. Gift
+        --------------------
+        <g>생일 선물, 목도리, 장갑 => 선물.</g>
+
+72.  ### Text Audio:
+        여자: 이 식당은 음식이 맛있고 가격도 저렴해요.
+        남자: 정말이요? 그럼 여기서 점심 먹을까요?
+### Vietnamese:
+        Nữ: Nhà hàng này đồ ăn ngon mà giá cả lại rẻ nữa.
+        Nam: Thật vậy à? Vậy chúng ta ăn trưa ở đây nhé?
+### English:
+        Woman: This restaurant has delicious food and the prices are cheap.
+        Man: Really? Then shall we have lunch here?
+### Answer:
+        
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Giao thông
+        2. Thời tiết
+        3. Địa điểm
+        4. Sở thích
+        --------------------
+        식당, 여기서 => 장소
+### English Explain:
+        1. Transportation
+        2. Weather
+        3. Place
+        4. Hobby
+        --------------------
+        <g>식당, 여기서 => 장소.</g>
+
+73.  ### Text Audio:
+        남자: 저는 매운 음식을 좋아해요.
+        여자: 저는 매운 음식을 잘 못 먹어요.
+### Vietnamese:
+        Nam: Tôi thích đồ ăn cay.
+        Nữ: Tôi không giỏi ăn đồ ăn cay.
+### English:
+        Man: I like spicy food.
+        Woman: I'm not good at eating spicy food.
+### Answer:
+        
+### Correct Answer: 1
+### Vietnamese Explain:
+        1. Hương vị
+        2. Màu sắc
+        3. Thiết kế
+        4. Thời tiết
+        --------------------
+        맵다 => 맛
+### English Explain:
+        1. Taste
+        2. Color
+        3. Design
+        4. Weather
+        --------------------
+        <g>맵다 => 맛.</g>
+
+74.  ### Text Audio:
+        여자: 요즘 옷 스타일이 많이 바뀐 것 같아요.
+        남자: 네, 새로운 스타일을 시도해 보고 싶어요.
+### Vietnamese:
+        Nữ: Dạo này phong cách ăn mặc của bạn thay đổi nhiều quá.
+        Nam: Vâng, tôi muốn thử phong cách mới.
+### English:
+        Woman: I think your clothing style has changed a lot these days.
+        Man: Yes, I want to try a new style.
+### Answer:
+        
+### Correct Answer: 1
+### Vietnamese Explain:
+        1. Cách ăn mặc
+        2. Giá cả
+        3. Thời tiết
+        4. Tâm trạng
+        --------------------
+        옷 스타일 => 옷차림
+### English Explain:
+        1. Clothing style
+        2. Price
+        3. Weather
+        4. Mood
+        --------------------
+        <g>옷 스타일 => 옷차림.</g>
+
+75.  ### Text Audio:
+        남자: 이번 주말에 친구들과 등산 갈 거예요.
+        여자: 등산 좋아하세요? 저는 별로 안 좋아해요.
+### Vietnamese:
+        Nam: Cuối tuần này tôi sẽ đi leo núi với bạn bè.
+        Nữ: Bạn thích leo núi à? Tôi không thích lắm.
+### English:
+        Man: I'm going hiking with my friends this weekend.
+        Woman: Do you like hiking? I don't really like it.
+### Answer:
+        
+### Correct Answer: 1
+### Vietnamese Explain:
+        1. Thể thao
+        2. Thức ăn
+        3. Phim ảnh
+        4. Mua sắm
+        --------------------
+        등산 => 운동
+### English Explain:
+        1. Exercise
+        2. Food
+        3. Movie
+        4. Shopping
+        --------------------
+        <g>등산 => 운동.</g>
+
+76.  ### Text Audio:
+        여자: 이사 때문에 짐이 너무 많아요. 택배로 보내야겠어요.
+        남자: 택배가 빠르고 안전해서 좋아요.
+### Vietnamese:
+        Nữ: Vì chuyển nhà nên có quá nhiều đồ đạc. Chắc phải gửi bằng dịch vụ giao hàng thôi.
+        Nam: Dịch vụ giao hàng nhanh và an toàn nên rất tốt.
+### English:
+        Woman: I have too much luggage because of moving. I have to send it by delivery service.
+        Man: Delivery service is fast and safe, so it's good.
+### Answer:
+        
+### Correct Answer: 1
+### Vietnamese Explain:
+        1. Giao hàng
+        2. Thời tiết
+        3. Giao thông
+        4. Sở thích
+        --------------------
+        택배 => 배달
+### English Explain:
+        1. Delivery
+        2. Weather
+        3. Transportation
+        4. Hobby
+        --------------------
+        <g>택배 => 배달.</g>
+
+77.  ### Text Audio:
+        남자: 요즘 인터넷 강의 듣고 있는데 너무 재미있어요.
+        여자: 정말요? 어떤 강의를 듣고 있어요?
+### Vietnamese:
+        Nam: Dạo này tôi đang học online, thấy rất thú vị.
+        Nữ: Thật á? Bạn đang học môn gì vậy?
+### English:
+        Man: I'm taking online classes these days and it's so much fun.
+        Woman: Really? What kind of course are you taking?
+### Answer:
+        
+### Correct Answer: 2
+### Vietnamese Explain:
+        1. Sở thích
+        2. Giáo dục
+        3. Du lịch
+        4. Đồ ăn
+        --------------------
+        강의를 듣다 => 교육.
+### English Explain:
+        1. Hobby
+        2. Education
+        3. Travel
+        4. Food
+        --------------------
+        <g>강의를 듣다 => 교육.</g>
+
+78.  ### Text Audio:
+        여자: 강아지가 밥을 잘 안 먹어요.
+        남자: 혹시 아픈 건 아닐까요? 병원에 데려가 보세요.
+### Vietnamese:
+        Nữ: Chó con của tôi không chịu ăn cơm.
+        Nam: Có lẽ nó bị ốm đấy? Thử đưa nó đến bệnh viện xem sao.
+### English:
+        Woman: My puppy doesn't eat well.
+        Man: Maybe it's sick? Try taking it to the hospital.
+### Answer:
+        
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Thời tiết
+        2. Thức ăn
+        3. Thú cưng
+        4. Giao thông
+        --------------------
+        강아지 => 애완동물.
+### English Explain:
+        1. Weather
+        2. Food
+        3. Pet
+        4. Transportation
+        --------------------
+        <g>강아지 => 애완동물.</g>
+
+79.  ### Text Audio:
+        남자: 이번 주말에는 푹 쉬고 싶어요.
+        여자: 저도 그래요. 집에서 영화나 볼까요?
+### Vietnamese:
+        Nam: Cuối tuần này tôi muốn nghỉ ngơi thật thoải mái.
+        Nữ: Tôi cũng vậy. Hay là mình xem phim ở nhà nhé?
+### English:
+        Man: I want to relax this weekend.
+        Woman: Me too. Shall we watch a movie at home?
+### Answer:
+        
+### Correct Answer: 1
+### Vietnamese Explain:
+        1. Nghỉ ngơi
+        2. Vận động
+        3. Mua sắm
+        4. Nấu ăn
+        --------------------
+        푹 쉬다 => 휴식.
+### English Explain:
+        1. Rest
+        2. Exercise
+        3. Shopping
+        4. Cooking
+        --------------------
+        <g>푹 쉬다 => 휴식.</g>
+
+80.  ### Text Audio:
+        여자: 택배가 너무 늦게 와서 짜증나요.
+        남자: 그래요? 택배 회사에 전화해 봤어요?
+### Vietnamese:
+        Nữ: Tôi khó chịu vì việc giao hàng chậm quá.
+        Nam: Thật sao? Bạn đã thử gọi đến công ty giao hàng chưa?
+### English:
+        Woman: It's annoying that the delivery is so late.
+        Man: Really? Did you call the delivery company?
+### Answer:
+        
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Thời tiết
+        2. Đồ ăn
+        3. Vận chuyển
+        4. Âm nhạc
+        --------------------
+        택배, 늦게 오다 => 배송.
+### English Explain:
+        1. Weather
+        2. Food
+        3. Delivery
+        4. Music
+        --------------------
+        <g>택배, 늦게 오다 => 배송.</g>
+
+81.  ### Text Audio:
+        남자: 고양이 사료를 새로 샀는데 잘 먹을까요?
+        여자: 어떤 종류로 샀는데요?
+### Vietnamese:
+        Nam: Tôi mới mua thức ăn cho mèo, không biết nó có ăn ngon không?
+        Nữ: Bạn mua loại nào vậy?
+### English:
+        Man: I bought new cat food, I wonder if it will eat well?
+        Woman: What kind did you buy?
+### Answer:
+        
+### Correct Answer: 1
+### Vietnamese Explain:
+        1. Thú cưng
+        2. Giao thông công cộng
+        3. Thời tiết
+        4. Vận động
+        --------------------
+        고양이 => 애완동물.
+### English Explain:
+        1. Pet
+        2. Public transportation
+        3. Weather
+        4. Exercise
+        --------------------
+        <g>고양이 => 애완동물.</g>
+
+82.  ### Text Audio:
+        남자: 주문한 상품이 아직 안 왔어요.
+        여자: 주문 번호로 확인해 보셨어요?
+### Vietnamese:
+        Nam: Hàng tôi đặt vẫn chưa đến.
+        Nữ: Bạn đã kiểm tra bằng mã đơn hàng chưa?
+### English:
+        Man: The item I ordered hasn't arrived yet.
+        Woman: Have you checked with the order number?
+### Answer:
+        
+### Correct Answer: 1
+### Vietnamese Explain:
+        1. Vận chuyển
+        2. Đồ ăn
+        3. Thời tiết
+        4. Âm nhạc
+        --------------------
+        주문한 상품, 안 왔다 => 배송.
+### English Explain:
+        1. Delivery
+        2. Food
+        3. Weather
+        4. Music
+        --------------------
+        <g>주문한 상품, 안 왔다 => 배송.</g>
+
+83.  ### Text Audio:
+        남자: 공장장님, 오늘 작업은 다 끝났습니다.
+        여자: 수고했어요. 퇴근해도 좋습니다.
+### Vietnamese:
+        Nam: Quản đốc nhà máy, hôm nay đã làm xong việc rồi ạ.
+        Nữ: Vất vả rồi. Anh có thể tan làm.
+### English:
+        Man: Factory manager, the work is all done for today.
+        Woman: Good job. You can leave work.
+### Answer:
+        
+### Correct Answer: 2
+### Vietnamese Explain:
+        1. Nghỉ ngơi
+        2. Tan làm
+        3. Đi làm
+        4. Cuộc họp
+        --------------------
+        퇴근해도 좋습니다 => 퇴근.
+### English Explain:
+        1. Rest
+        2. Leaving work
+        3. Going to work
+        4. Meeting
+        --------------------
+        <g>퇴근해도 좋습니다 => 퇴근.</g>
+
+84.  ### Text Audio:
+        여자: 망치가 어디에 있어요?
+        남자: 공구 상자 안에 있어요.
+### Vietnamese:
+        Nữ: Cái búa ở đâu vậy?
+        Nam: Ở trong hộp dụng cụ.
+### English:
+        Woman: Where is the hammer?
+        Man: It's in the toolbox.
+### Answer:
+        
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Quần áo làm việc
+        2. Mũ bảo hiểm
+        3. Dụng cụ
+        4. Găng tay
+        --------------------
+        망치, 공구 상자 => 공구.
+### English Explain:
+        1. Work clothes
+        2. Safety helmet
+        3. Tools
+        4. Gloves
+        --------------------
+        <g>망치, 공구 상자 => 공구.</g>
+
+85.  ### Text Audio:
+        여자: 새로 오신 분은 어떤 일을 하세요?
+        남자: 용접 일을 담당하고 계십니다.
+### Vietnamese:
+        Nữ: Người mới đến làm công việc gì vậy?
+        Nam: Người đó đang phụ trách công việc hàn.
+### English:
+        Woman: What kind of work does the new person do?
+        Man: He is in charge of welding work.
+### Answer:
+        
+### Correct Answer: 1
+### Vietnamese Explain:
+        1. Nghề nghiệp
+        2. Sở thích
+        3. Tính cách
+        4. Quê hương
+        --------------------
+        용접 일을 담당 => 직업.
+### English Explain:
+        1. Job
+        2. Hobby
+        3. Personality
+        4. Hometown
+        --------------------
+        <g>용접 일을 담당 => 직업.</g>
+
+86.  ### Text Audio:
+        남자: 안전모를 꼭 착용하세요.
+        여자: 네, 알겠습니다.
+### Vietnamese:
+        Nam: Nhất định phải đội mũ bảo hiểm đấy.
+        Nữ: Vâng, tôi biết rồi.
+### English:
+        Man: Make sure to wear a safety helmet.
+        Woman: Yes, I understand.
+### Answer:
+        
+### Correct Answer: 2
+### Vietnamese Explain:
+        1. Quản lý trang thiết bị
+        2. Thiết bị an toàn
+        3. Giờ làm việc
+        4. Đánh giá hiệu suất
+        --------------------
+        안전모 => 안전 장비.
+### English Explain:
+        1. Facility management
+        2. Safety equipment
+        3. Working hours
+        4. Work evaluation
+        --------------------
+        <g>안전모 => 안전 장비.</g>
+
+87.  ### Text Audio:
+        여자: 오늘 회의는 몇 시에 시작해요?
+        남자: 오후 2시에 시작합니다.
+### Vietnamese:
+        Nữ: Hôm nay cuộc họp bắt đầu lúc mấy giờ?
+        Nam: Bắt đầu lúc 2 giờ chiều.
+### English:
+        Woman: What time does the meeting start today?
+        Man: It starts at 2 PM.
+### Answer:
+        
+### Correct Answer: 1
+### Vietnamese Explain:
+        1. Thời gian
+        2. Địa điểm
+        3. Nội dung
+        4. Người tham dự
+        --------------------
+        오후 2시에 시작합니다 => 시간.
+### English Explain:
+        1. Time
+        2. Place
+        3. Content
+        4. Attendees
+        --------------------
+        <g>오후 2시에 시작합니다 => 시간.</g>
+
+88.  ### Text Audio:
+        남자: 작업 시작 전에 안전모 착용했지?
+        여자: 네, 당연하죠. 안전이 제일 중요하잖아요.
+### Vietnamese:
+        Nam: Trước khi bắt đầu công việc, cô đã đội mũ bảo hộ chưa?
+        Nữ: Vâng, tất nhiên rồi. An toàn là quan trọng nhất mà.
+### English:
+        Man: Did you wear your safety helmet before starting work?
+        Woman: Yes, of course. Safety is the most important thing.
+### Answer:
+        
+### Correct Answer: 2
+### Vietnamese Explain:
+        1. Thời gian bắt đầu công việc
+        2. Việc đội/mặc thiết bị an toàn
+        3. Thời gian nghỉ ngơi
+        4. Nội dung công việc
+        --------------------
+        안전모 착용 => 안전 장비 착용.
+### English Explain:
+        1. Work start time
+        2. Wearing safety equipment
+        3. Break time
+        4. Work content
+        --------------------
+        <g>안전모 착용 => 안전 장비 착용.</g>
+
+89.  ### Text Audio:
+        남자: 이번 달 월급은 언제 들어와요?
+        여자: 보통 25일에 들어오는데, 이번 달은 26일이에요.
+### Vietnamese:
+        Nam: Lương tháng này khi nào thì vào tài khoản?
+        Nữ: Thông thường là ngày 25, nhưng tháng này là ngày 26.
+### English:
+        Man: When will this month's salary be deposited?
+        Woman: Usually on the 25th, but this month it's the 26th.
+### Answer:
+        
+### Correct Answer: 2
+### Vietnamese Explain:
+        1. Số tiền lương
+        2. Ngày trả lương
+        3. Số tiền khấu trừ thuế
+        4. Việc trả thưởng
+        --------------------
+        월급 들어오는 날짜 => 월급 지급일.
+### English Explain:
+        1. Salary amount
+        2. Salary payment date
+        3. Tax deduction amount
+        4. Bonus payment status
+        --------------------
+        <g>월급 들어오는 날짜 => 월급 지급일.</g>
+
+90.  ### Text Audio:
+        여자: 안전벨트 꼭 착용하세요!
+        남자: 네, 알겠습니다. 안전이 최우선이죠.
+### Vietnamese:
+        Nữ: Nhớ thắt dây an toàn đấy!
+        Nam: Vâng, tôi biết rồi. An toàn là ưu tiên hàng đầu.
+### English:
+        Woman: Please make sure to wear your seatbelt!
+        Man: Yes, I understand. Safety is the top priority.
+### Answer:
+        
+### Correct Answer: 2
+### Vietnamese Explain:
+        1. Loại quần áo bảo hộ lao động
+        2. Việc đeo/đội thiết bị bảo hộ
+        3. Kiểm tra môi trường làm việc
+        4. Tuân thủ thời gian nghỉ ngơi
+        --------------------
+        안전벨트 착용 => 안전 장비 착용.
+### English Explain:
+        1. Types of work clothes
+        2. Wearing safety equipment
+        3. Checking the work environment
+        4. Complying with break times
+        --------------------
+        <g>안전벨트 착용 => 안전 장비 착용.</g>
+
+91.  ### Text Audio:
+        여자: 공장 설비 점검은 언제 해요?
+        남자: 매주 금요일 오후에 합니다.
+### Vietnamese:
+        Nữ: Khi nào thì kiểm tra thiết bị nhà máy?
+        Nam: Chúng tôi kiểm tra vào chiều thứ Sáu hàng tuần.
+### English:
+        Woman: When do you inspect the factory equipment?
+        Man: We do it every Friday afternoon.
+### Answer:
+        
+### Correct Answer: 1
+### Vietnamese Explain:
+        1. Chu kỳ kiểm tra thiết bị
+        2. Cách kiểm tra thiết bị
+        3. Số lần kiểm tra thiết bị
+        4. Tình trạng kiểm tra thiết bị
+        --------------------
+        언제, 매주 금요일 오후 => 설비 점검 주기.
+### English Explain:
+        1. Equipment inspection cycle
+        2. Equipment inspection method
+        3. Number of equipment inspections
+        4. Equipment inspection status
+        --------------------
+        <g>언제, 매주 금요일 오후 => 설비 점검 주기.</g>
+
+92.  ### Text Audio:
+        남자: 응급 상황 발생 시 어떻게 해야 하죠?
+        여자: 먼저 상사에게 보고하고, 지시에 따르세요.
+### Vietnamese:
+        Nam: Khi xảy ra tình huống khẩn cấp thì phải làm thế nào?
+        Nữ: Trước tiên hãy báo cáo với cấp trên và làm theo chỉ thị.
+### English:
+        Man: What should I do in case of an emergency?
+        Woman: First, report to your supervisor and follow their instructions.
+### Answer:
+        
+### Correct Answer: 1
+### Vietnamese Explain:
+        1. Cách ứng phó với tình huống khẩn cấp
+        2. Cách cải thiện tốc độ làm việc
+        3. Cách cải thiện mối quan hệ với đồng nghiệp
+        4. Việc tham gia sự kiện của công ty
+        --------------------
+        Người đàn ông muốn biết cần làm gì khi tình huống khẩn cấp xảy ra.
+### English Explain:
+        1. How to deal with emergencies
+        2. How to improve work speed
+        3. How to improve relationships with colleagues
+        4. Whether to participate in company events
+        --------------------
+        The man wants to know what to do in an emergency.
+
+93.  ### Text Audio:
+        여자: 작업장 정리 정돈은 필수입니다.
+        남자: 네, 깨끗한 환경이 안전을 지켜주죠.
+### Vietnamese:
+        Nữ: Sắp xếp và dọn dẹp nơi làm việc là điều cần thiết.
+        Nam: Vâng, môi trường sạch sẽ sẽ giữ sự an toàn.
+### English:
+        Woman: Organizing and cleaning the workplace is essential.
+        Man: Yes, a clean environment protects safety.
+### Answer:
+        
+### Correct Answer: 1
+### Vietnamese Explain:
+        1. Duy trì vệ sinh nơi làm việc
+        2. Cách bảo quản dụng cụ làm việc
+        3. Quy trình xử lý hàng lỗi
+        4. Học kỹ thuật làm việc mới
+        --------------------
+        작업장 정리 정돈 => 작업장 청결 유지.
+### English Explain:
+        1. Maintaining workplace cleanliness
+        2. How to store work tools
+        3. Defective product handling procedure
+        4. Acquiring new work skills
+        --------------------
+        <g>작업장 정리 정돈 => 작업장 청결 유지.</g>
+
+94.  ### Text Audio:
+        남자: 외국으로 돈을 보내고 싶은데요.
+        여자: 신분증과 통장을 가지고 오셨나요?
+### Vietnamese:
+        Nam: Tôi muốn gửi tiền ra nước ngoài.
+        Nữ: Anh có mang theo chứng minh thư và sổ tài khoản không?
+### English:
+        Man: I want to send money abroad.
+        Woman: Did you bring your ID card and bankbook?
+### Answer:
+        
+### Correct Answer: 1
+### Vietnamese Explain:
+        1. Giấy tờ cần thiết để chuyển tiền
+        2. Thời gian có thể đổi tiền
+        3. Thời gian làm việc của ngân hàng
+        4. Cách đăng ký vay tiền
+        --------------------
+        Người đàn ông muốn gửi tiền, người phụ nữ hỏi anh ấy có mang theo các loại giấy tờ không.
+### English Explain:
+        1. Documents required for remittance
+        2. Exchangeable time
+        3. Bank hours
+        4. How to apply for a loan
+        --------------------
+        The man wants to send money, the woman asks him if he has the necessary documents.
+
+95.  ### Text Audio:
+        여자: 안전 교육은 매달 첫째 주에 있습니다.
+        남자: 네, 잊지 않고 참석하겠습니다.
+### Vietnamese:
+        Nữ: Buổi đào tạo an toàn có vào tuần đầu tiên của mỗi tháng.
+        Nam:Vâng, tôi sẽ tham dự mà không quên.
+### English:
+        Woman: Safety training is on the first week of every month.
+        Man: Yes, I will attend without forgetting.
+### Answer:
+        
+### Correct Answer: 1
+### Vietnamese Explain:
+        1. Lịch trình đào tạo an toàn
+        2. Phương pháp đào tạo an toàn
+        3. Địa điểm đào tạo an toàn
+        4. Nội dung đào tạo an toàn
+        --------------------
+        Người phụ nữ cho người đàn ông biết lịch trình diễn ra đào tạo an toàn.
+### English Explain:
+        1. Safety training schedule
+        2. Safety training method
+        3. Safety training location
+        4. Safety training content
+        --------------------
+        The woman tells the man the schedule for the safety training.
+
+96.  ### Text Audio:
+        남자: 핸드폰 요금을 내려고 하는데요.
+        여자: 현금으로 하시겠어요, 카드로 하시겠어요?
+### Vietnamese:
+        Nam: Tôi muốn thanh toán phí điện thoại.
+        Nữ: Anh muốn thanh toán bằng tiền mặt hay thẻ?
+### English:
+        Man: I would like to pay my phone bill.
+        Woman: Would you like to pay in cash or by card?
+### Answer:
+        
+### Correct Answer: 2
+### Vietnamese Explain:
+        1. Kiểm tra số dư
+        2. Phương thức thanh toán
+        3. Sửa chữa ứng dụng
+        4. Phương pháp sạc
+        --------------------
+        Người phụ nữ hỏi người đàn ông muốn thanh toán bằng cách nào.
+### English Explain:
+        1. Check balance
+        2. Payment method
+        3. Request repair
+        4. Recharge method
+        --------------------
+        The woman asks the man how he wants to pay.
+
+97.  ### Text Audio:
+        여자: 이 세탁기가 고장 났어요.
+        남자: 언제부터 그랬어요?
+### Vietnamese:
+        Nữ: Cái máy giặt này bị hỏng rồi.
+        Nam: Bị từ khi nào vậy?
+### English:
+        Woman: This washing machine is broken.
+        Man: Since when has it been like that?
+### Answer:
+        
+### Correct Answer: 2
+### Vietnamese Explain:
+        1. Mua hàng
+        2. Sửa chữa
+        3. Đăng ký
+        4. Thanh toán
+        --------------------
+        세탁기가 고장 났다 => 수리.
+### English Explain:
+        1. Purchase
+        2. Repair
+        3. Application
+        4. Payment
+        --------------------
+        <g>세탁기가 고장 났다 => 수리.</g>
+
+98.  ### Text Audio:
+        남자: 교통카드 충전해 주세요.
+        여자: 얼마 충전해 드릴까요?
+### Vietnamese:
+        Nam: Hãy nạp tiền vào thẻ giao thông giúp tôi.
+        Nữ: Anh muốn nạp bao nhiêu ạ?
+### English:
+        Man: Please top up my transportation card.
+        Woman: How much would you like to top up?
+### Answer:
+        
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Phát hành thẻ
+        2. Kiểm tra số dư
+        3. Yêu cầu nạp tiền
+        4. Hỏi về hoàn tiền
+        --------------------
+        Người đàn ông yêu cầu người phụ nữ nạp tiền vào thẻ giao thông cho mình.
+### English Explain:
+        1. Card issuance
+        2. Check balance
+        3. Top-up request
+        4. Refund inquiry
+        --------------------
+        The man asks the woman to top up his transportation card.
+
+99.  ### Text Audio:
+        여자: 통장에 잔액이 얼마나 남았어요?
+        남자: 5만 원 남았어요.
+### Vietnamese:
+        Nữ: Trong tài khoản còn bao nhiêu tiền?
+        Nam: Còn 50.000 won.
+### English:
+        Woman: How much balance is left in the account?
+        Man: There are 50,000 won left.
+### Answer:
+        
+### Correct Answer: 2
+### Vietnamese Explain:
+        1. Mở tài khoản
+        2. Kiểm tra số dư
+        3. Cách chuyển tiền
+        4. Thay đổi mật khẩu
+        --------------------
+        Người phụ nữ hỏi rằng tài khoản còn bao nhiêu tiền.
+### English Explain:
+        1. Account opening
+        2. Check balance
+        3. How to send money
+        4. Change password
+        --------------------
+        The woman asks how much money is left in the account.
+
+100.  ### Text Audio:
+        여자: 이번 달 전기 요금이 너무 많이 나왔어요.
+        남자: 그래요? 얼마나 나왔는데요?
+### Vietnamese:
+        Nữ: Tiền điện tháng này ra nhiều quá.
+        Nam: Vậy hả? Ra bao nhiêu vậy?
+### English:
+        Woman: The electricity bill this month is too high.
+        Man: Really? How much is it?
+### Answer:
+        
+### Correct Answer: 1
+### Vietnamese Explain:
+        1. Xác nhận hóa đơn
+        2. Phương pháp tiết kiệm
+        3. Kế hoạch chuyển nhà
+        4. Thay đổi hợp đồng
+        --------------------
+        Hai người đang nói về tiền điện tháng này.
+### English Explain:
+        1. Bill confirmation
+        2. Saving method
+        3. Moving plan
+        4. Contract change
+        --------------------
+        Two people are talking about this month's electricity bill.
+
+101.  ### Text Audio:
+        남자: 카드 명세서를 확인해야 해요.
+        여자: 인터넷으로 확인할 수 있어요.
+### Vietnamese:
+        Nam: Tôi cần kiểm tra hóa đơn thẻ.
+        Nữ: Bạn có thể kiểm tra trên internet.
+### English:
+        Man: I need to check my card statement.
+        Woman: You can check it online.
+### Answer:
+        
+### Correct Answer: 2
+### Vietnamese Explain:
+        1. Đăng ký thẻ
+        2. Xác nhận sao kê
+        3. Báo mất
+        4. Phương thức thanh toán
+        --------------------
+        카드 명세서를 확인해야 해요 => 명세서 확인
+### English Explain:
+        1. Card application
+        2. Statement confirmation
+        3. Loss report
+        4. Payment method
+        --------------------
+        <g>카드 명세서를 확인해야 해요 => 명세서 확인</g>
+
+102.  ### Text Audio:
+        여자: 집 계약이 곧 만료돼요.
+        남자: 그럼, 다시 계약해야겠네요.
+### Vietnamese:
+        Nữ: Hợp đồng thuê nhà sắp hết hạn rồi.
+        Nam: Vậy thì phải ký lại hợp đồng thôi.
+### English:
+        Woman: My house contract is expiring soon.
+        Man: Then, we need to renew the contract.
+### Answer:
+        
+### Correct Answer: 1
+### Vietnamese Explain:
+        1. Gia hạn hợp đồng
+        2. Chuẩn bị chuyển nhà
+        3. Sửa nhà
+        4. Mua đồ nội thất
+        --------------------
+        다시 계약하다 => 계약 갱신
+### English Explain:
+        1. Contract renewal
+        2. Preparing to move
+        3. House repair
+        4. Furniture purchase
+        --------------------
+        <g>다시 계약하다 => 계약 갱신</g>
+
+103.  ### Text Audio:
+        남자: 이 드릴이 고장 났어요.
+        여자: 그럼 새 것으로 바꾸세요.
+### Vietnamese:
+        Nam: Cái máy khoan này bị hỏng rồi.
+        Nữ: Vậy thì hãy thay cái mới đi.
+### English:
+        Man: This drill is broken.
+        Woman: Then replace it with a new one.
+### Answer:
+        
+### Correct Answer: 2
+### Vietnamese Explain:
+        1. Sửa chữa
+        2. Thay thế
+        3. Bảo quản
+        4. Sử dụng
+        --------------------
+        바꾸다 => 교체.
+### English Explain:
+        1. Repair
+        2. Replacement
+        3. Storage
+        4. Usage
+        --------------------
+        <g>바꾸다 => 교체.</g>
+
+104.  ### Text Audio:
+        여자: 수도꼭지가 안 잠겨요.
+        남자: 제가 한번 봐 드릴게요.
+### Vietnamese:
+        Nữ: Vòi nước không khóa được.
+        Nam: Tôi xem giúp cho.
+### English:
+        Woman: The faucet won't shut off.
+        Man: I'll take a look.
+### Answer:
+        
+### Correct Answer: 1
+### Vietnamese Explain:
+        1. Phát sinh vấn đề
+        2. Phương pháp giải quyết
+        3. Cách sử dụng
+        4. Cách vệ sinh
+        --------------------
+        안 잠겨요 => 문제 발생.
+### English Explain:
+        1. Problem occurrence
+        2. Solution
+        3. How to use
+        4. How to clean
+        --------------------
+        <g>안 잠겨요 => 문제 발생.</g>
+
+105.  ### Text Audio:
+        여자: 전기 배선이 낡아서 교체해야 해요.
+        남자: 알겠습니다. 내일 바로 작업할게요.
+### Vietnamese:
+        Nữ: Dây điện cũ rồi nên phải thay thế.
+        Nam: Tôi hiểu rồi. Ngày mai tôi sẽ làm ngay.
+### English:
+        Woman: The electrical wiring is old and needs to be replaced.
+        Man: Okay. I'll do it right away tomorrow.
+### Answer:
+        
+### Correct Answer: 1
+### Vietnamese Explain:
+        1. Cần sửa chữa
+        2. Dọn dẹp sắp xếp
+        3. Vệ sinh định kỳ
+        4. Tiết kiệm năng lượng
+        --------------------
+        Cần thay dây điện, tức là cần sửa chữa.
+### English Explain:
+        1. Repair needed
+        2. Organization & tidiness
+        3. Regular cleaning
+        4. Energy saving
+        --------------------
+        The wiring needs to be replaced, which means it needs to be repaired.
+
+106.  ### Text Audio:
+        남자: 펜치가 없는데 어디서 구할 수 있을까요?
+        여자: 관리자에게 문의해 보세요.
+### Vietnamese:
+        Nam: Không có kìm, có thể lấy ở đâu?
+        Nữ: Hãy hỏi người quản lý xem.
+### English:
+        Man: I don't have pliers, where can I get them?
+        Woman: Try asking the manager.
+### Answer:
+        
+### Correct Answer: 1
+### Vietnamese Explain:
+        1. Vị trí dụng cụ
+        2. Phương pháp làm việc
+        3. Quy tắc an toàn
+        4. Cơ sở vật chất nghỉ ngơi
+        --------------------
+        Hai người đang nói về vị trí của kìm.
+### English Explain:
+        1. Tool location
+        2. Working method
+        3. Safety rules
+        4. Rest facilities
+        --------------------
+        Two people are talking about the position of the pliers.
+
+107.  ### Text Audio:
+        여자: 공장 환풍기가 작동하지 않아요.
+        남자: 즉시 수리팀에 연락하겠습니다.
+### Vietnamese:
+        Nữ: Quạt thông gió của nhà máy không hoạt động.
+        Nam: Tôi sẽ liên hệ ngay với đội sửa chữa.
+### English:
+        Woman: The factory ventilation fan is not working.
+        Man: I will contact the repair team immediately.
+### Answer:
+        
+### Correct Answer: 1
+### Vietnamese Explain:
+        1. Cơ sở vật chất bị hỏng
+        2. Kiểm tra an toàn
+        3. Tiết kiệm năng lượng
+        4. Cải thiện môi trường
+        --------------------
+        작동하지 않아요 => 시설 고장.
+### English Explain:
+        1. Facility failure
+        2. Safety check
+        3. Energy saving
+        4. Environmental improvement
+        --------------------
+        <g>작동하지 않아요 => 시설 고장.</g>

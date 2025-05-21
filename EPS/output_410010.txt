@@ -1,0 +1,3462 @@
+1. ### Text Audio:
+        남자: 자야 씨, 주말에 뭐 했어요?
+        여자: 저는 콘서트를 봤어요. 마두 씨는요?
+        남자: 저는 친구를 만났어요. 친구랑 점심을 먹고 공원에 가서 배드민턴을 쳤어요.
+### Vietnamese:
+        Nam: Jaya, cuối tuần cô đã làm gì?
+        Nữ: Tôi đã đi xem buổi hòa nhạc. Còn Madu thì sao?
+        Nam: Tôi đã gặp bạn. Chúng tôi ăn trưa rồi ra công viên chơi cầu lông.
+### English:
+        Man: Jaya, what did you do over the weekend?
+        Woman: I watched a concert. What about you, Madu?
+        Man: I met my friend. We had lunch together and then went to the park to play badminton.
+### Answer:
+        nan
+### Correct Answer: 1
+### Vietnamese Explain:
+        1. Người đàn ông đã gặp bạn.
+        2. Người đàn ông đã xem một buổi hòa nhạc.
+        3. Người phụ nữ đã chơi cầu lông với người đàn ông.
+        4. Hai người đã cùng nhau ăn cơm vào cuối tuần.
+        --------------------
+        남자: 저는 친구를 만났어요. (Nam: Tôi đã gặp bạn.)
+### English Explain:
+        1. The man met his friend.
+        2. The man watched a concert.
+        3. The woman played badminton with the man.
+        4. The two people ate together on the weekend.
+        --------------------
+        <g>남자: 저는 친구를 만났어요.</g> (Man: I met my friend.)
+
+2. ### Text Audio:
+        여자: 이사 축하해요. 드디어 한옥에서 살게 되었네요. 아파트보다 불편한 게 많을 텐데 괜찮겠어요?
+        남자: 물론 불편하겠지요. 그래도 마당이 넓은 집에서 꼭 살아 보고 싶었어요.
+        여자: 마당에 꽃이 피면 더 좋을 것 같네요. 참 예쁜 집이에요. 
+### Vietnamese:
+        Nữ: Chúc mừng anh chuyển nhà nhé. Cuối cùng anh cũng được sống trong một ngôi nhà Hanok rồi. Nhưng chắc là sẽ bất tiện hơn căn hộ chung cư đấy, sẽ ổn chứ?
+        Nam: Tất nhiên là sẽ có chút bất tiện. Nhưng tôi đã rất muốn sống trong một ngôi nhà có sân rộng.
+        Nữ: Khi hoa trong sân nở thì chắc sẽ còn đẹp hơn nhỉ. Đây đúng là một ngôi nhà rất đẹp.
+### English:
+        Woman: Congratulations on moving. You finally get to live in a Hanok. It must be more inconvenient than an apartment. Will you be okay?
+        Man: Of course, it will be inconvenient. But I've always wanted to live in a house with a big yard.
+        Woman: It would be even better when flowers bloom in the yard. It's such a beautiful house.
+### Answer:
+        nan
+### Correct Answer: 1
+### Vietnamese Explain:
+        1. Người đàn ông đã chuyển đến một ngôi nhà Hanok cách đây không lâu.
+        2. Người đàn ông đang giới thiệu ngôi nhà mới của mình cho người phụ nữ.
+        3. Người phụ nữ nghĩ rằng sống trong căn hộ chung cư không tiện lợi.
+        4. Người phụ nữ muốn sống trong một ngôi nhà có sân rộng.
+        --------------------
+        한옥: Hanok, nhà truyền thống Hàn Quốc.
+        
+        여자: 드디어 한옥에서 살게 되었네요. (Nữ: Cuối cùng anh cũng được sống trong một ngôi nhà Hanok rồi.)
+### English Explain:
+        1. The man moved into a Hanok not long ago.
+        2. The man is introducing his new house to the woman.
+        3. The woman thinks that living in an apartment is inconvenient.
+        4. The woman wanted to live in a house with a big yard.
+        --------------------
+        <g>한옥</g>: Hanok, traditional Korean house.
+        
+        <g>여자: 드디어 한옥에서 살게 되었네요.</g> (Woman: You finally get to live in a Hanok.)
+
+3. ### Text Audio:
+        남자: 신랑, 신부가 정말 예쁘네요. 프엉 씨, 결혼식도 끝났으니 빨리 밥 먹으러 갑시다.
+        여자: 밥이 아니라 국수를 먹어야죠. 신랑, 신부가 행복하게 오래 살기를 바라면서요.
+        남자: 그래도 저는 국수보다는 밥이 더 좋아요.
+### Vietnamese:
+        Nam: Chú rể và cô dâu thật xinh đẹp nhỉ. Phương ơi, lễ cưới cũng xong rồi, đi ăn cơm thôi nào.
+        Nữ: Đừng ăn cơm, phải ăn mì chứ. Vừa ăn, chúng ta vừa chúc cô dâu chú rể sống hạnh phúc lâu dài.
+        Nam: Nhưng tôi vẫn thích cơm hơn là mì.
+### English:
+        Man: The bride and groom look so beautiful. Phuong, now that the wedding is over, let's go eat rice quickly.
+        Woman: We should eat noodles, not rice. While eating, we will wish the bride and groom live happily ever after.
+        Man: Still, I prefer rice over noodles.
+### Answer:
+        nan
+### Correct Answer: 2
+### Vietnamese Explain:
+        1. Hai người đã tổ chức đám cưới hôm nay.
+        2. Hai người sẽ sớm đi ăn.
+        3. Người phụ nữ ăn mì vì sức khỏe.
+        4. Người đàn ông thích mì hơn thịt.
+        --------------------
+        남자: 프엉 씨, 결혼식도 끝났으니 빨리 밥 먹으러 갑시다. (Phương ơi, lễ cưới cũng xong rồi, đi ăn cơm thôi nào.)
+### English Explain:
+        1. The two people had their wedding today.
+        2. The two people will soon go for a meal.
+        3. The woman eats noodles for her health.
+        4. The man likes noodles more than meat.
+        --------------------
+        <g>남자: 프엉 씨, 결혼식도 끝났으니 빨리 밥 먹으러 갑시다.</g> (Phuong, now that the wedding is over, let's go eat rice quickly.)
+
+4. ### Text Audio:
+        여자: 이번 주 토요일에 진수 씨 아기 돌잔치에 가지요? 선물은 샀어요?
+        남자: 네, 아기 옷을 샀어요. 프엉 씨는요?
+        여자: 그동안 일이 많아서 아직 못 샀어요. 퇴근 후에 사러 가야겠어요.
+### Vietnamese:
+        Nữ: Thứ Bảy tuần này chúng ta sẽ đi dự tiệc thôi nôi của con anh Jinsu, đúng chứ? Anh đã mua quà chưa?
+        Nam: Rồi, tôi đã mua quần áo em bé. Còn Phương thì sao?
+        Nữ: Mấy hôm nay tôi bận quá nên chưa mua được. Sau khi tan làm tôi phải đi mua mới được.
+### English:
+        Woman: We are going to Junsu's baby's first birthday party this Saturday, right? Have you bought a gift?
+        Man: Yes, I bought baby clothes. What about you, Phuong?
+        Woman: I've been so busy that I haven't bought anything yet. I should go buy a gift after work.
+### Answer:
+        nan
+### Correct Answer: 2
+### Vietnamese Explain:
+        1. Người phụ nữ đã mua quần áo làm quà cho em bé.
+        2. Người đàn ông đã chuẩn bị quà cho tiệc thôi nôi.
+        3. Người đàn ông không thể tham dự tiệc thôi nôi vào thứ Bảy.
+        4. Người phụ nữ sẽ đi mua quà cùng người đàn ông.
+        --------------------
+        남자: 네, 아기 옷을 샀어요. (Nam: Rồi, tôi đã mua quần áo em bé.)
+### English Explain:
+        1. The woman bought clothes as a gift for the baby.
+        2. The man prepared a gift for the baby's first birthday party.
+        3. The man cannot attend the first birthday party on Saturday.
+        4. The woman will go to buy a gift with the man.
+        --------------------
+        <g>남자: 네, 아기 옷을 샀어요.</g> (Man: Yes, I bought baby clothes.)
+
+5. ### Text Audio:
+        남자: 유진 씨, 꽃 선물 받았어요?
+        여자: 아니요. 고등학교 선생님께 드리려고 샀어요. 오늘이 스승의 날이거든요.
+        남자: 선생님께 감사의 마음을 전하는 날, 맞지요? 진수 씨가 말해 줬어요.
+### Vietnamese:
+        Nam: Yujin, cô được tặng hoa à?
+        Nữ: Không, tôi mua để tặng giáo viên cấp ba. Hôm nay là Ngày Nhà giáo mà.
+        Nam: Là ngày bày tỏ lòng biết ơn với thầy cô, đúng không? Jinsu đã nói với tôi như thế.
+### English:
+        Man: Yujin, did you receive flowers as a gift?
+        Woman: No, I bought them for my high school teacher. Today is Teacher's Day.
+        Man: A day to express gratitude to teachers, right? Jinsu told me about it.
+### Answer:
+        nan
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Người phụ nữ đã nhận được hoa từ người đàn ông.
+        2. Người đàn ông định tặng hoa cho giáo viên.
+        3. Người đàn ông đã nghe nói về Ngày Nhà giáo.
+        4. Người phụ nữ muốn nói cho Jinsu biết cảm xúc của mình.
+        --------------------
+        남자: 선생님께 감사의 마음을 전하는 날, 맞지요? 진수 씨가 말해 줬어요. (Nam: Là ngày bày tỏ lòng biết ơn với thầy cô, đúng không? Jinsu đã nói với tôi như thế.)
+### English Explain:
+        1. The woman received flowers from the man.
+        2. The man is going to give flowers to the teacher.
+        3. The man has heard about Teacher's Day.
+        4. The woman wants to express her feelings to Jinsu.
+        --------------------
+        <g>남자: 선생님께 감사의 마음을 전하는 날, 맞지요? 진수 씨가 말해 줬어요.</g> (Man: A day to express gratitude to teachers, right? Jinsu told me about it.)
+
+6. ### Text Audio:
+        여자: 다라 씨, 이거 한번 먹어 보세요. 제가 어머니하고 같이 만든 송편이에요.
+        남자: 고마워요. 맛있겠어요. 그런데 추석이 아닌데 왜 송편을 만들었어요?
+        여자: 제가 송편을 좋아해서 가끔 만들어 먹어요.
+### Vietnamese:
+        Nữ: Dara, hãy thử ăn cái này đi. Là bánh songpyeon tôi làm cùng mẹ đấy.
+        Nam: Cảm ơn nhé. Trông ngon quá. Nhưng bây giờ đâu phải Trung thu, sao cô lại làm songpyeon vậy?
+        Nữ: Tôi thích songpyeon nên thỉnh thoảng lại làm để ăn.
+### English:
+        Woman: Dara, try this. It's songpyeon that I made with my mother.
+        Man: Thank you. It looks delicious. But why did you make songpyeon when it's not Chuseok?
+        Woman: I love songpyeon, so I make it sometimes just to eat.
+### Answer:
+        nan
+### Correct Answer: 1
+### Vietnamese Explain:
+        1. Người phụ nữ thích bánh songpyeon.
+        2. Người phụ nữ đã tự làm bánh songpyeon một mình.
+        3. Người phụ nữ chỉ ăn bánh songpyeon vào dịp Trung thu.
+        4. Bánh songpyeon do người phụ nữ làm không ngon.
+        --------------------
+        송편: Songpyeon, bánh gạo hình bán nguyệt.
+        
+        여자: 제가 송편을 좋아해서 가끔 만들어 먹어요. (Nữ: Tôi thích songpyeon nên thỉnh thoảng lại làm để ăn.)
+### English Explain:
+        1. The woman likes songpyeon.
+        2. The woman made songpyeon by herself.
+        3. The woman eats songpyeon only on Chuseok.
+        4. The songpyeon made by the woman does not taste good.
+        --------------------
+        <g>송편</g>: Songpyeon, half-moon-shaped rice cake.
+        
+        <g>여자: 제가 송편을 좋아해서 가끔 만들어 먹어요.</g> (Woman: I love songpyeon, so I make it sometimes just to eat.)
+
+7. ### Text Audio:
+        여자: 차가 안 와요. 지금 길을 건너요.
+        남자: 여기는 횡단보도가 아니에요. 무단 횡단을 하면 안 돼요.
+        여자: 횡단보도까지 너무 멀어서 무단 횡단을 하려고 했어요. 미안해요.
+### Vietnamese:
+        Nữ: Xe không đến. Bây giờ băng qua đường thôi.
+        Nam: Đây không phải là vạch qua đường đâu. Không được băng qua đường tùy tiện như vậy.
+        Nữ: Vạch qua đường xa quá nên tôi định băng qua đại. Xin lỗi nhé.
+### English:
+        Woman: The car isn't coming. Let's cross the street now.
+        Man: This isn't a crosswalk. You shouldn't jaywalk.
+        Woman: The crosswalk is too far, so I was going to jaywalk. Sorry.
+### Answer:
+        nan
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Hai người đã băng qua vạch sang đường.
+        2. Người phụ nữ đang đợi taxi.
+        3. Hai người đã không băng qua đường trái phép.
+        4. Người phụ nữ đã định băng qua đường trái phép vì vội.
+        --------------------
+        Người phụ nữ định băng qua đường trái phép nhưng đã bị người đàn ông ngăn lại.
+### English Explain:
+        1. The two people crossed the crosswalk.
+        2. The woman is waiting for a taxi.
+        3. The two people did not jaywalk.
+        4. The woman tried to jaywalk because she was in a hurry.
+        --------------------
+        The woman wanted to jaywalk but was stopped by the man.
+
+8. ### Text Audio:
+        남자: 콧물이 나서 밥 먹기 불편해요. 코를 풀고 싶어요. 휴지 좀 줄래요?
+        여자: 한국에서는 식사할 때 코를 풀면 안 돼요. 
+        남자: 그래요? 몰랐어요. 우리 나라에서는 괜찮은데요.
+### Vietnamese:
+        Nam: Tôi bị chảy mũi nên ăn cơm rất bất tiện. Tôi muốn xì mũi. Cô cho tôi xin tờ giấy nhé?
+        Nữ: Ở Hàn Quốc, không được xì mũi khi đang ăn đâu.
+        Nam: Thật à? Tôi không biết đấy. Ở nước tôi thì không sao cả.
+### English:
+        Man: I have a runny nose, so it's hard to eat. I want to blow my nose. Can you give me a tissue?
+        Woman: In Korea, you shouldn't blow your nose while eating.
+        Man: Really? I didn't know that. In my country, it's fine.
+### Answer:
+        nan
+### Correct Answer: 4
+### Vietnamese Explain:
+        1. Hai người đang ở quán cà phê.
+        2. Người đàn ông đã đưa khăn giấy cho người phụ nữ.
+        3. Người đàn ông hiểu rõ quy tắc ăn uống của Hàn Quốc.
+        4. Ở quê của người đàn ông, có thể xì mũi khi ăn.
+        --------------------
+        남자: 우리 나라에서는 괜찮은데요. (Nam: Ở nước tôi thì không sao cả.)
+### English Explain:
+        1. The two people are in a coffee shop.
+        2. The man gave a tissue to the woman.
+        3. The man knows Korean dining etiquette well.
+        4. In the man's hometown, it is okay to blow one's nose while eating.
+        --------------------
+        <g>남자: 우리 나라에서는 괜찮은데요.</g> (Man: In my country, it's fine.)
+
+9. ### Text Audio:
+        여자: 응원단이 입고 있는 옷이 멋있어요. 저도 사고 싶어요.
+        남자: 우리도 유니폼을 살 수 있어요. 인터넷으로 사면 돼요.
+        여자: 유니폼 파는 사이트 좀 가르쳐 주세요.
+### Vietnamese:
+        Nữ: Trang phục đội cổ vũ đang mặc trông thật đẹp. Tôi cũng muốn mua nó.
+        Nam: Chúng ta cũng có thể mua đồng phục. Mua trên mạng là được.
+        Nữ: Anh chỉ cho tôi trang web bán đồng phục với nhé.
+### English:
+        Woman: The clothes the cheerleaders are wearing look so cool. I want to buy one too.
+        Man: We can buy the uniforms too. You can order them online.
+        Woman: Can you show me the website that sells them?
+### Answer:
+        nan
+### Correct Answer: 2
+### Vietnamese Explain:
+        1. Người đàn ông đã mua đồng phục.
+        2. Đội cổ vũ đang mặc đồng phục.
+        3. Hai người đã đi xem một buổi hòa nhạc.
+        4. Người phụ nữ biết trang web bán đồng phục.
+        --------------------
+        여자: 응원단이 입고 있는 옷이 멋있어요. (Nữ: Trang phục đội cổ vũ đang mặc trông thật đẹp.)
+        남자: 우리도 유니폼을 살 수 있어요. (Nam: Chúng ta cũng có thể mua đồng phục.)
+        
+        => Đội cổ vũ đang mặc đồng phục.
+### English Explain:
+        1. The man bought a uniform.
+        2. The cheerleaders are wearing uniforms.
+        3. The two people went to a concert.
+        4. The woman knows the website that sells uniforms.
+        --------------------
+        <g>여자: 응원단이 입고 있는 옷이 멋있어요.</g> (The clothes the cheerleaders are wearing look so cool.)
+        <g>남자: 우리도 유니폼을 살 수 있어요.</g> (Man: We can buy the uniforms too.)
+        
+        => The cheerleaders are wearing uniforms.
+
+10. ### Text Audio:
+        남자: 김밥을 처음 먹어 봤는데 정말 맛있네요.
+        여자: 제가 만들었어요. 김밥은 먹기 편하고 맛있어서 요즘 외국에서도 인기가 많아요.
+        남자: 저도 김밥 만드는 방법을 배우고 싶어요. 
+### Vietnamese:
+        Nam: Đây là lần đầu tiên tôi ăn kimbap, và nó thực sự rất ngon.
+        Nữ: Tôi làm đấy. Kimbap vừa dễ ăn vừa ngon, nên gần đây cũng rất nổi tiếng ở nước ngoài.
+        Nam: Tôi cũng muốn học cách làm kimbap.
+### English:
+        Man: This is my first time eating kimbap, and it's really delicious.
+        Woman: I made it. Kimbap is easy to eat and tasty, so it's becoming popular overseas.
+        Man: I'd like to learn how to make kimbap too.
+### Answer:
+        nan
+### Correct Answer: 4
+### Vietnamese Explain:
+        1. Người phụ nữ đã mua kimbap ở cửa hàng.
+        2. Người đàn ông đã từng ăn kimbap trước đây.
+        3. Người đàn ông muốn biết cửa hàng bán kimbap.
+        4. Kimbap cũng được yêu thích ở nước ngoài.
+        --------------------
+        여자: 김밥은 먹기 편하고 맛있어서 요즘 외국에서도 인기가 많아요. (Nữ: Kimbap vừa dễ ăn vừa ngon, nên gần đây cũng rất nổi tiếng ở nước ngoài.)
+### English Explain:
+        1. The woman bought kimbap from a store.
+        2. The man has tried kimbap before.
+        3. The man wants to know a store that sells kimbap.
+        4. Kimbap is popular even in foreign countries.
+        --------------------
+        <g>여자: 김밥은 먹기 편하고 맛있어서 요즘 외국에서도 인기가 많아요.</g> (Woman: Kimbap is easy to eat and tasty, so it's becoming popular overseas.)
+
+11. ### Text Audio:
+        여자: 유수프 씨, 여기서 요리하면 안 돼요.
+        남자: 어, 휴게실에서 요리하면 안 되는지 몰랐어요.
+        여자: 요리는 조리실에서 해야 돼요. 아홉 시까지 이용할 수 있어요. 아, 요리한 음식을 휴게실에서 먹는 건 괜찮아요.
+        남자: 아, 그래요? 알려주셔서 감사합니다.
+### Vietnamese:
+        Nữ: Yusuf, anh không được nấu ăn ở đây.
+        Nam: Ồ, tôi không biết là không được nấu ăn trong phòng giải lao.
+        Nữ: Anh phải nấu ăn trong phòng nấu ăn. Phòng nấu ăn có thể sử dụng đến 9 giờ. À, nhưng ăn thức ăn đã nấu trong phòng giải lao thì không sao.
+        Nam: Ồ, vậy à? Cảm ơn vì đã nói cho tôi biết.
+### English:
+        Woman: Yusuf, you're not allowed to cook here.
+        Man: Oh, I didn't know we couldn't cook in the lounge.
+        Woman: Cooking must be done in the kitchen. You can use it until 9 o'clock. But eating cooked food in the lounge is fine.
+        Man: Oh, really? Thanks for letting me know.
+### Answer:
+        nan
+### Correct Answer: 2
+### Vietnamese Explain:
+        1. Người phụ nữ và người đàn ông đang ở phòng nấu ăn.
+        2. Người đàn ông đã nấu ăn trong phòng giải lao.
+        3. Không được ăn uống trong phòng giải lao.
+        4. Sau 9 giờ vẫn có thể sử dụng phòng nấu ăn.
+        --------------------
+        남자: 어, 휴게실에서 요리하면 안 되는지 몰랐어요. (Ồ, tôi không biết là không được nấu ăn trong phòng giải lao.)
+### English Explain:
+        1. The woman and the man are in the kitchen.
+        2. The man cooked in the lounge.
+        3. Eating is not allowed in the lounge.
+        4. The kitchen can be used even after 9 o'clock.
+        --------------------
+        <g>남자: 어, 휴게실에서 요리하면 안 되는지 몰랐어요.</g> (Man: Oh, I didn't know we couldn't cook in the lounge.)
+
+12. ### Text Audio:
+        여자: 푸캄 씨, 조금 전에 다라 씨하고 왜 싸운 거예요?
+        남자: 다라 씨가 내 말에 대답을 안 해서 저를 무시하는 줄 알았어요. 
+        여자: 아마 기계 소리 때문에 못 들었을 거예요. 
+        남자: 맞아요. 제가 오해를 했어요. 그래서 다라 씨한테 미안하다고 말했어요. 
+### Vietnamese:
+        Nữ: Phukham, sao lúc nãy anh cãi nhau với Dara vậy?
+        Nam: Dara không trả lời tôi, nên tôi tưởng anh ấy đang phớt lờ tôi.
+        Nữ: Có lẽ anh ấy không nghe thấy vì tiếng máy móc quá lớn.
+        Nam: Đúng rồi, tôi đã hiểu lầm. Nên tôi đã nói lời xin lỗi với Dara.
+### English:
+        Woman: Phukham, why were you arguing with Dara earlier?
+        Man: Dara didn't respond to me, so I thought he was ignoring me.
+        Woman: He probably didn't hear you because of the machine noise.
+        Man: You're right. I misunderstood. So I apologized to Dara.
+### Answer:
+        nan
+### Correct Answer: 1
+### Vietnamese Explain:
+        1. Người đàn ông đã cãi nhau với đồng nghiệp.
+        2. Người phụ nữ đã hiểu lầm lời của người đàn ông.
+        3. Người đàn ông đã nói xin lỗi người phụ nữ.
+        4. Người phụ nữ không nghe được lời của người đàn ông vì quá ồn ào.
+        --------------------
+        여자: 푸캄 씨, 조금 전에 다라 씨하고 왜 싸운 거예요? (Nữ: Phukham, sao lúc nãy anh cãi nhau với Dara vậy?)
+### English Explain:
+        1. The man had an argument with his colleague.
+        2. The woman misunderstood the man's words.
+        3. The man apologized to the woman.
+        4. The woman couldn't hear the man because it was too noisy.
+        --------------------
+        <g>여자: 푸캄 씨, 조금 전에 다라 씨하고 왜 싸운 거예요?</g> (Woman: Phukham, why were you arguing with Dara earlier?)
+
+13. ### Text Audio:
+        여자: 작업장이 엉망이네요. 냄새도 많이 나고요.
+        남자: 어제 페인트 작업을 했거든요. 너무 늦어서 청소를 못 하고 퇴근했어요.
+        여자: 일 시작하기 전에 환기부터 해야겠어요. 아궁 씨는 청소 도구 좀 가져오세요.
+### Vietnamese:
+        Nữ: Xưởng làm việc bừa bộn quá. Mùi cũng rất nặng nữa.
+        Nam: Đó là vì hôm qua chúng tôi đã làm công việc sơn. Vì đã quá muộn nên tôi không dọn dẹp mà tan làm luôn.
+        Nữ: Trước khi bắt đầu công việc, chúng ta sẽ phải thông gió trước. Agung hãy mang dụng cụ vệ sinh đến đây giúp tôi.
+### English:
+        Woman: The workshop is a mess. It also smells really bad.
+        Man: We did the painting yesterday. It was too late, so I left work without cleaning up.
+        Woman: We should ventilate the area before starting work. Agung, please bring the cleaning tools here for me.
+### Answer:
+        nan
+### Correct Answer: 1
+### Vietnamese Explain:
+        1. Người đàn ông đã tan làm muộn vào hôm qua.
+        2. Người phụ nữ sẽ mang dụng cụ dọn dẹp đến.
+        3. Xưởng làm việc đã được dọn dẹp sạch sẽ.
+        4. Hai người sẽ thực hiện công việc sơn hôm nay.
+        --------------------
+        남자: 너무 늦어서 청소를 못 하고 퇴근했어요. (Vì đã quá muộn nên tôi không dọn dẹp mà tan làm luôn.)
+### English Explain:
+        1. The man left work late yesterday.
+        2. The woman will bring cleaning tools.
+        3. The workplace has been cleaned thoroughly.
+        4. The two people will do painting work today.
+        --------------------
+        <g>남자: 너무 늦어서 청소를 못 하고 퇴근했어요.</g> (Man: It was too late, so I left work without cleaning up.)
+
+14. ### Text Audio:
+        여자: 마두 씨, 손 괜찮아요? 프레스 기계는 조금만 방심해도 큰 사고가 날 수 있어요. 
+        남자: 네, 괜찮아요. 잠깐 딴 생각을 했어요. 다칠 뻔했네요.
+        여자: 많이 놀랐죠? 좀 쉬었다가 하세요.
+### Vietnamese:
+        Nữ: Madu, tay anh có sao không? Nếu lơ là một chút, máy ép có thể gây ra tai nạn nghiêm trọng đấy.
+        Nam: Vâng, tôi ổn. Tôi đã lơ đễnh một chút. Suýt nữa thì bị thương.
+        Nữ: Chắc anh đã hoảng hốt lắm. Nghỉ một chút rồi hãy làm tiếp nhé.
+### English:
+        Woman: Madu, is your hand okay? If you lose focus even for a moment, the press machine can cause serious accidents.
+        Man: Yes, I'm fine. I got distracted for a moment. I almost got hurt.
+        Woman: That must have been scary. Take a short break before continuing.
+### Answer:
+        nan
+### Correct Answer: 1
+### Vietnamese Explain:
+        1. Người đàn ông đã suy nghĩ về việc khác trong khi làm việc.
+        2. Người đàn ông bị thương ở tay do máy ép.
+        3. Người phụ nữ đang hướng dẫn người đàn ông cách làm việc.
+        4. Người phụ nữ đang sử dụng máy ép để làm việc.
+        --------------------
+        남자: 잠깐 딴 생각을 했어요. (Nam: Tôi đã lơ đễnh một chút.)
+### English Explain:
+        1. The man was thinking about something else while working.
+        2. The man injured his hand because of the press machine.
+        3. The woman is explaining the work method to the man.
+        4. The woman is using the press machine for work.
+        --------------------
+        <g>남자: 잠깐 딴 생각을 했어요.</g> (Man: I got distracted for a moment.)
+
+15. ### Text Audio:
+        여자: 마두 씨, 절단 작업은 다 끝났어요?
+        남자: 네, 방금 다 했어요.
+        여자: 그럼 자하라 씨한테 용접봉 좀 가져다주세요. 아까부터 찾고 있었어요.
+### Vietnamese:
+        Nữ: Madu, anh đã hoàn thành công việc cắt chưa?
+        Nam: Vâng, tôi vừa mới làm xong.
+        Nữ: Vậy thì hãy mang que hàn đến cho Zahara nhé. Cô ấy đã tìm nó từ nãy giờ.
+### English:
+        Woman: Madu, have you finished the cutting work?
+        Man: Yes, I just finished it.
+        Woman: Then please bring some welding rods to Zahara. She's been looking for them for a while.
+### Answer:
+        nan
+### Correct Answer: 1
+### Vietnamese Explain:
+        1. Người đàn ông vừa mới hoàn thành công việc.
+        2. Người đàn ông đang tìm que hàn.
+        3. Người phụ nữ đang tìm Zahara.
+        4. Zahara hiện đang thực hiện công việc cắt.
+        --------------------
+        남자: 네, 방금 다 했어요. (Nam: Vâng, tôi vừa mới làm xong.)
+### English Explain:
+        1. The man has just finished his work.
+        2. The man was looking for welding rods.
+        3. The woman is looking for Zahara.
+        4. Zahara is currently doing cutting work.
+        --------------------
+        <g>남자: 네, 방금 다 했어요.</g> (Man: Yes, I just finished it.)
+
+16. ### Text Audio:
+        여자: 거푸집 설치 작업도 끝났으니까 이제 콘크리트를 타설하겠네요.
+        남자: 네, 내일 오후에 콘크리트 믹서가 도착할걸요.
+        여자: 아, 그럼 오늘은 콘크리트 타설 작업이 없는 거네요.
+### Vietnamese:
+        Nữ: Vì việc lắp đặt cốp pha đã hoàn thành, bây giờ chúng ta sẽ đổ bê tông.
+        Nam: Vâng, có lẽ máy trộn bê tông sẽ đến vào chiều mai.
+        Nữ: À, vậy là hôm nay không có công đoạn đổ bê tông rồi.
+### English:
+        Woman: Since the formwork installation is done, we'll start pouring the concrete now.
+        Man: Yes, the concrete mixer will arrive tomorrow afternoon.
+        Woman: Oh, so there will be no concrete pouring today.
+### Answer:
+        nan
+### Correct Answer: 1
+### Vietnamese Explain:
+        1. Việc lắp đặt cốp pha đã hoàn thành.
+        2. Hôm nay sẽ đổ bê tông.
+        3. Xe trộn bê tông đã đến công trường.
+        4. Sau khi đổ bê tông sẽ lắp ráp cốp pha.
+        --------------------
+        여자: 거푸집 설치 작업도 끝났으니까 이제 콘크리트를 타설하겠네요. (Nữ: Vì việc lắp đặt cốp pha đã hoàn thành, bây giờ chúng ta sẽ đổ bê tông.)
+### English Explain:
+        1. The formwork installation has been completed.
+        2. Concrete will be poured today.
+        3. The concrete mixer has arrived at the construction site.
+        4. The formwork will be assembled after the concrete is poured.
+        --------------------
+        <g>여자: 거푸집 설치 작업도 끝났으니까 이제 콘크리트를 타설하겠네요.</g> (Woman: Since the formwork installation is done, we'll start pouring the concrete now.)
+
+17. ### Text Audio:
+        남자: 수레 위에 있던 비닐 못 봤어요? 밭에 가져가야 하는데 없네요.
+        여자: 제가 미리 가져다 두었어요. 창고에서 삽도 꺼내 놓고요. 
+        남자: 고마워요. 그럼 삽 챙겨서 밭에 먼저 가 있을게요. 
+### Vietnamese:
+        Nam: Cô có thấy tấm ni lông trên xe cút kít ở đâu không? Tôi cần mang nó ra ruộng nhưng không thấy đâu cả.
+        Nữ: Tôi đã mang ra đó trước rồi. Tôi cũng đã lấy xẻng từ kho ra luôn.
+        Nam: Cảm ơn nhé. Vậy tôi sẽ lấy xẻng và đi ra ruộng trước.
+### English:
+        Man: Did you see the plastic sheet that was on the cart? I need to take it to the field, but it's gone.
+        Woman: I already took it there. I also got a shovel from the warehouse.
+        Man: Thanks. Then I'll take the shovel and head to the field first.
+### Answer:
+        nan
+### Correct Answer: 4
+### Vietnamese Explain:
+        1. Người đàn ông không biết ruộng ở đâu.
+        2. Người phụ nữ sẽ mang xẻng ra ruộng.
+        3. Người đàn ông đã mang tấm nhựa ra ruộng.
+        4. Người phụ nữ đã đến kho để lấy xẻng.
+        --------------------
+        여자: 창고에서 삽도 꺼내 놓고요. (Nữ: Tôi cũng đã lấy xẻng từ kho ra luôn.)
+### English Explain:
+        1. The man doesn't know where the field is.
+        2. The woman will take the shovel to the field.
+        3. The man has placed the plastic sheet in the field.
+        4. The woman went to the warehouse to get the shovel.
+        --------------------
+        <g>여자: 창고에서 삽도 꺼내 놓고요.</g> (Woman: I also got a shovel from the warehouse.)
+
+18. ### Text Audio:
+        여자: 그물 위치를 확인했으니 양망기를 준비하고 로프를 연결해 주세요.
+        남자: 네, 그럼 로프를 연결하고 바로 그물을 끌어올릴까요?
+        여자: 좋아요. 부표도 같이 올려 주세요. 그리고 끌어올릴 때 로프에 발이 걸리지 않게 조심하세요.
+### Vietnamese:
+        Nữ: Chúng ta đã kiểm tra vị trí lưới rồi, hãy chuẩn bị máy kéo lưới và buộc dây thừng vào.
+        Nam: Vâng, vậy tôi sẽ buộc dây thừng và kéo lưới lên ngay bây giờ nhé?
+        Nữ: Được. Hãy kéo cả phao lên cùng luôn. Và khi kéo lên, hãy cẩn thận kẻo bị vướng chân vào dây thừng nhé.
+### English:
+        Woman: Now that we've checked the net's position, get the net hauler ready and connect the ropes.
+        Man: Okay, should I connect the ropes and pull up the net right away?
+        Woman: Sounds good. Bring up the buoys as well. And be careful not to get your feet caught in the ropes while pulling.
+### Answer:
+        nan
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Không được kéo phao lên.
+        2. Phải buộc dây thừng vào phao.
+        3. Sẽ dùng máy kéo lưới lên.
+        4. Phải dùng chân giữ dây thừng khi làm việc.
+        --------------------
+        여자: 그물 위치를 확인했으니 양망기를 준비하고 로프를 연결해 주세요. (Nữ: Chúng ta đã kiểm tra vị trí lưới rồi, hãy chuẩn bị máy kéo lưới và buộc dây thừng vào.)
+### English Explain:
+        1. The buoy must not be pulled up.
+        2. The rope must be tied to the buoy.
+        3. The net will be pulled up using a net hauler.
+        4. The rope must be held with the foot while working.
+        --------------------
+        <g>여자: 그물 위치를 확인했으니 양망기를 준비하고 로프를 연결해 주세요.</g> (Woman: Now that we've checked the net's position, get the net hauler ready and connect the ropes.)
+
+19. ### Text Audio:
+        여자: 왕민 씨, 발파한다는 소리 못 들었어요? 
+        남자: 죄송합니다, 반장님. 기계 소리 때문에 못 들었어요.
+        여자: 5분 후에 발파할 거니까 하던 일 멈추고 얼른 나가세요.
+### Vietnamese:
+        Nữ: Wangmin, anh không nghe thấy tiếng thông báo nổ mìn sao?
+        Nam: Xin lỗi, tổ trưởng. Tôi không nghe thấy vì tiếng máy quá lớn.
+        Nữ: Chúng tôi sẽ cho nổ trong 5 phút nữa, hãy dừng công việc và nhanh chóng ra ngoài ngay.
+### English:
+        Woman: Wangmin, didn't you hear the blasting warning?
+        Man: I'm sorry, team leader. I couldn't hear it because of the machine noise.
+        Woman: We're blasting in five minutes, so stop what you're doing and get out immediately.
+### Answer:
+        nan
+### Correct Answer: 4
+### Vietnamese Explain:
+        1. Tổ trưởng không biết về kế hoạch nổ mìn.
+        2. Wangmin hiện đang học cách sử dụng máy móc.
+        3. Tổ trưởng đang thực hiện công việc nổ mìn cùng Wangmin.
+        4. Wangmin phải dừng công việc và rời khỏi nơi làm việc.
+        --------------------
+        여자: 5분 후에 발파할 거니까 하던 일 멈추고 얼른 나가세요. (Nữ: Chúng tôi sẽ cho nổ trong 5 phút nữa, hãy dừng công việc và nhanh chóng ra ngoài ngay.)
+### English Explain:
+        1. The team leader does not know about the blasting plan.
+        2. Wangmin is currently learning how to use the machine.
+        3. The team leader is working on the blasting operation with Wangmin.
+        4. Wangmin must stop working and leave the worksite.
+        --------------------
+        <g>여자: 5분 후에 발파할 거니까 하던 일 멈추고 얼른 나가세요.</g> (Woman: We're blasting in five minutes, so stop what you're doing and get out immediately.)
+
+20. ### Text Audio:
+        남자: 유니폼이 잘 어울리네요. 오늘이 청소하는 첫날이지요?
+        여자: 네. 그런데 제가 청소할 오 층 객실 출입 열쇠는 누구에게서 받아요?
+        남자: 이따가 실장님이 주실 거예요. 그전에 하우스키핑 카트 정리부터 하세요.
+### Vietnamese:
+        Nam: Bộ đồng phục trông hợp với cô lắm. Hôm nay là ngày đầu tiên cô làm công việc dọn dẹp phải không?
+        Nữ: Vâng. Nhưng tôi phải lấy chìa khóa phòng ở tầng năm từ ai vậy?
+        Nam: Trưởng bộ phận sẽ đưa cho cô sau. Trước đó, hãy sắp xếp lại xe đẩy dọn dẹp trước đi.
+### English:
+        Man: The uniform looks good on you. Today is your first day of cleaning, right?
+        Woman: Yes. But who should I get the keys for the fifth-floor rooms from?
+        Man: The section chief will give it to you later. In the meantime, organize the housekeeping cart first.
+### Answer:
+        nan
+### Correct Answer: 2
+### Vietnamese Explain:
+        1. Người phụ nữ đã sắp xếp xe đẩy xong.
+        2. Người phụ nữ phải dọn dẹp phòng ở tầng 5.
+        3. Người phụ nữ đã nhận chìa khóa từ người đàn ông.
+        4. Người phụ nữ định thay đồng phục.
+        --------------------
+        Người phụ nữ làm công việc dọn dẹp và đã hỏi người đàn ông về chìa khóa phòng tầng 5. => Người phụ nữ phải dọn dẹp phòng ở tầng 5.
+### English Explain:
+        1. The woman has finished organizing the cart.
+        2. The woman has to clean the rooms on the 5th floor.
+        3. The woman received the keys from the man.
+        4. The woman is about to change into her uniform.
+        --------------------
+        The woman's job is to clean and she asked the man for the keys to the rooms on the 5th floor. => The woman has to clean the rooms on the 5th floor.
+
+21. ### Text Audio:
+        남자: 대리님, 말씀하신 대로 안전화도 신고 안전장갑도 꼈습니다.
+        여자: 잘했어요. 어, 그런데 왜 안전모를 손에 들고 있어요?
+        남자: 날씨가 너무 더워서 벗었습니다.
+        여자: 저기에 붙어 있는 안전 표지를 보세요. 건설 현장에서는 위에서 물체가 떨어질 수 있기 때문에 항상 안전모를 써야 돼요.
+### Vietnamese:
+        Nam: Trợ lý giám đốc ơi, tôi đã đi giày bảo hộ và đeo găng tay an toàn như cô nói rồi.
+        Nữ: Tốt lắm. Nhưng sao anh lại cầm mũ bảo hộ trên tay vậy?
+        Nam: Trời nóng quá nên tôi tháo ra.
+        Nữ: Hãy nhìn biển báo an toàn gắn ở đó. Tại công trường, có thể có vật thể rơi từ trên cao xuống, nên anh phải luôn đội mũ bảo hộ.
+### English:
+        Man: Assistant manager, I have put on my safety shoes and gloves as you instructed.
+        Woman: Good job. But why are you holding your safety helmet in your hand?
+        Man: It's too hot, so I took it off.
+        Woman: Look at the safety sign over there. At a construction site, objects can fall from above, so you must always wear your safety helmet.
+### Answer:
+        nan
+### Correct Answer: 4
+### Vietnamese Explain:
+        1. Người đàn ông phải thay sang giày bảo hộ.
+        2. Người đàn ông đã không mang theo mũ bảo hộ.
+        3. Người phụ nữ sẽ mang găng tay bảo hộ đến cho người đàn ông.
+        4. Người phụ nữ đã giải thích về biển báo an toàn cho người đàn ông.
+        --------------------
+        여자: 저기에 붙어 있는 안전 표지를 보세요. 건설 현장에서는 위에서 물체가 떨어질 수 있기 때문에 항상 안전모를 써야 돼요. (Nữ: Hãy nhìn biển báo an toàn gắn ở đó. Tại công trường, có thể có vật thể rơi từ trên cao xuống, nên anh phải luôn đội mũ bảo hộ.)
+### English Explain:
+        1. The man must change into safety shoes.
+        2. The man did not bring a safety helmet.
+        3. The woman will bring safety gloves to the man.
+        4. The woman explained the safety sign to the man.
+        --------------------
+        <g>여자: 저기에 붙어 있는 안전 표지를 보세요. 건설 현장에서는 위에서 물체가 떨어질 수 있기 때문에 항상 안전모를 써야 돼요.</g> (Woman: Look at the safety sign over there. At a construction site, objects can fall from above, so you must always wear your safety helmet.)
+
+22. ### Text Audio:
+        남자: 반장님, 오늘 작업할 때 마스크도 써야 돼요?
+        여자: 네, 작업 중에 먼지가 많이 발생할 테니까 방진 마스크를 꼭 쓰세요. 다른 보호 장비는 다 챙겼어요?
+        남자: 네, 안전화는 신었고, 안전모하고 보안경은 챙겼습니다.
+        여자: 좋아요. 마스크도 잊지 말고 챙기세요.
+### Vietnamese:
+        Nam: Tổ trưởng, hôm nay khi làm việc có cần đeo khẩu trang không?
+        Nữ: Có, vì trong quá trình làm việc sẽ có nhiều bụi, nên anh nhất định phải đeo khẩu trang chống bụi. Anh đã chuẩn bị đầy đủ các thiết bị bảo hộ khác chưa?
+        Nam: Rồi ạ. Tôi đã đi giày bảo hộ, mang theo mũ bảo hộ và kính bảo hộ.
+        Nữ: Tốt. Đừng quên khẩu trang nữa nhé.
+### English:
+        Man: Team leader, do we need to wear a mask while working today?
+        Woman: Yes, a lot of dust will be generated during work, so make sure to wear a dust mask. Have you prepared all the other protective gear?
+        Man: Yes, I'm wearing safety shoes, and I've brought my safety helmet and safety glasses.
+        Woman: Good. Don't forget to wear your mask as well.
+### Answer:
+        nan
+### Correct Answer: 4
+### Vietnamese Explain:
+        1. Người đàn ông đã không chuẩn bị mũ bảo hộ.
+        2. Không cần phải đeo khẩu trang chống bụi.
+        3. Người đàn ông không có kính bảo hộ nên không thể mang theo.
+        4. Hôm nay sẽ thực hiện công việc tạo ra nhiều bụi.
+        --------------------
+        여자: 네, 작업 중에 먼지가 많이 발생할 테니까 방진 마스크를 꼭 쓰세요. (Nữ: Có, vì trong quá trình làm việc sẽ có nhiều bụi, nên anh nhất định phải đeo khẩu trang chống bụi.)
+### English Explain:
+        1. The man did not prepare a safety helmet.
+        2. A dust mask does not need to be worn.
+        3. The man could not bring safety glasses because he did not have them.
+        4. Today, they will be working in an environment with a lot of dust.
+        --------------------
+        <g>여자: 네, 작업 중에 먼지가 많이 발생할 테니까 방진 마스크를 꼭 쓰세요.</g> (Woman: Yes, a lot of dust will be generated during work, so make sure to wear a dust mask.)
+
+23. ### Text Audio:
+        남자: 선생님, 저 이번에 고용허가제 시험에 합격했어요.
+        여자: 그래요? 연락이 없어서 시험에 떨어진 줄 알았어요. 정말 축하해요.
+        남자: 감사합니다. 선생님께서 한국어를 잘 가르쳐 주신 덕분입니다.
+### Vietnamese:
+        Nam: Cô giáo ơi, lần này em đã đậu kỳ thi EPS (hệ thống cấp phép lao động) rồi ạ.
+        Nữ: Vậy sao? Vì không thấy em liên lạc nên cô tưởng em trượt rồi chứ. Chúc mừng em nhé.
+        Nam: Cảm ơn cô ạ. Nhờ cô dạy tiếng Hàn tốt nên em mới đạt được kết quả này.
+### English:
+        Man: Teacher, I passed the Employment Permit System (EPS) exam this time.
+        Woman: Really? Since I didn't hear from you, I thought you had failed. Congratulations.
+        Man: Thank you. It's all thanks to your great Korean lessons.
+### Answer:
+        nan
+### Correct Answer: 1
+### Vietnamese Explain:
+        1. Người phụ nữ đã dạy tiếng Hàn cho người đàn ông.
+        2. Người phụ nữ đã cùng người đàn ông tham gia kỳ thi lần này.
+        3. Người đàn ông cảm thấy không vui vì trượt kỳ thi.
+        4. Người đàn ông dự định đến Hàn Quốc để học tiếng Hàn.
+        --------------------
+        남자: 선생님께서 한국어를 잘 가르쳐 주신 덕분입니다. (Nam: Nhờ cô dạy tiếng Hàn tốt nên em mới đạt được kết quả này.)
+### English Explain:
+        1. The woman taught Korean to the man.
+        2. The woman took the exam together with the man this time.
+        3. The man feels bad because he failed the exam.
+        4. The man is planning to go to Korea to study Korean.
+        --------------------
+        <g>남자: 선생님께서 한국어를 잘 가르쳐 주신 덕분입니다.</g> (Man: It's all thanks to your great Korean lessons.)
+
+24. ### Text Audio:
+        여자: 표준근로계약서는 잘 확인해 봤어요?
+        남자: 네, 근로 조건이 좋은 것 같아요. 업무 내용과 임금 모두 마음에 들어요.
+        여자: 기숙사도 제공해 준다고 해요?
+        남자: 아니요. 그래서 좀 걱정이에요. 
+### Vietnamese:
+        Nữ: Anh đã kiểm tra kỹ hợp đồng lao động tiêu chuẩn chưa?
+        Nam: Vâng, điều kiện làm việc có vẻ tốt. Tôi thấy nội dung công việc và mức lương đều ổn.
+        Nữ: Công ty có cung cấp ký túc xá không?
+        Nam: Không có, nên tôi hơi lo lắng một chút.
+### English:
+        Woman: Have you checked the standard labor contract carefully?
+        Man: Yes, the working conditions seem good. I'm satisfied with both the job duties and salary.
+        Woman: Does the company provide a dormitory?
+        Man: No, so I'm a bit worried.
+### Answer:
+        nan
+### Correct Answer: 4
+### Vietnamese Explain:
+        1. Người phụ nữ đã soạn hợp đồng lao động tiêu chuẩn.
+        2. Người phụ nữ hài lòng với điều kiện lao động.
+        3. Người đàn ông lo lắng rằng mình sẽ nhận lương thấp.
+        4. Công ty mà người đàn ông ký hợp đồng không cung cấp ký túc xá.
+        --------------------
+        여자: 기숙사도 제공해 준다고 해요? (Nữ: Công ty có cung cấp ký túc xá không?)
+        남자: 아니요. 그래서 좀 걱정이에요. (Nam: Không có, nên tôi hơi lo lắng một chút.)
+### English Explain:
+        1. The woman wrote the standard labor contract.
+        2. The woman is satisfied with the working conditions.
+        3. The man is worried that he will be paid less.
+        4. The company that the man signed a contract with does not provide dormitory housing.
+        --------------------
+        <g>여자: 기숙사도 제공해 준다고 해요?</g> (Woman: Does the company provide a dormitory?)
+        <g>남자: 아니요. 그래서 좀 걱정이에요.</g> (Man: No, so I'm a bit worried.)
+
+25. ### Text Audio:
+        여자: 내일 출입국·외국인사무소에 가는 날인데 감기가 너무 심해요. 예약을 취소할 수 있을까요?
+        남자: 네, 예약 취소는 방문 하루 전까지 할 수 있어요.
+        여자: 그래요? 지금 바로 취소해야겠어요.
+### Vietnamese:
+        Nữ: Ngày mai tôi phải đến Văn phòng Xuất nhập cảnh, nhưng tôi bị cảm nặng quá. Tôi có thể hủy lịch hẹn không?
+        Nam: Có, cô có thể hủy lịch hẹn trước một ngày.
+        Nữ: Vậy sao? Vậy tôi phải hủy ngay bây giờ mới được.
+### English:
+        Woman: I have to go to the Immigration Office tomorrow, but I have a really bad cold. Can I cancel my appointment?
+        Man: Yes, you can cancel your appointment up to a day before your visit.
+        Woman: Really? Then I should cancel it right away.
+### Answer:
+        nan
+### Correct Answer: 1
+### Vietnamese Explain:
+        1. Người phụ nữ sẽ hủy đặt lịch ngay bây giờ.
+        2. Người phụ nữ muốn hủy đặt lịch vì mệt mỏi.
+        3. Hôm nay là ngày đến Văn phòng Xuất nhập cảnh.
+        4. Có thể hủy đặt lịch trước thời gian đến một giờ.
+        --------------------
+        여자: 지금 바로 취소해야겠어요. (Nữ: Vậy tôi phải hủy ngay bây giờ mới được.)
+### English Explain:
+        1. The woman is about to cancel the appointment now.
+        2. The woman is canceling the appointment because she is tired.
+        3. Today is the day to visit the Immigration Office.
+        4. The appointment can be canceled up to one hour before the visit.
+        --------------------
+        <g>여자: 지금 바로 취소해야겠어요.</g> (Woman: Then I should cancel it right away.)
+
+26. ### Text Audio:
+        여자: 회사 사정이 어려워져서 문을 닫았어요. 그래서 두 달째 월급을 못 받고 있어요.
+        남자: 그럼 고용노동부에 가서 신고 접수부터 하세요. 회사에서 임금체불보증보험에 가입해 두었으면 밀린 월급을 받을 수 있을 거예요.
+### Vietnamese:
+        Nữ: Công ty gặp khó khăn nên đã đóng cửa rồi. Vì vậy, tôi đã hai tháng chưa nhận được lương.
+        Nam: Vậy thì cô hãy đến Bộ Việc làm và Lao động để nộp đơn khiếu nại trước. Nếu công ty có tham gia bảo hiểm đảm bảo tiền lương, cô có thể nhận lại số tiền lương bị nợ.
+### English:
+        Woman: The company had financial difficulties and closed down. That's why I haven't received my salary for two months.
+        Man: Then you should first file a complaint with the Ministry of Employment and Labor. If the company has enrolled in the pay guarantee insurance, you might be able to receive your unpaid wages.
+### Answer:
+        nan
+### Correct Answer: 1
+### Vietnamese Explain:
+        1. Người phụ nữ sẽ đến Bộ Việc làm và Lao động.
+        2. Người phụ nữ chưa từng làm việc tại công ty.
+        3. Người phụ nữ đã báo cáo và nhận được tiền lương.
+        4. Người phụ nữ đã tham gia bảo hiểm đảm bảo tiền lương bị chậm trả.
+        --------------------
+        남자: 그럼 고용노동부에 가서 신고 접수부터 하세요. (Nam: Vậy thì cô hãy đến Bộ Việc làm và Lao động để nộp đơn khiếu nại trước.)
+### English Explain:
+        1. The woman will go to the Ministry of Employment and Labor.
+        2. The woman has never worked at the company.
+        3. The woman reported the issue and received her salary.
+        4. The woman has enrolled in the pay guarantee insurance. 
+        --------------------
+        <g>남자: 그럼 고용노동부에 가서 신고 접수부터 하세요.</g> (Man: Then you should first file a complaint with the Ministry of Employment and Labor.)
+
+27. ### Text Audio:
+        남자: 아미나 씨, 한국 생활은 어때요?
+        여자: 좋아요. 가족이 보고 싶지만, 회사 사람들이 친절해서 재미있게 지내고 있어요.
+        남자: 그래요? 다행이네요.
+### Vietnamese:
+        Nam: Amina, cuộc sống ở Hàn Quốc thế nào?
+        Nữ: Tốt ạ. Tôi nhớ gia đình, nhưng mọi người ở công ty thân thiện nên tôi sống rất vui vẻ.
+        Nam: Vậy à? Thật may mắn.
+### English:
+        Man: Amina, how is life in Korea?
+        Woman: It's good. I miss my family, but the people at the company are friendly, so I'm having a good time.
+        Man: Really? That's a relief.
+### Answer:
+        nan
+### Correct Answer: 2
+### Vietnamese Explain:
+        1. Người phụ nữ muốn về quê.
+        2. Người phụ nữ hài lòng với cuộc sống ở công ty.
+        3. Người đàn ông và người phụ nữ là bạn bè ở quê.
+        4. Người đàn ông nghĩ rằng cuộc sống ở Hàn Quốc rất khó khăn.
+        --------------------
+        여자: 가족이 보고 싶지만, 회사 사람들이 친절해서 재미있게 지내고 있어요. (Nữ: Tôi nhớ gia đình, nhưng mọi người ở công ty thân thiện nên tôi sống rất vui vẻ.)
+### English Explain:
+        1. The woman wants to go back to her hometown.
+        2. The woman is satisfied with her company life.
+        3. The man and woman are friends from their hometown.
+        4. The man thinks that life in Korea is difficult.
+        --------------------
+        <g>여자: 고향 친구들이 보고 싶지만, 회사 사람들이 친절해서 재미있게 지내고 있어요.</g> (Woman: I miss my family, but the people at the company are friendly, so I'm having a good time.)
+
+28. ### Text Audio:
+        여자: 오늘 날씨가 정말 덥네요.
+        남자: 네, 너무 더워서 에어컨을 켜야겠어요.
+        여자: 저는 더위는 괜찮은데, 습도가 너무 높아서 힘들어요.
+        남자: 맞아요. 습도가 높으면 불쾌지수가 높아지죠.
+### Vietnamese:
+        Nữ: Thời tiết hôm nay nóng thật đấy.
+        Nam: Vâng, nóng quá nên tôi phải bật điều hòa thôi.
+        Nữ: Tôi thì thấy cái nóng không sao, nhưng độ ẩm cao quá nên thấy mệt.
+        Nam: Đúng vậy. Độ ẩm cao thì chỉ số khó chịu tăng lên.
+### English:
+        Woman: The weather is really hot today.
+        Man: Yes, it's so hot that I have to turn on the air conditioner.
+        Woman: I'm okay with the heat, but the humidity is too high, so I'm tired.
+        Man: That's right. High humidity increases the discomfort index.
+### Answer:
+        nan
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Người đàn ông không bị ảnh hưởng nhiều bởi cái nóng.
+        2. Người phụ nữ thích bật điều hòa.
+        3. Độ ẩm cao có thể làm tăng chỉ số khó chịu.
+        4. Thời tiết hôm nay lạnh và khô.
+        --------------------
+        남자: 습도가 높으면 불쾌지수가 높아지죠. (Nam: Độ ẩm cao thì chỉ số khó chịu tăng lên.)
+### English Explain:
+        1. The man is not much affected by the heat.
+        2. The woman likes to turn on the air conditioner.
+        3. High humidity can increase the discomfort index.
+        4. The weather today is cold and dry.
+        --------------------
+        <g>남자: 습도가 높으면 불쾌지수가 높아지죠.</g> (Man: High humidity increases the discomfort index.)
+
+29. ### Text Audio:
+        남자: 디안 씨, 이번 주말에 뭐 할 거예요?
+        여자: 글쎄요, 아직 특별한 계획은 없어요. 그냥 집에서 쉴까 생각 중이에요.
+        남자: 날씨도 좋은데, 같이 공원에 산책하러 가는 건 어때요?
+        여자: 그거 좋네요! 몇 시에 만날까요?
+### Vietnamese:
+        Nam: Dian, cuối tuần này bạn sẽ làm gì?
+        Nữ: Ừm, tôi vẫn chưa có kế hoạch gì đặc biệt. Tôi đang nghĩ đến việc nghỉ ngơi ở nhà thôi.
+        Nam: Thời tiết đẹp thế này, chúng ta cùng nhau đi dạo công viên thì sao?
+        Nữ: Ý kiến hay đấy! Mấy giờ chúng ta gặp nhau?
+### English:
+        Man: Dian, what are you going to do this weekend?
+        Woman: Well, I don't have any special plans yet. I'm just thinking of resting at home.
+        Man: The weather is nice, how about going for a walk in the park together?
+        Woman: That's a good idea! What time shall we meet?
+### Answer:
+        nan
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Người phụ nữ dự định gặp bạn vào cuối tuần.
+        2. Hai người sẽ xem phim vào cuối tuần này.
+        3. Người đàn ông đã đề nghị Sumi đi dạo công viên.
+        4. Người phụ nữ phải đến công ty vào cuối tuần.
+        --------------------
+        남자: 날씨도 좋은데, 같이 공원에 산책하러 가는 건 어때요? (Nam: Thời tiết đẹp thế này, chúng ta cùng nhau đi dạo công viên thì sao?)
+### English Explain:
+        1. The woman is planning to meet a friend this weekend.
+        2. The two will watch a movie this weekend.
+        3. The man suggested Sumi go for a walk in the park.
+        4. The woman has to go to work this weekend.
+        --------------------
+        <g>남자: 날씨도 좋은데, 같이 공원에 산책하러 가는 건 어때요?</g> (Man: The weather is nice, how about going for a walk in the park together?)
+
+30. ### Text Audio:
+        여자: 어제 저녁에 뭘 드셨어요?
+        남자: 저는 김치찌개를 먹었어요.
+        여자: 맛있겠네요. 저는 비빔밥을 먹었어요.
+### Vietnamese:
+        Nữ: Tối qua bạn đã ăn gì?
+        Nam: Tôi đã ăn canh kim chi.
+        Nữ: Ngon quá nhỉ. Tôi đã ăn bibimbap.
+### English:
+        Woman: What did you eat last night?
+        Man: I ate kimchi stew.
+        Woman: That sounds delicious. I ate bibimbap.
+### Answer:
+        nan
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Người phụ nữ đã ăn canh kim chi vào hôm qua.
+        2. Người đàn ông đã ăn bibimbap vào hôm qua.
+        3. Người đàn ông đã ăn canh kim chi vào hôm qua.
+        4. Hai người sẽ ăn bibimbap vào bữa trưa hôm nay.
+        --------------------
+        남자: 저는 김치찌개를 먹었어요. (Nam: Tôi đã ăn canh kim chi.)
+### English Explain:
+        1. The woman ate kimchi stew yesterday.
+        2. The man ate bibimbap yesterday.
+        3. The man ate kimchi stew yesterday.
+        4. The two will eat bibimbap for lunch today.
+        --------------------
+        <g>남자: 저는 김치찌개를 먹었어요.</g> (Man: I ate kimchi stew.)
+
+31. ### Text Audio:
+        남자: 아, 배가 너무 아파요.
+        여자: 혹시 어제 뭘 잘못 드셨어요?
+        남자: 글쎄요, 어제 먹은 샌드위치가 좀 상한 것 같았어요.
+### Vietnamese:
+        Nam: A, tôi đau bụng quá.
+        Nữ: Hôm qua anh có ăn phải thứ gì hỏng không?
+        Nam: Ừm, tôi nghĩ cái bánh sandwich tôi ăn hôm qua có vẻ hơi bị hỏng.
+### English:
+        Man: Ah, my stomach hurts so much.
+        Woman: Did you eat something bad yesterday?
+        Man: Well, I think the sandwich I ate yesterday seemed a bit spoiled.
+### Answer:
+        nan
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Người đàn ông bị cảm.
+        2. Người phụ nữ đã ăn bánh sandwich vào hôm qua.
+        3. Người đàn ông bị đau bụng vì cái bánh sandwich anh ấy ăn hôm qua.
+        4. Hai người đã quyết định đi bệnh viện.
+        --------------------
+        남자: 글쎄요, 어제 먹은 샌드위치가 좀 상한 것 같았어요. (Nam: Ừm, tôi nghĩ cái bánh sandwich tôi ăn hôm qua có vẻ hơi bị hỏng.)
+### English Explain:
+        1. The man has a cold.
+        2. The woman ate a sandwich yesterday.
+        3. The man has a stomach ache because of the sandwich he ate yesterday.
+        4. The two decided to go to the hospital.
+        --------------------
+        <g>남자: 글쎄요, 어제 먹은 샌드위치가 좀 상한 것 같았어요.</g> (Man: Well, I think the sandwich I ate yesterday seemed a bit spoiled.)
+
+32. ### Text Audio:
+        여자: 이번 설날에 고향에 내려갈 거예요?
+        남자: 네, 오랜만에 가족들을 만나러 갈 거예요.
+        여자: 기차표는 예매했어요?
+        남자: 네, 미리 예매해 둬서 다행이에요.
+### Vietnamese:
+        Nữ: Bạn có về quê vào dịp Tết Nguyên Đán này không?
+        Nam: Có, tôi sẽ về thăm gia đình sau một thời gian dài.
+        Nữ: Bạn đã đặt vé tàu chưa?
+        Nam: Rồi, may mắn là tôi đã đặt trước.
+### English:
+        Woman: Are you going back to your hometown for this Lunar New Year?
+        Man: Yes, I'm going to see my family after a long time.
+        Woman: Have you booked your train ticket?
+        Man: Yes, I'm glad I booked it in advance.
+### Answer:
+        nan
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Người đàn ông sẽ đi du lịch vào dịp Tết Nguyên Đán.
+        2. Người phụ nữ sẽ về quê vào dịp Tết Nguyên Đán.
+        3. Người đàn ông đã đặt vé tàu Tết Nguyên Đán.
+        4. Hai người sẽ cùng nhau đi du lịch vào dịp Tết Nguyên Đán.
+        --------------------
+        남자: 네, 미리 예매해 둬서 다행이에요. (Nam: Rồi, may mắn là tôi đã đặt trước.)
+### English Explain:
+        1. The man will travel during the Lunar New Year.
+        2. The woman will go back to her hometown during the Lunar New Year.
+        3. The man booked a train ticket for the Lunar New Year.
+        4. The two will travel together during the Lunar New Year.
+        --------------------
+        <g>남자: 네, 미리 예매해 둬서 다행이에요.</g> (Man: Yes, I'm glad I booked it in advance.)
+
+33. ### Text Audio:
+        남자: 자야 씨, 취미가 뭐예요?
+        여자: 저는 영화 보는 것을 좋아해요. 특히 액션 영화를 좋아해요.
+        남자: 그래요? 저도 액션 영화를 좋아하는데, 이번 주말에 같이 볼까요?
+### Vietnamese:
+        Nam: Jaya, sở thích của bạn là gì?
+        Nữ: Tôi thích xem phim. Đặc biệt là phim hành động.
+        Nam: Vậy à? Tôi cũng thích phim hành động, cuối tuần này chúng ta cùng xem nhé?
+### English:
+        Man: Jaya, what's your hobby?
+        Woman: I like watching movies. Especially action movies.
+        Man: Really? I also like action movies, shall we watch one together this weekend?
+### Answer:
+        nan
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Người phụ nữ thích phim hài.
+        2. Người đàn ông ghét phim hành động.
+        3. Người phụ nữ thích xem phim hành động.
+        4. Hai người sẽ nấu ăn ở nhà vào cuối tuần.
+        --------------------
+        여자: 저는 영화 보는 것을 좋아해요. 특히 액션 영화를 좋아해요. (Nữ: Tôi thích xem phim. Đặc biệt là phim hành động.)
+### English Explain:
+        1. The woman likes comedy movies.
+        2. The man hates action movies.
+        3. The woman likes watching action movies.
+        4. The two will cook at home this weekend.
+        --------------------
+        <g>여자: 저는 영화 보는 것을 좋아해요. 특히 액션 영화를 좋아해요.</g> (Woman: I like watching movies. Especially action movies.)
+
+34. ### Text Audio:
+        여자: 이사한 집은 어때요?
+        남자: 좋아요. 집도 넓고, 교통도 편리해서 아주 만족해요.
+        여자: 잘됐네요.
+### Vietnamese:
+        Nữ: Ngôi nhà mới chuyển đến thế nào?
+        Nam: Tốt lắm. Nhà rộng, giao thông cũng thuận tiện nên tôi rất hài lòng.
+        Nữ: Vậy thì tốt rồi.
+### English:
+        Woman: How is the new house you moved to?
+        Man: It's good. The house is spacious, and the transportation is convenient, so I'm very satisfied.
+        Woman: That's good.
+### Answer:
+        nan
+### Correct Answer: 1
+### Vietnamese Explain:
+        1. Người đàn ông thích ngôi nhà mới chuyển đến.
+        2. Người phụ nữ có kế hoạch chuyển nhà.
+        3. Người đàn ông nấu ăn ngon ở nhà mới.
+        4. Hai người sẽ tổ chức tiệc ở nhà mới.
+        --------------------
+        남자: 좋아요. 집도 넓고, 교통도 편리해서 아주 만족해요. (Nam: Tốt lắm. Nhà rộng, giao thông cũng thuận tiện nên tôi rất hài lòng.)
+### English Explain:
+        1. The man likes the new house he moved to.
+        2. The woman has plans to move.
+        3. The man cooks well in the new house.
+        4. The two will have a party in the new house.
+        --------------------
+        <g>남자: 좋아요. 집도 넓고, 교통도 편리해서 아주 만족해요.</g> (Man: It's good. The house is spacious, and the transportation is convenient, so I'm very satisfied.)
+
+35. ### Text Audio:
+        여자: 오늘 점심 뭐 먹을까요?
+        남자: 저는 오늘 칼국수가 먹고 싶어요.
+        여자: 좋아요. 그럼 칼국수 먹으러 갑시다.
+### Vietnamese:
+        Nữ: Chúng ta ăn gì trưa nay?
+        Nam: Hôm nay tôi muốn ăn Kalguksu (mì cắt).
+        Nữ: Được thôi. Vậy chúng ta đi ăn Kalguksu nhé.
+### English:
+        Woman: What shall we eat for lunch today?
+        Man: I want to eat Kalguksu (chopped noodles) today.
+        Woman: Okay. Then let's go eat Kalguksu.
+### Answer:
+        nan
+### Correct Answer: 2
+### Vietnamese Explain:
+        1. Người phụ nữ ghét Kalguksu.
+        2. Người đàn ông muốn ăn Kalguksu hôm nay.
+        3. Hai người đã ăn Kalguksu hôm qua.
+        4. Người phụ nữ muốn ăn Bibimbap.
+        --------------------
+        남자: 저는 오늘 칼국수가 먹고 싶어요. (Nam: Hôm nay tôi muốn ăn Kalguksu.)
+### English Explain:
+        1. The woman hates Kalguksu.
+        2. The man wants to eat Kalguksu today.
+        3. The two ate Kalguksu yesterday.
+        4. The woman wants to eat Bibimbap.
+        --------------------
+        <g>남자: 저는 오늘 칼국수가 먹고 싶어요.</g> (Man: I want to eat Kalguksu today.)
+
+36. ### Text Audio:
+        남자: 어제 운동을 너무 많이 했더니 온몸이 쑤시네요.
+        여자: 파스를 붙여 보세요. 파스가 근육통에 효과가 좋아요.
+        남자: 네, 감사합니다.
+### Vietnamese:
+        Nam: Hôm qua tôi tập thể dục quá nhiều nên toàn thân đau nhức.
+        Nữ: Hãy thử dán miếng dán giảm đau xem. Miếng dán giảm đau có hiệu quả tốt với đau cơ.
+        Nam: Vâng, cảm ơn bạn.
+### English:
+        Man: I exercised too much yesterday, so my whole body aches.
+        Woman: Try applying a pain patch. Pain patches are very effective for muscle pain.
+        Man: Yes, thank you.
+### Answer:
+        nan
+### Correct Answer: 4
+### Vietnamese Explain:
+        1. Người đàn ông đã không tập thể dục chút nào vào hôm qua.
+        2. Người phụ nữ ghét miếng dán giảm đau.
+        3. Người đàn ông không được dán miếng dán giảm đau.
+        4. Người phụ nữ khuyên người đàn ông nên thử dán miếng dán giảm đau.
+        --------------------
+        여자: 파스를 붙여 보세요. 파스가 근육통에 효과가 좋아요. (Nữ: Hãy thử dán miếng dán giảm đau xem. Miếng dán giảm đau có hiệu quả tốt với đau cơ.)
+### English Explain:
+        1. The man did not exercise at all yesterday.
+        2. The woman hates pain patches.
+        3. The man should not apply a pain patch.
+        4. The woman advised the man to try applying a pain patch.
+        --------------------
+        <g>여자: 파스를 붙여 보세요. 파스가 근육통에 효과가 좋아요.</g> (Woman: Try applying a pain patch. Pain patches are very effective for muscle pain.)
+
+37. ### Text Audio:
+        남자: 딜로바 씨, 요즘 한국어 공부는 어때요?
+        여자: 꾸준히 하고는 있는데, 문법이 너무 어려워요.
+        남자: 문법은 저도 어려웠어요. 한국 드라마나 영화를 보면서 공부하는 건 어때요?
+        여자: 좋은 생각이네요! 한번 해 볼게요.
+### Vietnamese:
+        Nam: Dilova, dạo này việc học tiếng Hàn của bạn thế nào?
+        Nữ: Tôi vẫn đang học đều đặn, nhưng ngữ pháp khó quá.
+        Nam: Ngữ pháp thì tôi cũng thấy khó. Bạn thử học bằng cách xem phim truyền hình hoặc điện ảnh Hàn Quốc xem sao?
+        Nữ: Ý kiến hay đấy! Tôi sẽ thử xem.
+### English:
+        Man: Dilova, how's your Korean study going these days?
+        Woman: I'm studying steadily, but grammar is too difficult.
+        Man: I also found grammar difficult. How about studying by watching Korean dramas or movies?
+        Woman: That's a good idea! I'll give it a try.
+### Answer:
+        nan
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Người phụ nữ nghĩ rằng ngữ pháp tiếng Hàn dễ.
+        2. Người đàn ông không thích xem phim truyền hình Hàn Quốc.
+        3. Người phụ nữ sẽ học bằng cách xem phim truyền hình Hàn Quốc.
+        4. Người đàn ông chưa từng học tiếng Hàn.
+        --------------------
+        여자: 좋은 생각이네요! 한번 해 볼게요. (Nữ: Ý kiến hay đấy! Tôi sẽ thử xem.)
+### English Explain:
+        1. The woman thinks Korean grammar is easy.
+        2. The man dislikes watching Korean dramas.
+        3. The woman will study by watching Korean dramas.
+        4. The man has never studied Korean.
+        --------------------
+        <g>여자: 좋은 생각이네요! 한번 해 볼게요.</g> (Woman: That's a good idea! I'll give it a try.)
+
+38. ### Text Audio:
+        여자: 오늘 저녁 뭐 먹을까요?
+        남자: 글쎄요. 냉장고에 뭐가 있어요?
+        여자: 김치하고 계란밖에 없어요.
+        남자: 그럼 김치볶음밥을 만들어 먹을까요?
+### Vietnamese:
+        Nữ: Tối nay chúng ta ăn gì đây?
+        Nam: Để xem. Trong tủ lạnh có gì?
+        Nữ: Chỉ có kim chi và trứng thôi.
+        Nam: Vậy chúng ta làm cơm rang kim chi ăn nhé?
+### English:
+        Woman: What should we eat for dinner tonight?
+        Man: Let's see. What's in the fridge?
+        Woman: There's only kimchi and eggs.
+        Man: Then shall we make kimchi fried rice?
+### Answer:
+        nan
+### Correct Answer: 2
+### Vietnamese Explain:
+        1. Trong tủ lạnh có nhiều thịt.
+        2. Hai người sẽ ăn cơm rang kim chi vào tối nay.
+        3. Người phụ nữ ghét kim chi.
+        4. Người đàn ông không muốn ăn trứng.
+        --------------------
+        남자: 그럼 김치볶음밥을 만들어 먹을까요? (Nam: Vậy chúng ta làm cơm rang kim chi ăn nhé?)
+### English Explain:
+        1. There is a lot of meat in the refrigerator.
+        2. The two will eat kimchi fried rice tonight.
+        3. The woman hates kimchi.
+        4. The man doesn't want to eat eggs.
+        --------------------
+        <g>남자: 그럼 김치볶음밥을 만들어 먹을까요?</g> (Man: Then shall we make kimchi fried rice?)
+
+39. ### Text Audio:
+        남자: 이번 주말에 등산 갈 건데, 같이 갈래요?
+        여자: 좋아요! 어디로 갈 거예요?
+        남자: 북한산으로 갈까 하는데, 어때요?
+        여자: 북한산 좋아요! 그럼 내일 아침에 만나요.
+### Vietnamese:
+        Nam: Cuối tuần này tôi định đi leo núi, bạn đi cùng không?
+        Nữ: Tuyệt vời! Đi đâu vậy?
+        Nam: Tôi định đi leo núi Bukhan, bạn thấy thế nào?
+        Nữ: Núi Bukhan tuyệt đấy! Vậy mai chúng ta gặp nhau vào buổi sáng nhé.
+### English:
+        Man: I'm going hiking this weekend, would you like to join me?
+        Woman: Great! Where are you going?
+        Man: I'm thinking of going to Bukhan Mountain, what do you think?
+        Woman: Bukhan Mountain is great! Then let's meet tomorrow morning.
+### Answer:
+        nan
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Hai người sẽ đi leo núi vào tuần sau.
+        2. Người phụ nữ ghét leo núi.
+        3. Hai người sẽ cùng nhau đi leo núi Bukhan.
+        4. Người đàn ông sẽ đi leo núi một mình.
+        --------------------
+        남자: 북한산으로 갈까 하는데, 어때요? (Nam: Tôi định đi leo núi Bukhan, bạn thấy thế nào?)
+        여자: 북한산 좋아요! (Nữ: Núi Bukhan tuyệt đấy!)
+### English Explain:
+        1. The two will go hiking next week.
+        2. The woman hates hiking.
+        3. The two will go hiking together to Bukhan Mountain.
+        4. The man will go hiking alone.
+        --------------------
+        <g>남자: 북한산으로 갈까 하는데, 어때요?</g> (Man: I'm thinking of going to Bukhan Mountain, what do you think?
+        <g>여자: 북한산 좋아요!</g> (Woman: Bukhan Mountain is great!)
+
+40. ### Text Audio:
+        여자: 이번 달 전기 요금이 너무 많이 나왔어요.
+        남자: 그래요? 얼마나 나왔는데요?
+        여자: 지난달보다 2만 원 더 나왔어요.
+        남자: 에어컨을 너무 많이 켜서 그런가 봐요.
+### Vietnamese:
+        Nữ: Tiền điện tháng này nhiều quá.
+        Nam: Vậy à? Hết bao nhiêu?
+        Nữ: Nhiều hơn tháng trước 20.000 won.
+        Nam: Chắc là do bật điều hòa nhiều quá.
+### English:
+        Woman: The electricity bill is too high this month.
+        Man: Really? How much is it?
+        Woman: It's 20,000 won more than last month.
+        Man: It must be because we turned on the air conditioner too much.
+### Answer:
+        nan
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Hai người hoàn toàn không trả tiền điện.
+        2. Tiền điện tháng này ít hơn tháng trước.
+        3. Lý do tiền điện nhiều có lẽ là do điều hòa.
+        4. Hai người hoàn toàn không sử dụng điều hòa.
+        --------------------
+        남자: 에어컨을 너무 많이 켜서 그런가 봐요. (Nam: Chắc là do bật điều hòa nhiều quá.)
+### English Explain:
+        1. The two did not pay the electricity bill at all.
+        2. This month's electricity bill is less than last month's.
+        3. The reason for the high electricity bill seems to be the air conditioner.
+        4. The two did not use the air conditioner at all.
+        --------------------
+        <g>남자: 에어컨을 너무 많이 켜서 그런가 봐요.</g> (Man: It must be because we turned on the air conditioner too much.)
+
+41. ### Text Audio:
+        남자: 이번에 새로 나온 스마트폰 봤어요?
+        여자: 네, 봤어요. 디자인이 정말 예쁘던데요.
+        남자: 기능도 엄청 좋다고 하던데요.
+        여자: 하지만 가격이 너무 비싸서 살 엄두가 안 나요.
+### Vietnamese:
+        Nam: Bạn đã xem điện thoại thông minh mới ra lần này chưa?
+        Nữ: Rồi, tôi xem rồi. Thiết kế đẹp thật đấy.
+        Nam: Nghe nói chức năng cũng tốt lắm đấy.
+        Nữ: Nhưng giá đắt quá nên tôi không dám mua.
+### English:
+        Man: Have you seen the new smartphone that came out this time?
+        Woman: Yes, I saw it. The design is really pretty.
+        Man: I heard the functions are also very good.
+        Woman: But the price is too expensive, so I don't dare to buy it.
+### Answer:
+        nan
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Người phụ nữ không thích thiết kế của điện thoại thông minh mới.
+        2. Điện thoại thông minh mới không có chức năng tốt lắm.
+        3. Người phụ nữ muốn mua điện thoại thông minh mới nhưng giá đắt.
+        4. Người đàn ông đã mua điện thoại thông minh mới rồi.
+        --------------------
+        여자: 하지만 가격이 너무 비싸서 살 엄두가 안 나요. (Nữ: Nhưng giá đắt quá nên tôi không dám mua.)
+### English Explain:
+        1. The woman does not like the design of the new smartphone.
+        2. The new smartphone does not have very good functions.
+        3. The woman wants to buy the new smartphone but the price is expensive.
+        4. The man has already bought the new smartphone.
+        --------------------
+        <g>여자: 하지만 가격이 너무 비싸서 살 엄두가 안 나요.</g> (Woman: But the price is too expensive, so I don't dare to buy it.)
+
+42. ### Text Audio:
+        남자: 이번 여름휴가 때 뭐 할 거예요?
+        여자: 아직 특별한 계획은 없어요. 그냥 집에서 쉴까 생각 중이에요.
+        남자: 너무 심심하지 않을까요? 어디 여행이라도 가는 게 어때요?
+        여자: 돈이 별로 없어서 여행은 힘들 것 같아요.
+### Vietnamese:
+        Nam: Kỳ nghỉ hè này bạn định làm gì?
+        Nữ: Tôi vẫn chưa có kế hoạch gì đặc biệt. Tôi đang nghĩ xem có nên nghỉ ngơi ở nhà thôi không.
+        Nam: Không phải sẽ rất buồn chán sao? Đi du lịch đâu đó thì sao?
+        Nữ: Tôi không có nhiều tiền nên đi du lịch có vẻ khó.
+### English:
+        Man: What are you going to do during this summer vacation?
+        Woman: I don't have any special plans yet. I'm thinking of just resting at home.
+        Man: Wouldn't it be too boring? How about going on a trip somewhere?
+        Woman: I don't have much money, so traveling seems difficult.
+### Answer:
+        nan
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Người phụ nữ sẽ đi du lịch nước ngoài vào kỳ nghỉ hè.
+        2. Người đàn ông đã có tất cả các kế hoạch cho kỳ nghỉ hè.
+        3. Người phụ nữ không có tiền nên khó đi du lịch.
+        4. Hai người sẽ làm thêm vào kỳ nghỉ hè.
+        --------------------
+        여자: 돈이 별로 없어서 여행은 힘들 것 같아요. (Nữ: Tôi không có nhiều tiền nên đi du lịch có vẻ khó.)
+### English Explain:
+        1. The woman will go on a trip abroad during the summer vacation.
+        2. The man already has all the plans for the summer vacation.
+        3. The woman has no money, so it is difficult to travel.
+        4. The two will work part-time during the summer vacation.
+        --------------------
+        <g>여자: 돈이 별로 없어서 여행은 힘들 것 같아요.</g> (Woman: I don't have much money, so traveling seems difficult.)
+
+43. ### Text Audio:
+        남자: 요즘 날씨가 너무 더워서 입맛이 없어요.
+        여자: 그럼 시원한 냉면이라도 먹으러 갈까요?
+        남자: 좋아요! 어디 냉면이 맛있어요?
+        여자: 저번에 갔던 식당 냉면이 정말 맛있었어요.
+### Vietnamese:
+        Nam: Dạo này thời tiết nóng quá nên tôi không có cảm giác thèm ăn.
+        Nữ: Vậy chúng ta đi ăn mì lạnh mát lạnh nhé?
+        Nam: Tuyệt! Mì lạnh ở đâu ngon vậy?
+        Nữ: Mì lạnh ở nhà hàng chúng ta đến lần trước thực sự rất ngon.
+### English:
+        Man: I don't have much appetite these days because the weather is too hot.
+        Woman: Then shall we go eat some cold noodles?
+        Man: Great! Where can we get some good cold noodles?
+        Woman: The cold noodles at the restaurant we went to last time were really good.
+### Answer:
+        nan
+### Correct Answer: 2
+### Vietnamese Explain:
+        1. Người đàn ông thích thời tiết nóng.
+        2. Hai người sẽ đi ăn mì lạnh.
+        3. Người phụ nữ ghét mì lạnh.
+        4. Người đàn ông chưa từng ăn mì lạnh trước đây.
+        --------------------
+        여자: 그럼 시원한 냉면이라도 먹으러 갈까요? (Nữ: Vậy chúng ta đi ăn mì lạnh mát lạnh nhé?)
+        남자: 좋아요! (Nam: Tuyệt!)
+### English Explain:
+        1. The man likes hot weather.
+        2. The two will go to eat cold noodles.
+        3. The woman hates cold noodles.
+        4. The man has never eaten cold noodles before.
+        --------------------
+        <g>여자: 그럼 시원한 냉면이라도 먹으러 갈까요?</g> (Woman: Then shall we go eat some cold noodles?)
+        <g>남자: 좋아요!</g> (Man: Great!)
+
+44. ### Text Audio:
+        여자: 이번 달 월급 받으면 뭐 할 거예요?
+        남자: 저는 적금을 들려고 해요.
+        여자: 오, 좋은 생각이네요. 저도 돈을 좀 모아야 하는데.
+        남자: 같이 적금 들어요.
+### Vietnamese:
+        Nữ: Tháng này nhận lương bạn định làm gì?
+        Nam: Tôi định gửi tiết kiệm.
+        Nữ: Ồ, ý kiến hay đấy. Tôi cũng phải tiết kiệm tiền thôi.
+        Nam: Cùng nhau gửi tiết kiệm đi.
+### English:
+        Woman: What are you going to do when you get your salary this month?
+        Man: I'm going to open a savings account.
+        Woman: Oh, that's a good idea. I need to save some money too.
+        Man: Let's open a savings account together.
+### Answer:
+        nan
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Người đàn ông sẽ tiêu hết tiền lương khi nhận được.
+        2. Người phụ nữ không có ý định gửi tiết kiệm.
+        3. Người đàn ông sẽ gửi tiết kiệm khi nhận lương.
+        4. Hai người đã gửi tiết kiệm rất nhiều rồi.
+        --------------------
+        남자: 저는 적금을 들려고 해요. (Nam: Tôi định gửi tiết kiệm.)
+### English Explain:
+        1. The man will spend all his salary when he receives it.
+        2. The woman has no intention of opening a savings account.
+        3. The man will open a savings account when he receives his salary.
+        4. The two have already opened many savings accounts.
+        --------------------
+        <g>남자: 저는 적금을 들려고 해요.</g> (Man: I'm going to open a savings account.)
+
+45. ### Text Audio:
+        여자: 새로 산 강아지 이름이 뭐예요?
+        남자: 이름은 ‘코코’예요. 정말 귀엽죠?
+        여자: 네, 정말 귀엽네요. 코코는 뭘 제일 좋아해요?
+        남자: 코코는 산책하는 걸 제일 좋아해요.
+### Vietnamese:
+        Nữ: Con cún bạn mới mua tên gì vậy?
+        Nam: Nó tên là 'Coco'. Dễ thương lắm đúng không?
+        Nữ: Vâng, dễ thương thật. Coco thích gì nhất?
+        Nam: Coco thích đi dạo nhất.
+### English:
+        Woman: What's the name of the new puppy you bought?
+        Man: The name is 'Coco'. It's really cute, right?
+        Woman: Yes, it's really cute. What does Coco like the most?
+        Man: Coco likes taking walks the most.
+### Answer:
+        nan
+### Correct Answer: 2
+### Vietnamese Explain:
+        1. Người đàn ông ghét chó.
+        2. Tên của con chó là 'Coco'.
+        3. Người phụ nữ đang nuôi mèo.
+        4. Coco thích ngủ nhất.
+        --------------------
+        남자: 이름은 ‘코코’예요. (Nam: Nó tên là 'Coco'.)
+### English Explain:
+        1. The man hates dogs.
+        2. The dog's name is 'Coco'.
+        3. The woman is raising a cat.
+        4. Coco likes sleeping the most.
+        --------------------
+        <g>남자: 이름은 ‘코코’예요.</g> (Man: The name is 'Coco'.)
+
+46. ### Text Audio:
+        남자: 요즘 환경 문제에 관심이 많아졌어요.
+        여자: 저도 그래요. 그래서 분리수거를 열심히 하고 있어요.
+        남자: 저도 분리수거를 하려고 노력하는데, 가끔 헷갈릴 때가 있어요.
+        여자: 인터넷에 검색해 보면 자세히 나와 있어요.
+### Vietnamese:
+        Nam: Dạo này tôi quan tâm nhiều đến vấn đề môi trường.
+        Nữ: Tôi cũng vậy. Vì vậy tôi đang tích cực phân loại rác.
+        Nam: Tôi cũng cố gắng phân loại rác, nhưng đôi khi tôi bị nhầm lẫn.
+        Nữ: Nếu bạn tìm kiếm trên internet, nó sẽ hiển thị chi tiết.
+### English:
+        Man: I've become more interested in environmental issues these days.
+        Woman: Me too. So I'm actively sorting waste.
+        Man: I also try to sort waste, but sometimes I get confused.
+        Woman: If you search on the internet, it will show in detail.
+### Answer:
+        nan
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Người đàn ông hoàn toàn không phân loại rác.
+        2. Người phụ nữ không quan tâm đến vấn đề môi trường.
+        3. Hai người đang tích cực phân loại rác.
+        4. Không có thông tin phân loại rác trên internet.
+        --------------------
+        여자: 그래서 분리수거를 열심히 하고 있어요. (Nữ: Vì vậy tôi đang tích cực phân loại rác.)
+        남자: 저도 분리수거를 하려고 노력하는데... (Nam: Tôi cũng cố gắng phân loại rác...)
+### English Explain:
+        1. The man does not sort waste at all.
+        2. The woman is not interested in environmental issues.
+        3. The two are actively sorting waste.
+        4. There is no waste sorting information on the internet.
+        --------------------
+        <g>여자: 그래서 분리수거를 열심히 하고 있어요.</g> (Woman: So I'm actively sorting waste.)
+        <g>남자: 저도 분리수거를 하려고 노력하는데...</g> (Man: I also try to sort waste...)
+
+47. ### Text Audio:
+        여자: 왕민 씨, 오늘 회식에 갈 거예요?
+        남자: 네, 당연히 가지요. 회식 메뉴는 뭐예요?
+        여자: 삼겹살하고 맥주래요.
+        남자: 와, 정말 좋네요. 오늘 꼭 참석해야겠어요.
+### Vietnamese:
+        Nữ: Wangmin, hôm nay anh có đi dự tiệc tối công ty không?
+        Nam: Có chứ, đương nhiên là đi rồi. Thực đơn tiệc tối công ty là gì vậy?
+        Nữ: Nghe nói là thịt ba chỉ và bia.
+        Nam: Wow, tuyệt thật. Hôm nay nhất định phải tham gia rồi.
+### English:
+        Woman: Wangmin, are you going to the company dinner today?
+        Man: Yes, of course I'm going. What's on the menu for the company dinner?
+        Woman: I heard it's pork belly and beer.
+        Man: Wow, that's great. I must attend today.
+### Answer:
+        nan
+### Correct Answer: 4
+### Vietnamese Explain:
+        1. Người đàn ông không muốn đến tiệc tối công ty.
+        2. Thực đơn bữa tối công ty hôm nay là bibimbap.
+        3. Người phụ nữ sẽ không tham gia tiệc tối công ty.
+        4. Thực đơn tiệc tối công ty hôm nay là thịt ba chỉ và bia.
+        --------------------
+        여자: 삼겹살하고 맥주래요. (Nữ: Nghe nói là thịt ba chỉ và bia.)
+### English Explain:
+        1. The man doesn't want to go to the company dinner.
+        2. The menu for the company dinner today is bibimbap.
+        3. The woman will not attend the company dinner.
+        4. The menu for the company dinner today is pork belly and beer.
+        --------------------
+        <g>여자: 삼겹살하고 맥주래요.</g> (Woman: I heard it's pork belly and beer.)
+
+48. ### Text Audio:
+        남자: 프엉 씨, 이번 주말에 뭐 할 거예요?
+        여자: 글쎄요, 아직 특별한 계획은 없어요. 그냥 집에서 쉴까 생각 중이에요.
+        남자: 그럼, 우리 회사 동료들이랑 등산 가는 건 어때요?
+        여자: 등산이요? 좋아요! 같이 가요.
+### Vietnamese:
+        Nam: Phương, cuối tuần này bạn sẽ làm gì?
+        Nữ: Chà, tôi chưa có kế hoạch gì đặc biệt cả. Tôi đang nghĩ đến việc nghỉ ngơi ở nhà thôi.
+        Nam: Vậy, đi leo núi với đồng nghiệp công ty của chúng ta thì sao?
+        Nữ: Leo núi à? Tuyệt đấy! Đi cùng nhau nhé.
+### English:
+        Man: Phuong, what are you doing this weekend?
+        Woman: Well, I don't have any special plans yet. I'm just thinking of resting at home.
+        Man: Then, how about going hiking with our company colleagues?
+        Woman: Hiking? Great! Let's go together.
+### Answer:
+        nan
+### Correct Answer: 4
+### Vietnamese Explain:
+        1. Người phụ nữ sẽ gặp bạn bè vào cuối tuần này.
+        2. Người đàn ông và người phụ nữ sẽ đi xem phim.
+        3. Người phụ nữ muốn nghỉ ngơi ở nhà.
+        4. Người đàn ông và người phụ nữ sẽ đi leo núi vào cuối tuần này.
+        --------------------
+        남자: 그럼, 우리 회사 동료들이랑 등산 가는 건 어때요? (Nam: Vậy, đi leo núi với đồng nghiệp công ty của chúng ta thì sao?)
+        여자: 등산이요? 좋아요! 같이 가요. (Nữ: Leo núi à? Tuyệt đấy! Đi cùng nhau nhé.)
+### English Explain:
+        1. The woman will meet friends this weekend.
+        2. The man and woman will go to see a movie.
+        3. The woman wants to rest at home.
+        4. The man and woman will go hiking this weekend.
+        --------------------
+        <g>남자: 그럼, 우리 회사 동료들이랑 등산 가는 건 어때요?</g> (Man: Then, how about going hiking with our company colleagues?)
+        <g>여자: 등산이요? 좋아요! 같이 가요.</g> (Woman: Hiking? Great! Let's go together.)
+
+49. ### Text Audio:
+        남자: 닛차난 씨, 무슨 일 있어요? 얼굴이 안 좋아 보이네요.
+        여자: 네, 어제 야근을 해서 너무 피곤해요.
+        남자: 그래요? 오늘은 일찍 퇴근해서 푹 쉬세요.
+        여자: 감사합니다.
+### Vietnamese:
+        Nam: Nitchanan, có chuyện gì vậy? Trông bạn không được khỏe.
+        Nữ: Vâng, hôm qua tôi làm thêm giờ nên rất mệt mỏi.
+        Nam: Vậy à? Hôm nay hãy về sớm và nghỉ ngơi thật tốt nhé.
+        Nữ: Cảm ơn anh.
+### English:
+        Man: Nitchanan, what's wrong? You don't look well.
+        Woman: Yes, I'm very tired because I worked overtime yesterday.
+        Man: Really? Go home early today and get some rest.
+        Woman: Thank you.
+### Answer:
+        nan
+### Correct Answer: 2
+### Vietnamese Explain:
+        1. Người phụ nữ đã tập thể dục vào sáng nay.
+        2. Người phụ nữ mệt mỏi vì hôm qua đã làm thêm giờ.
+        3. Người đàn ông đã mua cà phê cho người phụ nữ.
+        4. Hai người sẽ đi leo núi vào ngày mai.
+        --------------------
+        여자: 네, 어제 야근을 해서 너무 피곤해요. (Nữ: Vâng, hôm qua tôi làm thêm giờ nên rất mệt mỏi.)
+### English Explain:
+        1. The woman exercised this morning.
+        2. The woman is tired because she worked overtime yesterday.
+        3. The man bought the woman coffee.
+        4. The two people will go hiking tomorrow.
+        --------------------
+        <g>여자: 네, 어제 야근을 해서 너무 피곤해요.</g> (Woman: Yes, I'm very tired because I worked overtime yesterday.)
+
+50. ### Text Audio:
+        여자: 퇴근 후에 뭐 하실 거예요?
+        남자: 저는 바로 집에 가서 저녁을 먹을 거예요.
+        여자: 저녁 메뉴는 뭐예요?
+        남자: 아내가 김치찌개를 만들어 줬어요.
+### Vietnamese:
+        Nữ: Sau khi tan làm bạn sẽ làm gì?
+        Nam: Tôi sẽ về nhà ngay và ăn tối.
+        Nữ: Thực đơn bữa tối là gì vậy?
+        Nam: Vợ tôi đã nấu món canh kim chi.
+### English:
+        Woman: What are you going to do after work?
+        Man: I'm going straight home and have dinner.
+        Woman: What's on the dinner menu?
+        Man: My wife made kimchi stew.
+### Answer:
+        nan
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Người đàn ông sẽ gặp bạn bè vào tối nay.
+        2. Người phụ nữ không thích canh kim chi.
+        3. Người đàn ông sẽ về nhà ngay sau khi tan làm.
+        4. Hai người sẽ tập thể dục vào sáng mai.
+        --------------------
+        남자: 저는 바로 집에 가서 저녁을 먹을 거예요. (Nam: Tôi sẽ về nhà ngay và ăn tối.)
+### English Explain:
+        1. The man will meet friends tonight.
+        2. The woman doesn't like kimchi stew.
+        3. The man will go straight home after work.
+        4. The two people will exercise tomorrow morning.
+        --------------------
+        <g>남자: 저는 바로 집에 가서 저녁을 먹을 거예요.</g> (Man: I'm going straight home and have dinner.)
+
+51. ### Text Audio:
+        남자: 오늘 작업은 다 끝났어요?
+        여자: 아니요, 아직 포장 작업이 남았어요.
+        남자: 그럼, 제가 포장하는 것을 도와드릴게요.
+        여자: 정말 감사합니다.
+### Vietnamese:
+        Nam: Hôm nay làm xong việc hết chưa?
+        Nữ: Chưa ạ, vẫn còn công đoạn đóng gói.
+        Nam: Vậy để tôi giúp cô đóng gói nhé.
+        Nữ: Thật sự cảm ơn anh.
+### English:
+        Man: Is all the work done today?
+        Woman: No, there is still packaging work left.
+        Man: Then, I'll help you with the packaging.
+        Woman: Thank you very much.
+### Answer:
+        nan
+### Correct Answer: 2
+### Vietnamese Explain:
+        1. Người phụ nữ ghét đóng gói.
+        2. Người đàn ông sẽ giúp đóng gói.
+        3. Hai người đang ăn trưa.
+        4. Hôm nay đã làm xong hết việc.
+        --------------------
+        남자: 그럼, 제가 포장하는 것을 도와드릴게요. (Nam: Vậy để tôi giúp cô đóng gói nhé.)
+### English Explain:
+        1. The woman hates packaging.
+        2. The man will help with the packaging.
+        3. The two people are having lunch now.
+        4. All the work is done today.
+        --------------------
+        <g>남자: 그럼, 제가 포장하는 것을 도와드릴게요.</g> (Man: Then, I'll help you with the packaging.)
+
+52. ### Text Audio:
+        여자: 이번 주 토요일에 회사 야유회에 갈 거예요?
+        남자: 네, 저는 꼭 참석할 거예요. 어디로 가요?
+        여자: 이번에는 바닷가로 간대요.
+        남자: 와, 정말 기대되네요!
+### Vietnamese:
+        Nữ: Bạn có đi dã ngoại của công ty vào thứ Bảy tuần này không?
+        Nam: Có, tôi nhất định sẽ tham gia. Đi đâu vậy?
+        Nữ: Nghe nói lần này đi biển.
+        Nam: Wow, thật là mong chờ quá!
+### English:
+        Woman: Are you going to the company picnic this Saturday?
+        Man: Yes, I will definitely attend. Where are we going?
+        Woman: I heard we're going to the beach this time.
+        Man: Wow, I'm really looking forward to it!
+### Answer:
+        nan
+### Correct Answer: 4
+### Vietnamese Explain:
+        1. Người đàn ông không muốn đi dã ngoại của công ty.
+        2. Buổi dã ngoại của công ty lần này đi lên núi.
+        3. Người phụ nữ sẽ không tham gia buổi dã ngoại của công ty.
+        4. Buổi dã ngoại của công ty lần này đi biển.
+        --------------------
+        여자: 이번에는 바닷가로 간대요. (Nữ: Nghe nói lần này đi biển.)
+        
+        V + ㄴ/는대요 là hình thức viết tắt của V + ㄴ/는다고 해요 (nghe nói là...)
+### English Explain:
+        1. The man doesn't want to go to the company picnic.
+        2. This company picnic is going to the mountains.
+        3. The woman will not attend the company picnic.
+        4. This company picnic is going to the beach.
+        --------------------
+        <g>여자: 이번에는 바닷가로 간대요.</g> (Woman: I heard we're going to the beach this time.)
+        
+        V + ㄴ/는대요 is the short form of V + ㄴ/는다고 해요 (It is said that..., I heard that...).
+
+53. ### Text Audio:
+        남자: 오늘 아침에 늦잠을 자서 회사에 늦었어요.
+        여자: 정말요? 지각하면 안 되는데.
+        남자: 네, 죄송합니다. 다음부터는 늦지 않도록 조심할게요.
+        여자: 네, 알겠습니다.
+### Vietnamese:
+        Nam: Sáng nay tôi ngủ quên nên đã đến công ty muộn.
+        Nữ: Thật vậy sao? Không được đi làm muộn đâu.
+        Nam: Vâng, tôi xin lỗi. Lần sau tôi sẽ cẩn thận để không bị muộn nữa.
+        Nữ: Vâng, tôi hiểu rồi.
+### English:
+        Man: I overslept this morning and was late for work.
+        Woman: Really? You shouldn't be late for work.
+        Man: Yes, I'm sorry. I'll be careful not to be late next time.
+        Woman: Yes, I understand.
+### Answer:
+        nan
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Người đàn ông đã dậy sớm vào sáng nay.
+        2. Người đàn ông đã tha thứ cho việc đi muộn của người phụ nữ.
+        3. Người đàn ông đã đi làm muộn.
+        4. Hai người sẽ xem phim vào tối nay.
+        --------------------
+        남자: 오늘 아침에 늦잠을 자서 회사에 늦었어요. (Nam: Sáng nay tôi ngủ quên nên đã đến công ty muộn.)
+### English Explain:
+        1. The man woke up early this morning.
+        2. The man forgave the woman's lateness.
+        3. The man was late for work.
+        4. The two people will watch a movie tonight.
+        --------------------
+        <g>남자: 오늘 아침에 늦잠을 자서 회사에 늦었어요.</g> (Man: I overslept this morning and was late for work.)
+
+54. ### Text Audio:
+        여자: 이번 달 월급 받았어요?
+        남자: 네, 받았어요. 그런데 세금이 너무 많이 나왔어요.
+        여자: 그래요? 저도 확인해 봐야겠네요.
+        남자: 네, 확인해 보세요.
+### Vietnamese:
+        Nữ: Anh đã nhận lương tháng này chưa?
+        Nam: Rồi, tôi nhận rồi. Nhưng mà thuế bị trừ nhiều quá.
+        Nữ: Vậy à? Tôi cũng phải kiểm tra lại mới được.
+        Nam: Vâng, chị kiểm tra thử xem.
+### English:
+        Woman: Have you received your salary this month?
+        Man: Yes, I received it. But the taxes were too high.
+        Woman: Really? I should check mine too.
+        Man: Yes, please check it.
+### Answer:
+        nan
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Người đàn ông chưa nhận được lương.
+        2. Người phụ nữ muốn đóng nhiều thuế.
+        3. Người đàn ông lo lắng vì thuế bị trừ quá nhiều.
+        4. Hai người đã nhận được tiền thưởng trong tháng này.
+        --------------------
+        남자: 네, 받았어요. 그런데 세금이 너무 많이 나왔어요. (Nam: Rồi, tôi nhận rồi. Nhưng mà thuế bị trừ nhiều quá.)
+### English Explain:
+        1. The man did not receive his salary.
+        2. The woman wants to pay a lot of taxes.
+        3. The man is worried because the taxes were too high.
+        4. The two people received a bonus this month.
+        --------------------
+        <g>남자: 네, 받았어요. 그런데 세금이 너무 많이 나왔어요.</g> (Man: Yes, I received it. But the taxes were too high.)
+
+55. ### Text Audio:
+        남자: 자하라 씨, 요즘 입고 다니는 옷 스타일이 많이 바뀐 것 같아요.
+        여자: 네, 전에 옷들은 너무 불편해서 요즘은 편한 스타일로 입고 다녀요.
+        남자: 어떤 스타일이 제일 편해요?
+        여자: 저는 면바지에 티셔츠가 제일 편해요.
+### Vietnamese:
+        Nam: Zahara, dạo này phong cách ăn mặc của bạn thay đổi nhiều nhỉ.
+        Nữ: Vâng, quần áo trước đây quá bất tiện nên dạo này tôi mặc đồ thoải mái.
+        Nam: Phong cách nào thoải mái nhất?
+        Nữ: Tôi thấy quần cotton và áo phông là thoải mái nhất.
+### English:
+        Man: Zahara, your style of clothing has changed a lot lately.
+        Woman: Yes, the clothes I used to wear were too uncomfortable, so I wear comfortable clothes these days.
+        Man: What style is the most comfortable?
+        Woman: I find cotton pants and a t-shirt the most comfortable.
+### Answer:
+        nan
+### Correct Answer: 1
+### Vietnamese Explain:
+        1. Zahara đã mặc quần áo không thoải mái trước đây.
+        2. Người đàn ông thường mặc quần cotton.
+        3. Người phụ nữ thích phong cách của người đàn ông.
+        4. Hai người gặp nhau ở cửa hàng quần áo.
+        --------------------
+        여자: 네, 전에 옷들은 너무 불편해서 요즘은 편한 스타일로 입고 다녀요. (Nữ: Vâng, quần áo trước đây quá bất tiện nên dạo này tôi mặc đồ thoải mái.)
+### English Explain:
+        1. Zahara used to wear uncomfortable clothes.
+        2. The man often wears cotton pants.
+        3. The woman likes the man's style.
+        4. The two met at a clothing store.
+        --------------------
+        <g>여자: 네, 전에 옷들은 너무 불편해서 요즘은 편한 스타일로 입고 다녀요.</g> (Woman: Yes, the clothes I used to wear were too uncomfortable, so I wear comfortable clothes these days.)
+
+56. ### Text Audio:
+        남자: 이번 달 월세가 너무 많이 올랐어요.
+        여자: 정말요? 얼마나 올랐는데요?
+        남자: 5만 원이나 올랐어요. 이제 생활비가 더 부족해질 것 같아요.
+        여자: 저도 걱정이에요. 물가도 계속 오르고 있어서...
+### Vietnamese:
+        Nam: Tiền thuê nhà tháng này tăng nhiều quá.
+        Nữ: Thật á? Tăng bao nhiêu vậy?
+        Nam: Tăng tận 50.000 won. Chắc là chi phí sinh hoạt sẽ thiếu hụt hơn nữa.
+        Nữ: Tôi cũng lo lắng. Vật giá cứ tăng lên mãi...
+### English:
+        Man: The rent this month has gone up too much.
+        Woman: Really? How much did it go up?
+        Man: It went up by 50,000 won. I think I'll have even less money for living expenses now.
+        Woman: I'm worried too. Prices keep rising...
+### Answer:
+        nan
+### Correct Answer: 2
+### Vietnamese Explain:
+        1. Người phụ nữ vui vì tiền thuê nhà không tăng.
+        2. Tiền thuê nhà của người đàn ông đã tăng 50.000 won.
+        3. Hai người không trả tiền thuê nhà.
+        4. Người phụ nữ trả tiền thuê nhà nhiều hơn người đàn ông.
+        --------------------
+        남자: 5만 원이나 올랐어요. (Nam: Tăng tận 50.000 won.)
+### English Explain:
+        1. The woman is happy because the rent did not increase.
+        2. The man's rent increased by 50,000 won.
+        3. The two do not pay rent.
+        4. The woman pays more rent than the man.
+        --------------------
+        <g>남자: 5만 원이나 올랐어요.</g> (Man: It went up by 50,000 won.)
+
+57. ### Text Audio:
+        여자: 민민아웅 씨, 요즘 어떻게 지내세요?
+        남자: 잘 지내요. 저는 요즘 돈을 좀 모으고 있어요.
+        여자: 왜 돈을 모으고 있어요?
+        남자: 나중에 고향에 돌아가서 작은 식당을 열고 싶어요.
+### Vietnamese:
+        Nữ: Min Min Aung, dạo này bạn sống thế nào?
+        Nam: Tôi sống tốt. Dạo này tôi đang tiết kiệm tiền.
+        Nữ: Tại sao bạn lại tiết kiệm tiền?
+        Nam: Sau này tôi muốn về quê mở một nhà hàng nhỏ.
+### English:
+        Woman: Min Min Aung, how have you been lately?
+        Man: I'm doing well. I'm saving money these days.
+        Woman: Why are you saving money?
+        Man: I want to go back to my hometown and open a small restaurant later.
+### Answer:
+        nan
+### Correct Answer: 2
+### Vietnamese Explain:
+        1. Người đàn ông đang điều hành một nhà hàng.
+        2. Người đàn ông sẽ tiết kiệm tiền và trở về quê hương.
+        3. Người phụ nữ đã cho người đàn ông vay tiền.
+        4. Người đàn ông muốn làm việc cho một công ty ở quê nhà.
+        --------------------
+        남자: 나중에 고향에 돌아가서 작은 식당을 열고 싶어요. (Nam: Sau này tôi muốn về quê mở một nhà hàng nhỏ.)
+### English Explain:
+        1. The man is currently running a restaurant.
+        2. The man will save money and return to his hometown.
+        3. The woman lent the man money.
+        4. The man wants to work for a company in his hometown.
+        --------------------
+        <g>남자: 나중에 고향에 돌아가서 작은 식당을 열고 싶어요.</g> (Man: I want to go back to my hometown and open a small restaurant later.)
+
+58. ### Text Audio:
+        남자: 생일 선물로 뭘 받고 싶어요?
+        여자: 저는 책을 받고 싶어요.
+        남자: 어떤 종류의 책을 좋아해요?
+        여자: 저는 소설책을 좋아해요.
+### Vietnamese:
+        Nam: Bạn muốn nhận quà sinh nhật gì?
+        Nữ: Tôi muốn nhận sách.
+        Nam: Bạn thích loại sách nào?
+        Nữ: Tôi thích tiểu thuyết.
+### English:
+        Man: What do you want for your birthday present?
+        Woman: I want to receive a book.
+        Man: What kind of books do you like?
+        Woman: I like novels.
+### Answer:
+        nan
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Người phụ nữ muốn nhận quần áo.
+        2. Người đàn ông thích tiểu thuyết.
+        3. Người phụ nữ muốn nhận sách làm quà.
+        4. Hai người sẽ đi xem phim.
+        --------------------
+        여자: 저는 책을 받고 싶어요. (Nữ: Tôi muốn nhận sách.)
+### English Explain:
+        1. The woman wants to receive clothes.
+        2. The man likes novels.
+        3. The woman wants to receive a book as a gift.
+        4. The two will go to see a movie.
+        --------------------
+        <g>여자: 저는 책을 받고 싶어요.</g> (Woman: I want to receive a book.)
+
+59. ### Text Audio:
+        여자: 이번 주말에 무슨 특별한 일 있어요?
+        남자: 네, 친구 생일 파티에 갈 거예요.
+        여자: 어디에서 해요?
+        남자: 공장 근처 식당에서 할 거예요.
+### Vietnamese:
+        Nữ: Cuối tuần này bạn có việc gì đặc biệt không?
+        Nam: Vâng, tôi sẽ đi dự tiệc sinh nhật bạn.
+        Nữ: Tổ chức ở đâu vậy?
+        Nam: Sẽ tổ chức ở nhà hàng gần nhà máy.
+### English:
+        Woman: Do you have anything special planned for this weekend?
+        Man: Yes, I'm going to a friend's birthday party.
+        Woman: Where is it?
+        Man: It will be held at a restaurant near the factory.
+### Answer:
+        nan
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Người đàn ông sẽ đi du lịch vào cuối tuần này.
+        2. Người phụ nữ không có bạn.
+        3. Người đàn ông sẽ đi dự tiệc sinh nhật bạn.
+        4. Hai người sẽ gặp nhau ở nhà máy.
+        --------------------
+        남자: 네, 친구 생일 파티에 갈 거예요. (Nam: Vâng, tôi sẽ đi dự tiệc sinh nhật bạn.)
+### English Explain:
+        1. The man will go on a trip this weekend.
+        2. The woman has no friends.
+        3. The man will go to a friend's birthday party.
+        4. The two will meet at the factory.
+        --------------------
+        <g>남자: 네, 친구 생일 파티에 갈 거예요.</g> (Man: Yes, I'm going to a friend's birthday party.)
+
+60. ### Text Audio:
+        남자: 택배 왔습니다!
+        여자: 네, 잠시만요. 제가 나갈게요.
+        남자: 여기 있습니다. 사인해 주세요.
+        여자: 감사합니다. 수고하세요.
+### Vietnamese:
+        Nam: Tôi giao hàng tới đây ạ!
+        Nữ: Vâng, đợi một chút. Tôi ra ngay.
+        Nam: Đây ạ. Xin ký vào đây ạ.
+        Nữ: Cảm ơn ạ. Anh vất vả rồi.
+### English:
+        Man: The package has arrived!
+        Woman: Yes, just a moment. I'll be right there.
+        Man: Here it is. Please sign here.
+        Woman: Thank you. Have a good day.
+### Answer:
+        nan
+### Correct Answer: 1
+### Vietnamese Explain:
+        1. Người đàn ông đang giao một gói hàng.
+        2. Người phụ nữ làm việc cho một công ty giao hàng.
+        3. Hai người gặp nhau ở nhà hàng.
+        4. Người đàn ông đã cho người phụ nữ vay tiền.
+        --------------------
+        남자: 택배 왔습니다! (Nam: Tôi giao hàng tới đây ạ!)
+### English Explain:
+        1. The man is delivering a package.
+        2. The woman works for a delivery company.
+        3. The two met at a restaurant.
+        4. The man lent the woman money.
+        --------------------
+        <g>남자: 택배 왔습니다!</g> (Man: The package has arrived!)
+
+61. ### Text Audio:
+        여자: 배송비가 얼마예요?
+        남자: 3천 원입니다.
+        여자: 너무 비싸요.
+        남자: 제주도는 5천 원입니다.
+### Vietnamese:
+        Nữ: Phí vận chuyển là bao nhiêu?
+        Nam: 3000 won ạ.
+        Nữ: Đắt quá.
+        Nam: Đảo Jeju là 5000 won ạ.
+### English:
+        Woman: How much is the shipping fee?
+        Man: It's 3,000 won.
+        Woman: That's too expensive.
+        Man: It's 5,000 won to Jeju Island.
+### Answer:
+        nan
+### Correct Answer: 2
+### Vietnamese Explain:
+        1. Phí vận chuyển là 2000 won.
+        2. Phí vận chuyển đến đảo Jeju là 5000 won.
+        3. Người phụ nữ đã không trả phí vận chuyển.
+        4. Người đàn ông đã giảm giá phí vận chuyển cho người phụ nữ.
+        --------------------
+        남자: 제주도는 5천 원입니다. (Nam: Đảo Jeju là 5000 won ạ.)
+### English Explain:
+        1. The shipping fee is 2,000 won.
+        2. The shipping fee to Jeju Island is 5,000 won.
+        3. The woman did not pay the shipping fee.
+        4. The man lowered the shipping fee for the woman.
+        --------------------
+        <g>남자: 제주도는 5천 원입니다.</g> (Man: It's 5,000 won to Jeju Island.)
+
+62. ### Text Audio:
+        여자: 어떤 방법으로 배송해 드릴까요?
+        남자: 제일 빠른 방법으로 해 주세요.
+        여자: 그럼, 특급 배송으로 해 드릴게요.
+        남자: 네, 그렇게 해 주세요.
+### Vietnamese:
+        Nữ: Quý khách muốn vận chuyển bằng phương pháp nào ạ?
+        Nam: Hãy vận chuyển bằng phương pháp nhanh nhất.
+        Nữ: Vậy thì, chúng tôi sẽ vận chuyển bằng chuyển phát nhanh ạ.
+        Nam: Vâng, hãy làm như vậy cho tôi.
+### English:
+        Woman: How would you like your package delivered?
+        Man: Please use the fastest method.
+        Woman: Then, we will deliver it by express delivery.
+        Man: Yes, please do that.
+### Answer:
+        nan
+### Correct Answer: 2
+### Vietnamese Explain:
+        1. Người đàn ông yêu cầu vận chuyển bằng phương pháp rẻ nhất.
+        2. Người phụ nữ nói rằng chuyển phát nhanh là nhanh nhất.
+        3. Người đàn ông là một nhân viên bưu điện.
+        4. Người phụ nữ không biết rõ về các phương pháp vận chuyển.
+        --------------------
+        여자: 그럼, 특급 배송으로 해 드릴게요. (Nữ: Vậy thì, chúng tôi sẽ vận chuyển bằng chuyển phát nhanh ạ.)
+### English Explain:
+        1. The man asked for the cheapest shipping method.
+        2. The woman said that express delivery is the fastest.
+        3. The man is a post office worker.
+        4. The woman does not know much about shipping methods.
+        --------------------
+        <g>여자: 그럼, 특급 배송으로 해 드릴게요.</g> (Woman: Then, we will deliver it by express delivery.)
+
+63. ### Text Audio:
+        여자: 이번 주말에 뭐 할 거예요?
+        남자: 특별한 계획은 없어요. 그냥 집에서 푹 쉴 거예요.
+        여자: 저는 친구들과 영화를 보러 갈 거예요.
+        남자: 재미있겠네요. 좋은 시간 보내세요.
+### Vietnamese:
+        Nữ: Cuối tuần này bạn sẽ làm gì?
+        Nam: Tôi không có kế hoạch gì đặc biệt. Tôi chỉ định nghỉ ngơi ở nhà thôi.
+        Nữ: Tôi sẽ đi xem phim với bạn bè.
+        Nam: Nghe có vẻ thú vị đấy. Chúc bạn có thời gian vui vẻ.
+### English:
+        Woman: What are you going to do this weekend?
+        Man: I don't have any special plans. I'm just going to relax at home.
+        Woman: I'm going to see a movie with my friends.
+        Man: That sounds fun. Have a good time.
+### Answer:
+        nan
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Người phụ nữ sẽ nghỉ ngơi ở nhà.
+        2. Người đàn ông sẽ đi xem phim với bạn bè.
+        3. Người phụ nữ sẽ đi xem phim vào cuối tuần này.
+        4. Người đàn ông và người phụ nữ sẽ đi du lịch cùng nhau.
+        --------------------
+        여자: 저는 친구들과 영화를 보러 갈 거예요. (Nữ: Tôi sẽ đi xem phim với bạn bè.)
+### English Explain:
+        1. The woman will rest at home.
+        2. The man will watch a movie with friends.
+        3. The woman will go to see a movie this weekend.
+        4. The man and woman will go on a trip together.
+        --------------------
+        <g>여자: 저는 친구들과 영화를 보러 갈 거예요.</g> (Woman: I'm going to see a movie with my friends.)
+
+64. ### Text Audio:
+        남자: 스마트폰 새로 사셨네요?
+        여자: 네, 이번에 새로 나온 모델이에요. 사진 기능이 정말 좋아요.
+        남자: 한번 봐도 될까요?
+        여자: 네, 여기 있어요.
+### Vietnamese:
+        Nam: Bạn mới mua điện thoại thông minh à?
+        Nữ: Vâng, đây là mẫu mới ra lần này. Chức năng chụp ảnh rất tốt.
+        Nam: Tôi xem thử được không?
+        Nữ: Vâng, đây ạ.
+### English:
+        Man: You bought a new smartphone?
+        Woman: Yes, it's the new model that just came out. The photo function is really good.
+        Man: Can I take a look?
+        Woman: Yes, here you go.
+### Answer:
+        nan
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Người phụ nữ đã làm mất điện thoại thông minh.
+        2. Người đàn ông đã mua điện thoại thông minh mới.
+        3. Người phụ nữ nghĩ rằng chức năng chụp ảnh của điện thoại thông minh mới mua rất tốt.
+        4. Người đàn ông không quan tâm đến điện thoại thông minh.
+        --------------------
+        여자: 네, 이번에 새로 나온 모델이에요. 사진 기능이 정말 좋아요. (Nữ: Vâng, đây là mẫu mới ra lần này. Chức năng chụp ảnh rất tốt.)
+### English Explain:
+        1. The woman lost her smartphone.
+        2. The man bought a new smartphone.
+        3. The woman thinks the photo function of the newly purchased smartphone is good.
+        4. The man is not interested in smartphones.
+        --------------------
+        <g>여자: 네, 이번에 새로 나온 모델이에요. 사진 기능이 정말 좋아요.</g> (Woman: Yes, it's the new model that just came out. The photo function is really good.)
+
+65. ### Text Audio:
+        여자: 주문하신 물건은 내일 도착할 예정입니다.
+        남자: 정말요? 생각보다 빨리 오네요.
+        여자: 네, 배송이 시작되면 문자로 알려드리겠습니다.
+        남자: 감사합니다.
+### Vietnamese:
+        Nữ: Hàng bạn đặt dự kiến sẽ đến vào ngày mai.
+        Nam: Thật vậy sao? Đến nhanh hơn tôi nghĩ.
+        Nữ: Vâng, khi nào bắt đầu giao hàng, chúng tôi sẽ nhắn tin thông báo cho bạn.
+        Nam: Cảm ơn bạn.
+### English:
+        Woman: The item you ordered is scheduled to arrive tomorrow.
+        Man: Really? It's coming faster than I thought.
+        Woman: Yes, we will notify you by text message when the delivery starts.
+        Man: Thank you.
+### Answer:
+        nan
+### Correct Answer: 2
+### Vietnamese Explain:
+        1. Hàng đã đặt đã đến rồi.
+        2. Hàng đã đặt dự kiến sẽ đến vào ngày mai.
+        3. Hàng đã đặt sẽ không được giao.
+        4. Hàng đã đặt sẽ đến sau một tuần nữa.
+        --------------------
+        여자: 주문하신 물건은 내일 도착할 예정입니다. (Nữ: Hàng bạn đặt dự kiến sẽ đến vào ngày mai.)
+### English Explain:
+        1. The ordered item has already arrived.
+        2. The ordered item is scheduled to arrive tomorrow.
+        3. The ordered item will not be delivered.
+        4. The ordered item will arrive in a week.
+        --------------------
+        <g>여자: 주문하신 물건은 내일 도착할 예정입니다.</g> (Woman: The item you ordered is scheduled to arrive tomorrow.)
+
+66. ### Text Audio:
+        남자: 요즘 새로운 앱을 많이 사용하세요?
+        여자: 네, 특히 한국어 학습 앱을 자주 사용해요.
+        남자: 어떤 앱이 제일 좋아요?
+        여자: 저는 "Migii" 앱이 제일 편리하고 기능도 많아서 좋아요.
+### Vietnamese:
+        Nam: Dạo này bạn có sử dụng ứng dụng mới nhiều không?
+        Nữ: Có, tôi sử dụng ứng dụng học tiếng Hàn rất nhiều.
+        Nam: Bạn thích ứng dụng nào nhất?
+        Nữ: Tôi thích ứng dụng "Migii" nhất vì nó tiện lợi và có nhiều tính năng.
+### English:
+        Man: Do you use a lot of new apps these days?
+        Woman: Yes, I use Korean learning apps a lot.
+        Man: Which app do you like the most?
+        Woman: I like the "Migii" app the most because it's convenient and has a lot of features.
+### Answer:
+        nan
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Người phụ nữ thường xuyên sử dụng ứng dụng trò chơi.
+        2. Người đàn ông đã sử dụng ứng dụng "Migii".
+        3. Người phụ nữ thích ứng dụng "Migii" vì nó tiện lợi và có nhiều chức năng.
+        4. Người đàn ông không quan tâm đến ứng dụng học tiếng Hàn.
+        --------------------
+        여자: 저는 "Migii" 앱이 제일 편리하고 기능도 많아서 좋아요. (Nữ: Tôi thích ứng dụng "Migii" nhất vì nó tiện lợi và có nhiều tính năng.)
+### English Explain:
+        1. The woman often uses game apps.
+        2. The man has used the "Migii" app.
+        3. The woman likes the "Migii" app because it is convenient and has many functions.
+        4. The man is not interested in Korean learning apps.
+        --------------------
+        <g>여자: 저는 "Migii" 앱이 제일 편리하고 기능도 많아서 좋아요.</g> (Woman: I like the "Migii" app the most because it's convenient and has a lot of features.)
+
+67. ### Text Audio:
+        남자: 요즘 잠을 잘 못 자요.
+        여자: 혹시 스트레스 많이 받으세요?
+        남자: 네, 회사 일이 너무 많아서 힘들어요.
+        여자: 따뜻한 물에 샤워하고 잠자리에 들어 보세요.
+### Vietnamese:
+        Nam: Dạo này tôi ngủ không ngon giấc.
+        Nữ: Có lẽ nào anh bị căng thẳng nhiều không?
+        Nam: Vâng, công việc ở công ty nhiều quá nên tôi mệt mỏi.
+        Nữ: Hãy tắm nước ấm rồi đi ngủ thử xem.
+### English:
+        Man: I can't sleep well these days.
+        Woman: Are you perhaps under a lot of stress?
+        Man: Yes, I'm tired because there's too much work at the company.
+        Woman: Try taking a warm shower and going to bed.
+### Answer:
+        nan
+### Correct Answer: 2
+### Vietnamese Explain:
+        1. Người đàn ông không ngủ được vì tập thể dục quá nhiều.
+        2. Người phụ nữ khuyên người đàn ông nên tắm nước ấm rồi đi ngủ.
+        3. Người đàn ông cảm thấy thoải mái vì công việc ở công ty ít.
+        4. Người phụ nữ sẽ tập thể dục cùng với người đàn ông.
+        --------------------
+        여자: 따뜻한 물에 샤워하고 잠자리에 들어 보세요. (Nữ: Hãy tắm nước ấm rồi đi ngủ thử xem.)
+### English Explain:
+        1. The man can't sleep because he exercises too much.
+        2. The woman advises the man to take a warm shower and go to bed.
+        3. The man feels comfortable because there is little work at the company.
+        4. The woman will exercise with the man.
+        --------------------
+        <g>여자: 따뜻한 물에 샤워하고 잠자리에 들어 보세요.</g> (Woman: Try taking a warm shower and going to bed.)
+
+68. ### Text Audio:
+        여자: 이번 주말에 애완견 박람회에 갈 거예요.
+        남자: 정말요? 어디에서 열려요?
+        여자: 코엑스에서 열려요. 강아지 용품도 많이 팔고, 무료 건강 검진도 해 준대요.
+        남자: 와, 정말 좋은데요. 저도 같이 가고 싶어요.
+### Vietnamese:
+        Nữ: Cuối tuần này tôi sẽ đi hội chợ thú cưng.
+        Nam: Thật vậy sao? Tổ chức ở đâu vậy?
+        Nữ: Tổ chức ở COEX. Nghe nói là bán nhiều đồ dùng cho chó và còn khám sức khỏe miễn phí nữa.
+        Nam: Ồ, tuyệt thật đấy. Tôi cũng muốn đi cùng.
+### English:
+        Woman: I'm going to the pet fair this weekend.
+        Man: Really? Where is it held?
+        Woman: It's held at COEX. I heard they sell a lot of dog supplies and also provide free health checkups.
+        Man: Wow, that's great. I want to go with you too.
+### Answer:
+        nan
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Hội chợ thú cưng được tổ chức tại công ty.
+        2. Hội chợ thú cưng chỉ bán đồ dùng cho mèo.
+        3. Hội chợ thú cưng được tổ chức tại COEX và có khám sức khỏe miễn phí cho chó.
+        4. Người phụ nữ không quan tâm đến hội chợ thú cưng.
+        --------------------
+        여자: 코엑스에서 열려요. 강아지 용품도 많이 팔고, 무료 건강 검진도 해 준대요. (Nữ: Tổ chức ở COEX. Nghe nói là bán nhiều đồ dùng cho chó và còn khám sức khỏe miễn phí nữa.)
+### English Explain:
+        1. The pet fair is held at the company.
+        2. The pet fair only sells cat supplies.
+        3. The pet fair is held at COEX and provides free health checkups for dogs.
+        4. The woman is not interested in the pet fair.
+        --------------------
+        <g>여자: 코엑스에서 열려요. 강아지 용품도 많이 팔고, 무료 건강 검진도 해 준대요.</g> (Woman: It's held at COEX. I heard they sell a lot of dog supplies and also provide free health checkups.)
+
+69. ### Text Audio:
+        여자: 마두 씨, 이 기계 사용법 알아요?
+        남자: 아니요, 잘 몰라요. 설명서를 읽어봤지만 이해가 안 돼요.
+        여자: 그럼 제가 가르쳐 드릴게요. 어렵지 않아요.
+### Vietnamese:
+        Nữ: Anh Madu, anh có biết cách sử dụng cái máy này không?
+        Nam: Không, tôi không biết rõ lắm. Tôi đã đọc hướng dẫn sử dụng nhưng không hiểu.
+        Nữ: Vậy để tôi chỉ cho anh. Không khó đâu.
+### English:
+        Woman: Madu, do you know how to use this machine?
+        Man: No, I don't know very well. I read the manual, but I don't understand.
+        Woman: Then I'll teach you. It's not difficult.
+### Answer:
+        nan
+### Correct Answer: 4
+### Vietnamese Explain:
+        1. Người đàn ông biết rõ cách sử dụng máy.
+        2. Người phụ nữ chưa đọc hướng dẫn sử dụng.
+        3. Người đàn ông đã đọc và hiểu hướng dẫn sử dụng.
+        4. Người phụ nữ sẽ chỉ cho người đàn ông cách sử dụng máy.
+        --------------------
+        여자: 그럼 제가 가르쳐 드릴게요. 어렵지 않아요. (Nữ: Vậy để tôi chỉ cho anh. Không khó đâu.)
+### English Explain:
+        1. The man knows how to use the machine well.
+        2. The woman did not read the manual.
+        3. The man read and understood the manual.
+        4. The woman will teach the man how to use the machine.
+        --------------------
+        <g>여자: 그럼 제가 가르쳐 드릴게요. 어렵지 않아요.</g> (Woman: Then I'll teach you. It's not difficult.)
+
+70. ### Text Audio:
+        여자: 퇴근 후에 뭐 하실 거예요?
+        남자: 저는 바로 집에 갈 거예요. 너무 피곤해요.
+        여자: 그래요? 그럼 내일 봐요.
+### Vietnamese:
+        Nữ: Sau khi tan làm anh sẽ làm gì?
+        Nam: Tôi sẽ về nhà ngay. Tôi mệt quá.
+        Nữ: Vậy à? Vậy mai gặp lại nhé.
+### English:
+        Woman: What are you going to do after work?
+        Man: I'm going straight home. I'm so tired.
+        Woman: Really? Then see you tomorrow.
+### Answer:
+        nan
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Người phụ nữ sẽ về nhà sau khi tan làm.
+        2. Người đàn ông sẽ gặp bạn sau khi tan làm.
+        3. Người đàn ông sẽ về nhà ngay sau khi tan làm.
+        4. Người phụ nữ sẽ không gặp người đàn ông vào ngày mai.
+        --------------------
+        남자: 저는 바로 집에 갈 거예요. 너무 피곤해요. (Nam: Tôi sẽ về nhà ngay. Tôi mệt quá.)
+### English Explain:
+        1. The woman will go home after work.
+        2. The man will meet a friend after work.
+        3. The man will go straight home after work.
+        4. The woman will not see the man tomorrow.
+        --------------------
+        <g>남자: 저는 바로 집에 갈 거예요. 너무 피곤해요.</g> (Man: I'm going straight home. I'm so tired.)
+
+71. ### Text Audio:
+        남자: 오늘 작업은 다 끝났어요?
+        여자: 아니요, 아직 좀 남았어요. 내일까지 끝낼 수 있을 것 같아요.
+        남자: 그럼 내일 아침 일찍 시작해야겠네요.
+### Vietnamese:
+        Nam: Hôm nay làm xong việc hết chưa?
+        Nữ: Chưa ạ, vẫn còn một chút. Chắc là đến ngày mai sẽ xong ạ.
+        Nam: Vậy thì mai phải bắt đầu sớm thôi.
+### English:
+        Man: Is all the work done today?
+        Woman: No, there's still some left. I think I can finish it by tomorrow.
+        Man: Then we should start early tomorrow morning.
+### Answer:
+        nan
+### Correct Answer: 4
+### Vietnamese Explain:
+        1. Hôm nay làm xong hết việc rồi.
+        2. Ngày mai không có việc.
+        3. Không thể hoàn thành công việc vào ngày mai.
+        4. Ngày mai phải bắt đầu công việc sớm.
+        --------------------
+        남자: 그럼 내일 아침 일찍 시작해야겠네요. (Nam: Vậy thì mai phải bắt đầu sớm thôi.)
+### English Explain:
+        1. All the work is done today.
+        2. There is no work tomorrow.
+        3. The work cannot be finished by tomorrow.
+        4. We need to start work early tomorrow morning.
+        --------------------
+        <g>남자: 그럼 내일 아침 일찍 시작해야겠네요.</g> (Man: Then we should start early tomorrow morning.)
+
+72. ### Text Audio:
+        여자: 디안 씨, 한국어 공부는 어때요?
+        남자: 처음에는 어려웠는데 지금은 좀 익숙해졌어요.
+        여자: 꾸준히 하면 실력이 많이 늘 거예요.
+### Vietnamese:
+        Nữ: Dian, việc học tiếng Hàn thế nào rồi?
+        Nam: Lúc đầu thì khó nhưng bây giờ quen hơn rồi ạ.
+        Nữ: Nếu chăm chỉ thì trình độ sẽ lên nhiều đó.
+### English:
+        Woman: Dian, how's your Korean study going?
+        Man: It was difficult at first, but now I'm getting used to it.
+        Woman: If you keep at it, your skills will improve a lot.
+### Answer:
+        nan
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Người phụ nữ đã từ bỏ việc học tiếng Hàn.
+        2. Người phụ nữ thấy việc học tiếng Hàn dễ dàng ngay từ đầu.
+        3. Người phụ nữ bây giờ đã quen với việc học tiếng Hàn.
+        4. Người phụ nữ không học tiếng Hàn.
+        --------------------
+        남자: 처음에는 어려웠는데 지금은 좀 익숙해졌어요. (Nam: Lúc đầu thì khó nhưng bây giờ quen hơn rồi ạ.)
+### English Explain:
+        1. The woman gave up studying Korean.
+        2. The woman found it easy to study Korean from the beginning.
+        3. The woman is now used to studying Korean.
+        4. The woman does not study Korean.
+        --------------------
+        <g>남자: 처음에는 어려웠는데 지금은 좀 익숙해졌어요.</g> (Man: It was difficult at first, but now I'm getting used to it.)
+
+73. ### Text Audio:
+        남자: 죄송합니다, 공장장님. 제가 실수로 기계를 망가뜨렸습니다.
+        여자: 괜찮아요. 다칠 수도 있었는데 안 다쳐서 다행입니다.
+        남자: 다시는 이런 일이 없도록 주의하겠습니다.
+### Vietnamese:
+        Nam: Xin lỗi, thưa xưởng trưởng. Tôi vô tình làm hỏng máy móc rồi ạ.
+        Nữ: Không sao đâu. May là anh không bị thương.
+        Nam: Tôi sẽ chú ý để không có chuyện này xảy ra nữa ạ.
+### English:
+        Man: I'm sorry, factory manager. I accidentally broke the machine.
+        Woman: It's okay. I'm glad you weren't hurt.
+        Man: I will be careful so that this doesn't happen again.
+### Answer:
+        nan
+### Correct Answer: 4
+### Vietnamese Explain:
+        1. Người phụ nữ đã mắng người đàn ông.
+        2. Người đàn ông cố tình làm hỏng máy.
+        3. Người đàn ông đã làm hỏng máy và bị thương.
+        4. Người phụ nữ nghĩ rằng may mắn là người đàn ông không bị thương.
+        --------------------
+        여자: 괜찮아요. 다칠 수도 있었는데 안 다쳐서 다행입니다. (Nữ: Không sao đâu. May là anh không bị thương.)
+### English Explain:
+        1. The woman scolded the man.
+        2. The man intentionally broke the machine.
+        3. The man broke the machine and got hurt.
+        4. The woman thinks it's fortunate that the man didn't get hurt.
+        --------------------
+        <g>여자: 괜찮아요. 다칠 수도 있었는데 안 다쳐서 다행입니다.</g> (Woman: It's okay. I'm glad you weren't hurt.)
+
+74. ### Text Audio:
+        여자: 내일 회사에 지각하지 마세요.
+        남자: 네, 알겠습니다. 늦지 않게 조심하겠습니다.
+        여자: 좋아요. 그럼 내일 봐요.
+### Vietnamese:
+        Nữ: Ngày mai đừng đi làm muộn nhé.
+        Nam: Vâng, tôi biết rồi. Tôi sẽ cẩn thận để không bị muộn.
+        Nữ: Tốt lắm. Vậy mai gặp lại nhé.
+### English:
+        Woman: Don't be late for work tomorrow.
+        Man: Yes, I understand. I will be careful not to be late.
+        Woman: Good. Then see you tomorrow.
+### Answer:
+        nan
+### Correct Answer: 2
+### Vietnamese Explain:
+        1. Người đàn ông sẽ đi làm muộn vào ngày mai.
+        2. Người phụ nữ lo lắng rằng người đàn ông sẽ đi làm muộn vào ngày mai.
+        3. Hôm nay người phụ nữ đã đi làm muộn.
+        4. Người phụ nữ không đi làm vào ngày mai.
+        --------------------
+        여자: 내일 회사에 지각하지 마세요. (Nữ: Ngày mai đừng đi làm muộn nhé.)
+### English Explain:
+        1. The man will be late for work tomorrow.
+        2. The woman is worried that the man will be late for work tomorrow.
+        3. The woman was late for work today.
+        4. The woman is not going to work tomorrow.
+        --------------------
+        <g>여자: 내일 회사에 지각하지 마세요.</g> (Woman: Don't be late for work tomorrow.)
+
+75. ### Text Audio:
+        남자: 아지자 씨, 운전면허증 갱신했어요?
+        여자: 아, 아직 못 했어요. 이번 달 말까지인데, 시간이 없어서요.
+        남자: 갱신 안 하면 벌금을 내야 하니까 빨리 하세요.
+        여자: 네, 알겠습니다. 알려줘서 고마워요.
+### Vietnamese:
+        Nam: Aziza, bạn đã gia hạn bằng lái xe chưa?
+        Nữ: À, tôi vẫn chưa làm. Hạn chót là cuối tháng này, nhưng tôi không có thời gian.
+        Nam: Nếu không gia hạn, bạn sẽ phải nộp phạt đấy, nên hãy làm nhanh đi.
+        Nữ: Vâng, tôi biết rồi. Cảm ơn bạn đã cho tôi biết.
+### English:
+        Man: Aziza, have you renewed your driver's license?
+        Woman: Ah, I haven't done it yet. The deadline is at the end of this month, but I don't have time.
+        Man: If you don't renew it, you'll have to pay a fine, so do it quickly.
+        Woman: Yes, I understand. Thank you for letting me know.
+### Answer:
+        nan
+### Correct Answer: 2
+### Vietnamese Explain:
+        1. Người phụ nữ đã gia hạn bằng lái xe rồi.
+        2. Người phụ nữ phải gia hạn bằng lái xe trước cuối tháng này.
+        3. Người đàn ông đã nộp phạt cho người phụ nữ.
+        4. Người phụ nữ không quan tâm đến việc gia hạn bằng lái xe.
+        --------------------
+        여자: 아, 아직 못 했어요. 이번 달 말까지인데, 시간이 없어서요. (Nữ: À, tôi vẫn chưa làm. Hạn chót là cuối tháng này, nhưng tôi không có thời gian.)
+### English Explain:
+        1. The woman has already renewed his driver's license.
+        2. The woman must renew his driver's license by the end of this month.
+        3. The man paid the fine for the woman.
+        4. The woman is not interested in renewing her driver's license.
+        --------------------
+        <g>여자: 아, 아직 못 했어요. 이번 달 말까지인데, 시간이 없어서요.</g> (Woman: Ah, I haven't done it yet. The deadline is at the end of this month, but I don't have time.)
+
+76. ### Text Audio:
+        여자: 오늘 날씨가 너무 좋네요. 공원에 가서 산책할까요?
+        남자: 좋아요. 그런데 마스크는 꼭 쓰고 가야 해요.
+        여자: 네, 알아요. 요즘 미세먼지 때문에 마스크 없이는 안 돼요.
+### Vietnamese:
+        Nữ: Thời tiết hôm nay đẹp quá. Chúng ta đi dạo công viên nhé?
+        Nam: Được thôi. Nhưng phải đeo khẩu trang khi đi đấy.
+        Nữ: Vâng, tôi biết rồi. Dạo này vì bụi mịn nên không có khẩu trang là không được.
+### English:
+        Woman: The weather is so nice today. Shall we go for a walk in the park?
+        Man: Okay. But we must wear a mask when we go.
+        Woman: Yes, I know. These days, we can't go without a mask because of the fine dust.
+### Answer:
+        nan
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Hai người quyết định đi công viên vào ngày mưa.
+        2. Người đàn ông ghét việc đeo khẩu trang.
+        3. Người phụ nữ nghĩ rằng phải đeo khẩu trang vì bụi mịn.
+        4. Ở công viên không có ai cả.
+        --------------------
+        여자: 요즘 미세먼지 때문에 마스크 없이는 안 돼요. (Nữ: Dạo này vì bụi mịn nên không có khẩu trang là không được.)
+### English Explain:
+        1. The two decided to go to the park on a rainy day.
+        2. The man hates wearing a mask.
+        3. The woman thinks she has to wear a mask because of the fine dust.
+        4. There is no one in the park.
+        --------------------
+        <g>여자: 요즘 미세먼지 때문에 마스크 없이는 안 돼요.</g> (Woman: These days, we can't go without a mask because of the fine dust.)
+
+77. ### Text Audio:
+        남자: 유진 씨, 요즘 스트레스가 많아 보여요. 무슨 일 있어요?
+        여자: 네, 회사 일이 너무 많아서 힘들어요.
+        남자: 힘들면 잠깐이라도 쉬는 게 좋을 것 같아요.
+        여자: 맞아요. 휴가를 내고 싶지만, 그럴 수가 없어요.
+### Vietnamese:
+        Nam: Yujin, dạo này trông bạn có vẻ căng thẳng. Có chuyện gì vậy?
+        Nữ: Vâng, công việc ở công ty nhiều quá nên tôi mệt mỏi.
+        Nam: Nếu mệt mỏi thì bạn nên nghỉ ngơi dù chỉ một chút.
+        Nữ: Đúng vậy. Tôi muốn xin nghỉ phép, nhưng không thể.
+### English:
+        Man: Yujin, you seem stressed these days. What's wrong?
+        Woman: Yes, I'm tired because there's too much work at the company.
+        Man: If you're tired, I think you should rest even for a while.
+        Woman: That's right. I want to take a vacation, but I can't.
+### Answer:
+        nan
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Người phụ nữ thích công việc ở công ty.
+        2. Người đàn ông bảo người phụ nữ đi nghỉ mát.
+        3. Người phụ nữ muốn xin nghỉ phép vì căng thẳng.
+        4. Hai người tập thể dục ở công ty.
+        --------------------
+        여자: 휴가를 내고 싶지만, 그럴 수가 없어요. (Nữ: Tôi muốn xin nghỉ phép, nhưng không thể.)
+### English Explain:
+        1. The woman enjoys working at the company.
+        2. The man told the woman to go on vacation.
+        3. The woman wants to take a vacation because of stress.
+        4. The two exercise at the company.
+        --------------------
+        <g>여자: 휴가를 내고 싶지만, 그럴 수가 없어요.</g> (Woman: I want to take a vacation, but I can't.)
+
+78. ### Text Audio:
+        여자: 이번 주말에 텃밭에 채소를 심을 건데, 같이 할래요?
+        남자: 좋아요. 뭘 심을 거예요?
+        여자: 상추하고 고추를 심을 거예요.
+        남자: 그럼 제가 모종삽을 가져갈게요.
+### Vietnamese:
+        Nữ: Cuối tuần này tôi định trồng rau ở vườn, bạn làm cùng không?
+        Nam: Được thôi. Bạn định trồng gì?
+        Nữ: Tôi định trồng xà lách và ớt.
+        Nam: Vậy tôi sẽ mang xẻng trồng cây đi.
+### English:
+        Woman: I'm going to plant vegetables in the garden this weekend, would you like to join me?
+        Man: Okay. What are you going to plant?
+        Woman: I'm going to plant lettuce and peppers.
+        Man: Then I'll bring a trowel.
+### Answer:
+        nan
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Người phụ nữ sẽ xem phim vào cuối tuần.
+        2. Người đàn ông sẽ tưới nước cho vườn.
+        3. Người phụ nữ sẽ trồng xà lách và ớt.
+        4. Hai người sẽ nướng thịt ăn ở vườn.
+        --------------------
+        여자: 상추하고 고추를 심을 거예요. (Nữ: Tôi định trồng xà lách và ớt.)
+### English Explain:
+        1. The woman will watch a movie this weekend.
+        2. The man will water the garden.
+        3. The woman will plant lettuce and peppers.
+        4. The two will grill meat and eat it in the garden.
+        --------------------
+        <g>여자: 상추하고 고추를 심을 거예요.</g> (Woman: I'm going to plant lettuce and peppers.)
+
+79. ### Text Audio:
+        남자: 닛차난 씨, 분리수거는 어떻게 해야 해요?
+        여자: 종이는 종이끼리, 플라스틱은 플라스틱끼리 버려야 해요.
+        남자: 아, 그렇군요. 스티로폼은 어떻게 버려요?
+        여자: 스티로폼은 깨끗하게 씻어서 버려야 해요.
+### Vietnamese:
+        Nam: Nitchanan, phải phân loại rác như thế nào?
+        Nữ: Giấy thì bỏ riêng với giấy, nhựa thì bỏ riêng với nhựa.
+        Nam: À, ra vậy. Còn xốp thì bỏ như thế nào?
+        Nữ: Xốp thì phải rửa sạch rồi bỏ.
+### English:
+        Man: Nitchanan, how do I sort the garbage?
+        Woman: Paper should be thrown away with paper, and plastic should be thrown away with plastic.
+        Man: Ah, I see. How do I throw away styrofoam?
+        Woman: Styrofoam must be washed clean before being thrown away.
+### Answer:
+        nan
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Người đàn ông không cần phải phân loại rác.
+        2. Người phụ nữ chỉ phân loại giấy.
+        3. Xốp thì phải rửa sạch rồi bỏ.
+        4. Nhựa thì phải đốt rồi bỏ.
+        --------------------
+        여자: 스티로폼은 깨끗하게 씻어서 버려야 해요. (Nữ: Xốp thì phải rửa sạch rồi bỏ.)
+### English Explain:
+        1. The man does not need to sort the garbage.
+        2. The woman only sorts paper.
+        3. Styrofoam must be washed before being thrown away.
+        4. Plastic must be burned before being thrown away.
+        --------------------
+        <g>여자: 스티로폼은 깨끗하게 씻어서 버려야 해요.</g> (Woman: Styrofoam must be washed clean before being thrown away.)
+
+80. ### Text Audio:
+        남자: 오늘 회사에 새 운동화를 신고 왔어요.
+        여자: 와, 예쁘네요. 어디에서 샀어요?
+        남자: 인터넷에서 샀는데, 아주 편해요.
+        여자: 저도 하나 사고 싶네요.
+### Vietnamese:
+        Nam: Hôm nay tôi đi làm với đôi giày thể thao mới.
+        Nữ: Ồ, đẹp đấy. Anh mua ở đâu vậy?
+        Nam: Tôi mua trên mạng, rất thoải mái.
+        Nữ: Tôi cũng muốn mua một đôi.
+### English:
+        Man: I came to work with new sneakers today.
+        Woman: Wow, they're pretty. Where did you buy them?
+        Man: I bought them online, and they're very comfortable.
+        Woman: I want to buy a pair too.
+### Answer:
+        nan
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Người phụ nữ không thích giày thể thao của người đàn ông.
+        2. Người đàn ông đi giày da ở công ty.
+        3. Người đàn ông mua giày thể thao trên mạng.
+        4. Hai người đã cùng nhau đi mua giày thể thao.
+        --------------------
+        남자: 인터넷에서 샀는데, 아주 편해요. (Nam: Tôi mua trên mạng, rất thoải mái.)
+### English Explain:
+        1. The woman doesn't like the man's sneakers.
+        2. The man wears dress shoes at the company.
+        3. The man bought sneakers online.
+        4. The two went to buy sneakers together.
+        --------------------
+        <g>남자: 인터넷에서 샀는데, 아주 편해요.</g> (Man: I bought them online, and they're very comfortable.)
+
+81. ### Text Audio:
+        여자: 이번 달 전기 요금이 너무 많이 나왔어요.
+        남자: 그래요? 혹시 에어컨을 너무 많이 켰어요?
+        여자: 네, 더워서 계속 켰더니...
+        남자: 이제부터는 좀 아껴 써야겠어요.
+### Vietnamese:
+        Nữ: Tiền điện tháng này nhiều quá.
+        Nam: Vậy à? Có lẽ nào vì bật điều hòa nhiều quá không?
+        Nữ: Vâng, vì trời nóng nên tôi bật liên tục...
+        Nam: Từ giờ chúng ta phải tiết kiệm thôi.
+### English:
+        Woman: The electricity bill this month is too high.
+        Man: Really? Maybe you turned on the air conditioner too much?
+        Woman: Yes, because it was hot, I kept turning it on...
+        Man: From now on, I need to use it sparingly.
+### Answer:
+        nan
+### Correct Answer: 4
+### Vietnamese Explain:
+        1. Hai người không cần phải trả tiền điện.
+        2. Người phụ nữ ghét điều hòa.
+        3. Người đàn ông nghĩ rằng tiền điện ít.
+        4. Hai người nghĩ rằng phải tiết kiệm tiền điện.
+        --------------------
+        남자: 이제부터는 좀 아껴 써야겠어요. (Nam: Từ giờ chúng ta phải tiết kiệm thôi.)
+### English Explain:
+        1. The two do not need to pay the electricity bill.
+        2. The woman hates the air conditioner.
+        3. The man thinks the electricity bill is low.
+        4. The two think they should save on electricity bills.
+        --------------------
+        <g>남자: 이제부터는 좀 아껴 써야겠어요.</g> (Man: From now on, I need to use it sparingly.)
+
+82. ### Text Audio:
+        남자: 안녕하세요. 외국인 등록증을 만들고 싶은데요.
+        여자: 네, 신분증하고 여권을 가지고 오셨어요?
+        남자: 네, 여기 있습니다.
+        여자: 잠시만 기다리세요.
+### Vietnamese:
+        Nam: Xin chào. Tôi muốn làm thẻ đăng ký người nước ngoài.
+        Nữ: Vâng, anh có mang theo chứng minh thư và hộ chiếu không?
+        Nam: Vâng, đây ạ.
+        Nữ: Xin vui lòng chờ một lát.
+### English:
+        Man: Hello. I want to make a foreigner registration card.
+        Woman: Yes, did you bring your ID card and passport?
+        Man: Yes, here it is.
+        Woman: Please wait a moment.
+### Answer:
+        nan
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Người đàn ông bị mất hộ chiếu.
+        2. Người phụ nữ muốn làm thẻ đăng ký người nước ngoài.
+        3. Người đàn ông muốn làm thẻ đăng ký người nước ngoài.
+        4. Hai người đến xem phim.
+        --------------------
+        남자: 외국인 등록증을 만들고 싶은데요. (Nam: Tôi muốn làm thẻ đăng ký người nước ngoài.)
+### English Explain:
+        1. The man lost his passport.
+        2. The woman wants to make a foreigner registration card.
+        3. The man wants to make a foreigner registration card.
+        4. The two came to see a movie.
+        --------------------
+        <g>남자: 외국인 등록증을 만들고 싶은데요.</g> (Man: I want to make a foreigner registration card.)
+
+83. ### Text Audio:
+        여자: 이번 주말에 친구 결혼식에 갈 건데, 뭘 입고 갈지 고민이에요.
+        남자: 정장을 입는 게 어때요?
+        여자: 정장은 너무 딱딱해 보여서 싫어요.
+        남자: 그럼 예쁜 원피스를 입는 건 어때요?
+### Vietnamese:
+        Nữ: Cuối tuần này tôi đi đám cưới bạn, đang phân vân không biết mặc gì.
+        Nam: Mặc vest thì sao?
+        Nữ: Vest nhìn cứng nhắc quá nên tôi không thích.
+        Nam: Vậy mặc váy liền xinh xắn thì sao?
+### English:
+        Woman: I'm going to my friend's wedding this weekend, and I'm worried about what to wear.
+        Man: How about wearing a suit?
+        Woman: I don't like suits because they look too stiff.
+        Man: Then how about wearing a pretty dress?
+### Answer:
+        nan
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Người phụ nữ thích vest.
+        2. Người đàn ông sẽ mặc vest để đi.
+        3. Người phụ nữ sẽ đi đám cưới.
+        4. Hai người sẽ gặp nhau ở đám cưới.
+        --------------------
+        여자: 이번 주말에 친구 결혼식에 갈 건데, 뭘 입고 갈지 고민이에요. (Nữ: Cuối tuần này tôi đi đám cưới bạn, đang phân vân không biết mặc gì.)
+### English Explain:
+        1. The woman likes suits.
+        2. The man will go in a suit.
+        3. The woman will go to the wedding.
+        4. The two will meet at the wedding.
+        --------------------
+        <g>여자: 이번 주말에 친구 결혼식에 갈 건데, 뭘 입고 갈지 고민이에요.</g> (Woman: I'm going to my friend's wedding this weekend, and I'm worried about what to wear.)
+
+84. ### Text Audio:
+        남자: 요즘 잠을 잘 못 자서 너무 피곤해요.
+        여자: 혹시 카페인을 너무 많이 마시는 건 아니에요?
+        남자: 커피를 하루에 세 잔 정도 마셔요.
+        여자: 커피를 줄이고 따뜻한 물을 마시는 게 좋을 것 같아요.
+### Vietnamese:
+        Nam: Dạo này tôi ngủ không ngon giấc nên mệt mỏi quá.
+        Nữ: Có lẽ nào vì anh uống quá nhiều caffeine không?
+        Nam: Tôi uống khoảng ba cốc cà phê một ngày.
+        Nữ: Anh nên giảm cà phê và uống nước ấm thì tốt hơn đấy.
+### English:
+        Man: I can't sleep well these days, so I'm too tired.
+        Woman: Maybe you're drinking too much caffeine?
+        Man: I drink about three cups of coffee a day.
+        Woman: You should reduce coffee and drink warm water.
+### Answer:
+        nan
+### Correct Answer: 4
+### Vietnamese Explain:
+        1. Người đàn ông ghét cà phê.
+        2. Người phụ nữ uống ba cốc cà phê một ngày.
+        3. Người đàn ông ngủ ngon giấc nên không mệt mỏi.
+        4. Người đàn ông mệt mỏi vì uống nhiều cà phê.
+        --------------------
+        여자: 혹시 카페인을 너무 많이 마시는 건 아니에요? (Nam: Có lẽ nào vì anh uống quá nhiều caffeine không?)
+### English Explain:
+        1. The man hates coffee.
+        2. The woman drinks three cups of coffee a day.
+        3. The man sleeps well, so he is not tired.
+        4. The man is tired because he drinks a lot of coffee.
+        --------------------
+        <g>여자: 혹시 카페인을 너무 많이 마시는 건 아니에요?</g> (Man: Maybe you're drinking too much caffeine?)
+
+85. ### Text Audio:
+        여자: 수리센터입니다. 무엇을 도와드릴까요?
+        남자: 세탁기가 고장 났어요.
+        여자: 네, 주소를 알려주시겠어요?
+        남자: 서울시 강남구입니다.
+### Vietnamese:
+        Nữ: Trung tâm sửa chữa đây ạ. Tôi có thể giúp gì cho bạn?
+        Nam: Máy giặt của tôi bị hỏng.
+        Nữ: Vâng, bạn có thể cho tôi biết địa chỉ được không?
+        Nam: Là Gangnam-gu, Seoul.
+### English:
+        Woman: This is the repair center. How can I help you?
+        Man: My washing machine is broken.
+        Woman: Yes, can you give me your address?
+        Man: It's Gangnam-gu, Seoul.
+### Answer:
+        nan
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Người đàn ông nói rằng tủ lạnh của anh ấy bị hỏng.
+        2. Máy giặt của người phụ nữ bị hỏng.
+        3. Người đàn ông đã cung cấp địa chỉ cho trung tâm sửa chữa.
+        4. Người phụ nữ đã hỏi số điện thoại của người đàn ông.
+        --------------------
+        남자: 서울시 강남구입니다. (Nam: Là Gangnam-gu, Seoul.)
+### English Explain:
+        1. The man said his refrigerator was broken.
+        2. The woman's washing machine is broken.
+        3. The man gave the address to the repair center.
+        4. The woman asked the man for his phone number.
+        --------------------
+        <g>남자: 서울시 강남구입니다.</g> (Man: It's Gangnam-gu, Seoul.)
+
+86. ### Text Audio:
+        남자: 디안 씨, 공구 상자 어디에 있어요?
+        여자: 창고에 있을 거예요. 왜 필요하세요?
+        남자: 의자가 고장 나서 수리하려고요.
+        여자: 아, 그렇군요.
+### Vietnamese:
+        Nam: Dian ơi, hộp dụng cụ ở đâu vậy?
+        Nữ: Chắc là ở trong kho. Anh cần gì vậy?
+        Nam: Cái ghế bị hỏng nên tôi định sửa.
+        Nữ: À, ra vậy.
+### English:
+        Man: Dian, where is the toolbox?
+        Woman: It's probably in the warehouse. Why do you need it?
+        Man: The chair is broken, so I'm going to fix it.
+        Woman: Oh, I see.
+### Answer:
+        nan
+### Correct Answer: 2
+### Vietnamese Explain:
+        1. Người phụ nữ muốn sửa cái ghế.
+        2. Người đàn ông đang tìm hộp dụng cụ.
+        3. Hộp dụng cụ ở trong bếp.
+        4. Hai người định mua ghế mới.
+        --------------------
+        남자: 디안 씨, 공구 상자 어디에 있어요? (Nam: Dian ơi, hộp dụng cụ ở đâu vậy?)
+### English Explain:
+        1. The woman wants to repair the chair.
+        2. The man is looking for the toolbox.
+        3. The toolbox is in the kitchen.
+        4. The two people are going to buy a new chair.
+        --------------------
+        <g>남자: 디안 씨, 공구 상자 어디에 있어요?</g> (Man: Dian, where is the toolbox?)
+
+87. ### Text Audio:
+        여자: 저, 혹시 충전기 있으세요?
+        남자: 네, 있어요. 어떤 충전기가 필요하세요?
+        여자: 스마트폰 충전기가 필요해요.
+        남자: 잠시만요, 여기 있어요.
+### Vietnamese:
+        Nữ: À, bạn có đồ sạc pin không?
+        Nam: Có. Bạn cần loại sạc nào?
+        Nữ: Tôi cần đồ sạc điện thoại thông minh.
+        Nam: Chờ một chút, đây này.
+### English:
+        Woman: Excuse me, do you have a battery charger?
+        Man: Yes, I do. What kind of charger do you need?
+        Woman: I need a smartphone charger.
+        Man: Just a moment, here it is.
+### Answer:
+        nan
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Người phụ nữ cần đồ sạc máy tính xách tay.
+        2. Người đàn ông không có đồ sạc.
+        3. Người phụ nữ cần sạc điện thoại thông minh.
+        4. Người đàn ông cho người phụ nữ mượn tiền.
+        --------------------
+        여자: 스마트폰 충전기가 필요해요. (Nữ: Tôi cần đồ sạc điện thoại thông minh.)
+### English Explain:
+        1. The woman needs a laptop charger.
+        2. The man does not have a charger.
+        3. The woman needs a smartphone charger.
+        4. The man lent money to the woman.
+        --------------------
+        <g>여자: 스마트폰 충전기가 필요해요.</g> (Woman: I need a smartphone charger.)
+
+88. ### Text Audio:
+        남자: 이번 달 통신비가 5만 원이나 나왔어요.
+        여자: 너무 많이 나왔네요. 무슨 일이 있었어요?
+        남자: 잘 모르겠어요. 다음 달에는 확인해 봐야겠어요.
+        여자: 네, 그래야겠어요.
+### Vietnamese:
+        Nam: Tiền điện thoại tháng này tận 50.000 won.
+        Nữ: Nhiều quá nhỉ. Có chuyện gì vậy?
+        Nam: Tôi cũng không biết nữa. Chắc tháng sau phải kiểm tra lại xem sao.
+        Nữ: Ừ, phải vậy thôi.
+### English:
+        Man: My phone bill this month is 50,000 won.
+        Woman: That's too much. What happened?
+        Man: I don't know. I'll have to check it next month.
+        Woman: Yes, you should.
+### Answer:
+        nan
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Người đàn ông đã không trả tiền điện thoại.
+        2. Người phụ nữ không nghĩ rằng tiền điện thoại đắt.
+        3. Tiền điện thoại tháng này là 50.000 won.
+        4. Hai người sẽ đi du lịch vào tháng tới.
+        --------------------
+        남자: 이번 달 통신비가 5만 원이나 나왔어요. (Nam: Tiền điện thoại tháng này tận 50.000 won.)
+### English Explain:
+        1. The man did not pay the phone bill.
+        2. The woman does not think the phone bill is expensive.
+        3. The phone bill this month is 50,000 won.
+        4. The two people will go on a trip next month.
+        --------------------
+        <g>남자: 이번 달 통신비가 5만 원이나 나왔어요.</g> (Man: My phone bill this month is 50,000 won.)
+
+89. ### Text Audio:
+        여자: 에어컨이 고장 났는데 어떻게 해야 할까요?
+        남자: 서비스 센터에 전화해서 수리를 맡겨야죠.
+        여자: 전화번호를 알고 계세요?
+        남자: 제가 알아볼게요.
+### Vietnamese:
+        Nữ: Điều hòa bị hỏng rồi, phải làm sao bây giờ?
+        Nam: Gọi đến trung tâm bảo hành để sửa thôi.
+        Nữ: Anh có biết số điện thoại không?
+        Nam: Để tôi tìm cho.
+### English:
+        Woman: The air conditioner is broken, what should we do?
+        Man: We should call the service center and have it repaired.
+        Woman: Do you know the phone number?
+        Man: I'll find it.
+### Answer:
+        nan
+### Correct Answer: 4
+### Vietnamese Explain:
+        1. Người đàn ông có thể sửa điều hòa.
+        2. Người phụ nữ đã gọi đến trung tâm bảo hành.
+        3. Điều hòa hiện đang hoạt động.
+        4. Người đàn ông sẽ tìm số điện thoại của trung tâm bảo hành.
+        --------------------
+        남자: 제가 알아볼게요. (Nam: Để tôi tìm cho.)
+### English Explain:
+        1. The man can fix the air conditioner.
+        2. The woman called the service center.
+        3. The air conditioner is currently working.
+        4. The man will find the service center's phone number.
+        --------------------
+        <g>남자: 제가 알아볼게요.</g> (Man: I'll find it.)
+
+90. ### Text Audio:
+        여자: 이번 달 월세가 얼마예요?
+        남자: 50만 원입니다.
+        여자: 관리비는 포함인가요?
+        남자: 아니요, 관리비는 별도입니다.
+### Vietnamese:
+        Nữ: Tiền thuê nhà tháng này là bao nhiêu?
+        Nam: 500.000 won.
+        Nữ: Đã bao gồm phí quản lý chưa?
+        Nam: Chưa, phí quản lý tính riêng.
+### English:
+        Woman: How much is the monthly rent this month?
+        Man: 500,000 won.
+        Woman: Is the management fee included?
+        Man: No, the management fee is separate.
+### Answer:
+        nan
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Tiền thuê nhà là 600.000 won.
+        2. Phí quản lý đã bao gồm trong tiền thuê nhà.
+        3. Tiền thuê nhà là 500.000 won.
+        4. Hai người định mua nhà.
+        --------------------
+        남자: 50만 원입니다. (Nam: 500.000 won.)
+### English Explain:
+        1. The rent is 600,000 won.
+        2. The management fee is included in the rent.
+        3. The rent is 500,000 won.
+        4. The two people are going to buy a house.
+        --------------------
+        <g>남자: 50만 원입니다.</g> (Man: 500,000 won.)
+
+91. ### Text Audio:
+        남자: 어제 세탁기가 고장 나서 불편했어요.
+        여자: 정말요? 그래서 어떻게 했어요?
+        남자: 친구 집에 가서 빨래했어요.
+        여자: 아, 그랬군요.
+### Vietnamese:
+        Nam: Hôm qua máy giặt bị hỏng nên bất tiện quá.
+        Nữ: Thật á? Thế anh làm thế nào?
+        Nam: Tôi đến nhà bạn giặt nhờ.
+        Nữ: Ồ, ra vậy.
+### English:
+        Man: Yesterday the washing machine broke down, so it was inconvenient.
+        Woman: Really? So what did you do?
+        Man: I went to my friend's house to do laundry.
+        Woman: Oh, I see.
+### Answer:
+        nan
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Người đàn ông đã sửa máy giặt.
+        2. Người phụ nữ đã đến nhà bạn giặt quần áo.
+        3. Người đàn ông đã đến nhà bạn giặt quần áo.
+        4. Hai người đã mua một máy giặt mới.
+        --------------------
+        남자: 친구 집에 가서 빨래했어요. (Nam: Tôi đến nhà bạn giặt nhờ.)
+### English Explain:
+        1. The man fixed the washing machine.
+        2. The woman went to her friend's house to do laundry.
+        3. The man went to his friend's house to do laundry.
+        4. The two people bought a new washing machine.
+        --------------------
+        <g>남자: 친구 집에 가서 빨래했어요.</g> (Man: I went to my friend's house to do laundry.)
+
+92. ### Text Audio:
+        남자: 이번 주말에 회사 야유회에 갈 거예요?
+        여자: 네, 저는 갈 거예요. 어디로 가요?
+        남자: 글쎄요, 아직 잘 모르겠어요. 회사 게시판에 공고가 붙을 거예요.
+### Vietnamese:
+        Nam: Bạn sẽ đi dã ngoại của công ty vào cuối tuần này chứ?
+        Nữ: Vâng, tôi sẽ đi. Đi đâu vậy?
+        Nam: Tôi cũng không biết nữa. Thông báo sẽ được dán trên bảng thông báo của công ty.
+### English:
+        Man: Are you going to the company picnic this weekend?
+        Woman: Yes, I'm going. Where are we going?
+        Man: Well, I'm not sure yet. The announcement will be posted on the company bulletin board.
+### Answer:
+        nan
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Người phụ nữ sẽ không đi dã ngoại của công ty.
+        2. Người đàn ông đã dán thông báo trên bảng thông báo của công ty.
+        3. Địa điểm dã ngoại vẫn chưa được quyết định.
+        4. Hai người đã đi dã ngoại của công ty vào cuối tuần trước.
+        --------------------
+        남자: 아직 잘 모르겠어요. 회사 게시판에 공고가 붙을 거예요. (Nam: Tôi cũng không biết nữa. Thông báo sẽ được dán trên bảng thông báo của công ty.)
+### English Explain:
+        1. The woman will not go to the company picnic.
+        2. The man posted an announcement on the company bulletin board.
+        3. The picnic location has not been decided yet.
+        4. The two went to the company picnic last weekend.
+        --------------------
+        <g>남자: 아직 잘 모르겠어요. 회사 게시판에 공고가 붙을 거예요. </g> (Man: I'm not sure yet. The announcement will be posted on the company bulletin board.)
+
+93. ### Text Audio:
+        남자: 계약서에 서명하기 전에 내용을 꼼꼼히 확인해야 합니다.
+        여자: 네, 알겠습니다. 혹시 모르는 내용이 있으면 물어봐도 될까요?
+        남자: 물론입니다. 궁금한 점이 있으면 언제든지 질문하세요.
+### Vietnamese:
+        Nam: Bạn phải kiểm tra kỹ nội dung trước khi ký vào hợp đồng.
+        Nữ: Vâng, tôi hiểu rồi. Tôi có thể hỏi nếu có điều gì tôi không hiểu không?
+        Nam: Tất nhiên rồi. Hãy hỏi bất cứ khi nào bạn có thắc mắc.
+### English:
+        Man: You must carefully check the contents before signing the contract.
+        Woman: Yes, I understand. Can I ask if there is anything I don't understand?
+        Man: Of course. Feel free to ask any questions you have.
+### Answer:
+        nan
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Phải hỏi sau khi ký vào hợp đồng.
+        2. Không cần phải kiểm tra nội dung hợp đồng.
+        3. Có thể hỏi nếu có điều gì bạn không hiểu.
+        4. Chỉ cần đọc hợp đồng một lần.
+        --------------------
+        남자: 궁금한 점이 있으면 언제든지 질문하세요. (Nam: Hãy hỏi bất cứ khi nào bạn có thắc mắc.)
+### English Explain:
+        1. The woman must ask after signing the contract.
+        2. The woman doesn't need to check the contents of the contract.
+        3. The woman can ask if there is anything she doesn't understand.
+        4. The woman only needs to read the contract once.
+        --------------------
+        <g>남자: 궁금한 점이 있으면 언제든지 질문하세요.</g> (Man: Feel free to ask any questions you have.)
+
+94. ### Text Audio:
+        남자: 출국 전에 보험에 가입해야 합니까?
+        여자: 네, 해외에서 발생할 수 있는 사고에 대비해야 합니다.
+        남자: 어떤 보험에 가입해야 할까요?
+### Vietnamese:
+        Nam: Tôi có cần mua bảo hiểm trước khi xuất cảnh không?
+        Nữ: Vâng, bạn cần chuẩn bị cho những tai nạn có thể xảy ra ở nước ngoài.
+        Nam: Tôi nên mua loại bảo hiểm nào?
+### English:
+        Man: Do I need to buy insurance before leaving the country?
+        Woman: Yes, you need to prepare for accidents that may occur abroad.
+        Man: What kind of insurance should I buy?
+### Answer:
+        nan
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Không thể mua bảo hiểm trước khi xuất cảnh.
+        2. Không có khả năng xảy ra tai nạn ở nước ngoài.
+        3. Phải mua bảo hiểm trước khi xuất cảnh.
+        4. Mua bảo hiểm là tùy chọn.
+        --------------------
+        여자: 네, 해외에서 발생할 수 있는 사고에 대비해야 합니다. (Nữ: Vâng, bạn cần chuẩn bị cho những tai nạn có thể xảy ra ở nước ngoài.)
+### English Explain:
+        1. The man cannot buy insurance before leaving the country.
+        2. There is no possibility of an accident occurring abroad.
+        3. The man must buy insurance before leaving the country.
+        4. Buying insurance is optional.
+        --------------------
+        <g>여자: 네, 해외에서 발생할 수 있는 사고에 대비해야 합니다.</g> (Woman: Yes, you need to prepare for accidents that may occur abroad.)
+
+95. ### Text Audio:
+        여자: 기숙사 생활은 어때요? 불편한 점은 없어요?
+        남자: 네, 방이 좀 좁지만 지낼 만해요. 식당 밥도 맛있고요.
+        여자: 다행이네요. 불편한 점이 있으면 언제든지 관리인에게 말하세요.
+### Vietnamese:
+        Nữ: Cuộc sống ở ký túc xá thế nào? Có điều gì bất tiện không?
+        Nam: Vâng, phòng hơi nhỏ nhưng cũng ổn. Cơm ở nhà ăn cũng ngon nữa.
+        Nữ: May quá. Nếu có điều gì bất tiện, hãy nói với người quản lý bất cứ lúc nào.
+### English:
+        Woman: How is life in the dormitory? Is there anything inconvenient?
+        Man: Yes, the room is a bit small, but it's okay. The food in the cafeteria is also delicious.
+        Woman: That's good. If there is anything inconvenient, please tell the manager at any time.
+### Answer:
+        nan
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Phòng ký túc xá rộng và tốt.
+        2. Cơm ở nhà ăn không ngon.
+        3. Người đàn ông hài lòng với cuộc sống ở ký túc xá.
+        4. Không cần phải nói với người quản lý.
+        --------------------
+        남자: 네, 방이 좀 좁지만 지낼 만해요. 식당 밥도 맛있고요. (Nam: Vâng, phòng hơi nhỏ nhưng cũng ổn. Cơm ở nhà ăn cũng ngon nữa.)
+### English Explain:
+        1. The dormitory room is spacious and good.
+        2. The food in the cafeteria is not delicious.
+        3. The man is satisfied with life in the dormitory.
+        4. There is no need to talk to the manager.
+        --------------------
+        <g>남자: 네, 방이 좀 좁지만 지낼 만해요. 식당 밥도 맛있고요.</g> (Man: Yes, the room is a bit small, but it's okay. The food in the cafeteria is also delicious.)
+
+96. ### Text Audio:
+        남자: 다음 달부터 새로운 근무 조건이 적용됩니다.
+        여자: 어떤 점이 달라지나요?
+        남자: 근무 시간이 단축되고, 급여가 인상됩니다.
+### Vietnamese:
+        Nam: Các điều kiện làm việc mới sẽ được áp dụng từ tháng tới.
+        Nữ: Có gì thay đổi vậy?
+        Nam: Thời gian làm việc sẽ được rút ngắn và lương sẽ được tăng lên.
+### English:
+        Man: New working conditions will be applied from next month.
+        Woman: What will change?
+        Man: Working hours will be reduced, and salaries will be increased.
+### Answer:
+        nan
+### Correct Answer: 4
+### Vietnamese Explain:
+        1. Thời gian làm việc sẽ tăng lên.
+        2. Lương vẫn giữ nguyên.
+        3. Các điều kiện làm việc mới sẽ được áp dụng từ tháng này.
+        4. Thời gian làm việc sẽ được rút ngắn và lương sẽ được tăng lên.
+        --------------------
+        남자: 근무 시간이 단축되고, 급여가 인상됩니다. (Nam: Thời gian làm việc sẽ được rút ngắn và lương sẽ được tăng lên.)
+### English Explain:
+        1. Working hours will increase.
+        2. Salaries will remain the same.
+        3. The new working conditions will be applied from this month.
+        4. Working hours will be reduced, and salaries will be increased.
+        --------------------
+        <g>남자: 근무 시간이 단축되고, 급여가 인상됩니다.</g> (Man: Working hours will be reduced, and salaries will be increased.)
+
+97. ### Text Audio:
+        여자: 비자 연장 신청은 어디에서 해야 하나요?
+        남자: 출입국·외국인청에서 신청할 수 있습니다.
+        여자: 필요한 서류는 무엇인가요?
+### Vietnamese:
+        Nữ: Tôi phải nộp đơn xin gia hạn visa ở đâu?
+        Nam: Bạn có thể nộp đơn tại Văn phòng Quản lý Xuất nhập cảnh và Người nước ngoài.
+        Nữ: Cần những giấy tờ gì?
+### English:
+        Woman: Where do I have to apply for a visa extension?
+        Man: You can apply at the Immigration Office.
+        Woman: What documents are needed?
+### Answer:
+        nan
+### Correct Answer: 2
+### Vietnamese Explain:
+        1. Phải nộp đơn xin gia hạn visa tại công ty.
+        2. Có thể nộp đơn xin gia hạn visa tại Văn phòng Quản lý Xuất nhập cảnh và Người nước ngoài.
+        3. Không cần gia hạn visa.
+        4. Có thể nộp đơn xin gia hạn visa tại ngân hàng.
+        --------------------
+        남자: 출입국·외국인청에서 신청할 수 있습니다. (Nam: Bạn có thể nộp đơn tại Văn phòng Quản lý Xuất nhập cảnh và Người nước ngoài.)
+### English Explain:
+        1. The woman must apply for a visa extension at the company.
+        2. The woman can apply for a visa extension at the Immigration Office.
+        3. The woman does not need to extend your visa.
+        4. The woman can apply for a visa extension at the bank.
+        --------------------
+        <g>남자: 출입국·외국인청에서 신청할 수 있습니다.</g> (Man: You can apply at the Immigration Office.)
+
+98. ### Text Audio:
+        남자: 한국에 오기 전에 어떤 교육을 받았어요?
+        여자: 안전 교육과 한국 문화 교육을 받았어요.
+        남자: 교육이 도움이 되었나요?
+### Vietnamese:
+        Nam: Bạn đã được đào tạo gì trước khi đến Hàn Quốc?
+        Nữ: Tôi đã được đào tạo về an toàn và văn hóa Hàn Quốc.
+        Nam: Việc đào tạo có giúp ích cho bạn không?
+### English:
+        Man: What kind of training did you receive before coming to Korea?
+        Woman: I received safety training and Korean culture training.
+        Man: Was the training helpful?
+### Answer:
+        nan
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Không cần thiết phải đào tạo về văn hóa Hàn Quốc.
+        2. Người phụ nữ không được đào tạo trước khi đến Hàn Quốc.
+        3. Người phụ nữ đã được đào tạo về an toàn và văn hóa Hàn Quốc.
+        4. Người đàn ông chỉ được đào tạo về an toàn.
+        --------------------
+        여자: 안전 교육과 한국 문화 교육을 받았어요. (Nữ: Tôi đã được đào tạo về an toàn và văn hóa Hàn Quốc.)
+### English Explain:
+        1. Korean culture training is not necessary.
+        2. The woman did not receive training before coming to Korea.
+        3. The woman received safety training and Korean culture training.
+        4. The man only received safety training.
+        --------------------
+        <g>여자: 안전 교육과 한국 문화 교육을 받았어요.</g> (Woman: I received safety training and Korean culture training.)
+
+99. ### Text Audio:
+        여자: 외국인 등록증을 잃어버렸어요. 어떻게 해야 하나요?
+        남자: 가까운 경찰서에 신고하고 재발급 신청을 해야 합니다.
+        여자: 재발급 신청은 어디에서 하나요?
+### Vietnamese:
+        Nữ: Tôi bị mất thẻ đăng ký người nước ngoài rồi. Tôi phải làm gì?
+        Nam: Bạn phải báo cáo với đồn cảnh sát gần nhất và nộp đơn xin cấp lại.
+        Nữ: Tôi nộp đơn xin cấp lại ở đâu?
+### English:
+        Woman: I lost my alien registration card. What should I do?
+        Man: You must report it to the nearest police station and apply for reissuance.
+        Woman: Where do I apply for reissuance?
+### Answer:
+        nan
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Không thể được cấp lại thẻ đăng ký người nước ngoài.
+        2. Không cần phải báo mất ở đồn cảnh sát.
+        3. Nếu bị mất thẻ đăng ký người nước ngoài thì phải nộp đơn xin cấp lại.
+        4. Phải nộp đơn xin cấp lại tại công ty.
+        --------------------
+        남자: 가까운 경찰서에 신고하고 재발급 신청을 해야 합니다. (Nam: Bạn phải báo cáo với đồn cảnh sát gần nhất và nộp đơn xin cấp lại.)
+### English Explain:
+        1. The woman cannot get a new alien registration card.
+        2. There is no need to report the loss to the police station.
+        3. If the woman lose her alien registration card, she must apply for reissuance.
+        4. The woman must apply for reissuance at the company.
+        --------------------
+        <g>남자: 가까운 경찰서에 신고하고 재발급 신청을 해야 합니다.</g> (Man: You must report it to the nearest police station and apply for reissuance.)
+
+100. ### Text Audio:
+        남자: 프엉 씨, 한국 생활에 적응하는 게 어때요?
+        여자: 처음에는 힘들었지만 지금은 괜찮아요. 한국 음식도 맛있고, 사람들도 친절해요.
+        남자: 다행이네요. 혹시 불편한 점이 있으면 언제든지 저에게 말하세요.
+### Vietnamese:
+        Nam: Phương, cuộc sống ở Hàn Quốc của bạn thế nào?
+        Nữ: Lúc đầu thì khó khăn nhưng bây giờ thì ổn rồi. Đồ ăn Hàn Quốc cũng ngon và mọi người cũng thân thiện.
+        Nam: May quá. Nếu có bất kỳ điều gì bất tiện, hãy nói với tôi bất cứ lúc nào nhé.
+### English:
+        Man: Phuong, how is your adaptation to life in Korea?
+        Woman: It was difficult at first, but now it's okay. Korean food is delicious and people are friendly.
+        Man: That's a relief. If you have any inconveniences, please tell me anytime.
+### Answer:
+        nan
+### Correct Answer: 2
+### Vietnamese Explain:
+        1. Người phụ nữ đang gặp khó khăn trong việc thích nghi với cuộc sống ở Hàn Quốc.
+        2. Người phụ nữ có suy nghĩ tích cực về đồ ăn và con người Hàn Quốc.
+        3. Người đàn ông đang dạy tiếng Hàn cho người phụ nữ.
+        4. Người phụ nữ hoàn toàn không hài lòng với cuộc sống ở Hàn Quốc.
+        --------------------
+        여자: 처음에는 힘들었지만 지금은 괜찮아요. 한국 음식도 맛있고, 사람들도 친절해요. (Nữ: Lúc đầu thì khó khăn nhưng bây giờ thì ổn rồi. Đồ ăn Hàn Quốc cũng ngon và mọi người cũng thân thiện.)
+### English Explain:
+        1. The woman is having difficulty adapting to life in Korea.
+        2. The woman has a positive view of Korean food and people.
+        3. The man is teaching Korean to the woman.
+        4. The woman is not at all satisfied with life in Korea.
+        --------------------
+        <g>여자: 처음에는 힘들었지만 지금은 괜찮아요. 한국 음식도 맛있고, 사람들도 친절해요.</g> (Woman: It was difficult at first, but now it's okay. Korean food is delicious and people are friendly.)
+
+101. ### Text Audio:
+        여자: 마두 씨, 회사에서 무슨 일 하세요?
+        남자: 저는 주로 기계 수리를 해요. 가끔 부품도 만들고요.
+        여자: 힘들겠네요. 그래도 보람이 있을 것 같아요.
+### Vietnamese:
+        Nữ: Madu, anh làm công việc gì ở công ty vậy?
+        Nam: Tôi chủ yếu sửa chữa máy móc. Đôi khi tôi cũng làm các bộ phận.
+        Nữ: Chắc là vất vả lắm. Nhưng tôi nghĩ nó đáng làm.
+### English:
+        Woman: Madu, what do you do at the company?
+        Man: I mainly repair machines. Sometimes I also make parts.
+        Woman: It must be hard. But I think it's worth it.
+### Answer:
+        nan
+### Correct Answer: 2
+### Vietnamese Explain:
+        1. Người đàn ông làm công việc nấu ăn ở công ty.
+        2. Người đàn ông chủ yếu sửa chữa máy móc và làm các bộ phận.
+        3. Người phụ nữ đang dạy việc cho người đàn ông.
+        4. Người đàn ông không hài lòng với cuộc sống ở công ty.
+        --------------------
+        남자: 저는 주로 기계 수리를 해요. 가끔 부품도 만들고요. (Nam: Tôi chủ yếu sửa chữa máy móc. Đôi khi tôi cũng làm các bộ phận.)
+### English Explain:
+        1. The man cooks at the company.
+        2. The man mainly repairs machines and makes parts.
+        3. The woman is teaching the man the job.
+        4. The man is not satisfied with life at the company.
+        --------------------
+        <g>남자: 저는 주로 기계 수리를 해요. 가끔 부품도 만들고요.</g> (Man: I mainly repair machines. Sometimes I also make parts.)
+
+102. ### Text Audio:
+        남자: 안녕하세요. 외국인 노동자를 위한 상담소입니다. 무엇을 도와드릴까요?
+        여자: 임금 문제 때문에 상담을 받고 싶습니다.
+        남자: 네, 어떤 문제인지 자세히 말씀해 주시겠어요?
+### Vietnamese:
+        Nam: Xin chào. Đây là trung tâm tư vấn cho người lao động nước ngoài. Tôi có thể giúp gì cho bạn?
+        Nữ: Tôi muốn được tư vấn về vấn đề tiền lương.
+        Nam: Vâng, bạn có thể cho tôi biết chi tiết vấn đề là gì không?
+### English:
+        Man: Hello. This is a counseling center for foreign workers. How can I help you?
+        Woman: I would like to receive counseling about a wage issue.
+        Man: Yes, could you tell me the details of the problem?
+### Answer:
+        nan
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Người phụ nữ đang điều hành một trung tâm tư vấn cho người lao động nước ngoài.
+        2. Người đàn ông muốn được tư vấn về vấn đề tiền lương.
+        3. Người phụ nữ muốn được tư vấn về vấn đề tiền lương.
+        4. Người phụ nữ không phải là người lao động nước ngoài.
+        --------------------
+        여자: 임금 문제 때문에 상담을 받고 싶습니다. (Nữ: Tôi muốn được tư vấn về vấn đề tiền lương.)
+### English Explain:
+        1. The woman is running a counseling center for foreign workers.
+        2. The man wants to receive counseling about a wage issue.
+        3. The woman wants to receive counseling about a wage issue.
+        4. The woman is not a foreign worker.
+        --------------------
+        <g>여자: 임금 문제 때문에 상담을 받고 싶습니다.</g> (Woman: I would like to receive counseling about a wage issue.)
+
+103. ### Text Audio:
+        여자: 칼로 씨, 다음 달에 계약이 끝나는데, 계약 갱신했어요?
+        남자: 아니요, 아직 안 했어요. 회사에 다시 이야기해 봐야 해요.
+        여자: 혹시 다른 회사 알아봤어요?
+### Vietnamese:
+        Nữ: Carlo, hợp đồng của bạn hết hạn vào tháng tới, bạn đã gia hạn hợp đồng chưa?
+        Nam: Chưa, tôi vẫn chưa làm. Tôi phải nói chuyện lại với công ty.
+        Nữ: Bạn có tìm hiểu công ty khác không?
+### English:
+        Woman: Carlo, your contract expires next month, have you renewed it?
+        Man: No, I haven't done it yet. I have to talk to the company again.
+        Woman: Have you looked into other companies?
+### Answer:
+        nan
+### Correct Answer: 4
+### Vietnamese Explain:
+        1. Người đàn ông đã gia hạn hợp đồng rồi.
+        2. Hợp đồng của người đàn ông sẽ hết hạn vào tuần tới.
+        3. Người phụ nữ đã giới thiệu một công việc mới cho người đàn ông.
+        4. Hai người đang nói chuyện về vấn đề hợp đồng.
+        --------------------
+        여자: 칼로 씨, 다음 달에 계약이 끝나는데, 계약 갱신했어요? (Nữ: Carlo, hợp đồng của bạn hết hạn vào tháng tới, bạn đã gia hạn hợp đồng chưa?)
+### English Explain:
+        1. The man has already renewed the contract.
+        2. The man's contract expires next week.
+        3. The woman introduced a new job to the man.
+        4. The two are talking about the contract issue.
+        --------------------
+        <g>여자: 칼로 씨, 다음 달에 계약이 끝나는데, 계약 갱신했어요?</g> (Woman: Carlo, your contract expires next month, have you renewed it?)
+
+104. ### Text Audio:
+        남자: 어서 오세요. 무슨 일로 오셨습니까?
+        여자: 외국인 등록증을 만들고 싶습니다.
+        남자: 네, 그럼 먼저 이 신청서를 작성해 주세요.
+### Vietnamese:
+        Nam: Xin mời vào. Bạn đến đây có việc gì?
+        Nữ: Tôi muốn làm thẻ đăng ký người nước ngoài.
+        Nam: Vâng, vậy thì trước tiên hãy điền vào đơn đăng ký này.
+### English:
+        Man: Welcome. What brings you here?
+        Woman: I want to make a foreign registration card.
+        Man: Yes, then please fill out this application form first.
+### Answer:
+        nan
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Người phụ nữ muốn làm bằng lái xe.
+        2. Người đàn ông muốn làm thẻ đăng ký người nước ngoài.
+        3. Người phụ nữ muốn làm thẻ đăng ký người nước ngoài.
+        4. Người đàn ông muốn điền vào đơn đăng ký.
+        --------------------
+        여자: 외국인 등록증을 만들고 싶습니다. (Nữ: Tôi muốn làm thẻ đăng ký người nước ngoài.)
+### English Explain:
+        1. The woman wants to make a driver's license.
+        2. The man wants to make a foreign registration card.
+        3. The woman wants to make a foreign registration card.
+        4. The man wants to fill out the application form.
+        --------------------
+        <g>여자: 외국인 등록증을 만들고 싶습니다.</g> (Woman: I want to make a foreign registration card.)
+
+105. ### Text Audio:
+        남자: 이번 주말에 회사 야유회에 갈 거예요? 저는 갈 거예요.
+        여자: 아니요, 저는 안 가요. 일이 있어서요.
+        남자: 그래요? 그럼 다음에 같이 가요.
+### Vietnamese:
+        Nam: Bạn sẽ đi dã ngoại của công ty vào cuối tuần này chứ? Tôi sẽ đi.
+        Nữ: Không, tôi không đi. Tôi có việc bận.
+        Nam: Vậy à? Vậy thì lần sau hãy đi cùng nhé.
+### English:
+        Man: Are you going to the company picnic this weekend? I will go.
+        Woman: No, I'm not going. I have something to do.
+        Man: Really? Then let's go together next time.
+### Answer:
+        nan
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Người phụ nữ sẽ đi dã ngoại của công ty vào cuối tuần này.
+        2. Người đàn ông sẽ không đi dã ngoại của công ty vào cuối tuần này.
+        3. Người phụ nữ không đi dã ngoại của công ty vì có việc bận.
+        4. Hai người sẽ không đi dã ngoại của công ty vào cuối tuần này.
+        --------------------
+        여자: 아니요, 저는 안 가요. 일이 있어서요. (Nữ: Không, tôi không đi. Tôi có việc bận.)
+### English Explain:
+        1. The woman will go to the company picnic this weekend.
+        2. The man will not go to the company picnic this weekend.
+        3. The woman is not going to the company picnic because she has something to do.
+        4. The two will not go to the company picnic this weekend.
+        --------------------
+        <g>여자: 아니요, 저는 안 가요. 일이 있어서요.</g> (Woman: No, I'm not going. I have something to do.)
+
+106. ### Text Audio:
+        여자: 사장님, 월급이 너무 적어요. 올려주세요.
+        남자: 지금은 회사 사정이 안 좋아서 곤란합니다.
+        여자: 그럼 언제쯤 월급을 올려 주실 수 있나요?
+### Vietnamese:
+        Nữ: Thưa sếp, lương của tôi quá thấp. Hãy tăng lương cho tôi.
+        Nam: Bây giờ tình hình công ty không tốt nên rất khó khăn.
+        Nữ: Vậy khi nào thì ông có thể tăng lương cho tôi?
+### English:
+        Woman: Boss, my salary is too low. Please raise it.
+        Man: It's difficult because the company's situation is not good right now.
+        Woman: Then when can you raise my salary?
+### Answer:
+        nan
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Người đàn ông có thể tăng lương cho người phụ nữ.
+        2. Người phụ nữ nghĩ rằng lương của mình quá cao.
+        3. Người đàn ông khó tăng lương vì tình hình công ty không tốt.
+        4. Người phụ nữ muốn nghỉ việc.
+        --------------------
+        남자: 지금은 회사 사정이 안 좋아서 곤란합니다. (Nam: Bây giờ tình hình công ty không tốt nên rất khó khăn.)
+### English Explain:
+        1. The man can raise the woman's salary.
+        2. The woman thinks her salary is too high.
+        3. The man has difficulty raising the salary because the company's situation is not good.
+        4. The woman wants to quit her job.
+        --------------------
+        <g>남자: 지금은 회사 사정이 안 좋아서 곤란합니다.</g> (Man: It's difficult because the company's situation is not good right now.)
+
+107. ### Text Audio:
+        남자: 한국에서는 명절에 보통 뭘 해요?
+        여자: 가족들과 모여서 차례를 지내고, 맛있는 음식을 먹어요.
+        남자: 아, 그렇군요. 재미있겠네요.
+### Vietnamese:
+        Nam: Ở Hàn Quốc, mọi người thường làm gì vào ngày lễ?
+        Nữ: Mọi người tụ tập với gia đình để làm lễ cúng tổ tiên và ăn những món ăn ngon.
+        Nam: À, ra vậy. Thật thú vị.
+### English:
+        Man: What do people usually do on holidays in Korea?
+        Woman: People gather with their families to perform ancestral rites and eat delicious food.
+        Man: Oh, I see. That's interesting.
+### Answer:
+        nan
+### Correct Answer: 2
+### Vietnamese Explain:
+        1. Ở Hàn Quốc, mọi người đi du lịch một mình vào ngày lễ.
+        2. Ở Hàn Quốc, mọi người tụ tập với gia đình để làm lễ cúng tổ tiên vào ngày lễ.
+        3. Người đàn ông biết rõ về văn hóa ngày lễ của Hàn Quốc.
+        4. Người phụ nữ thích đi du lịch vào ngày lễ.
+        --------------------
+        여자: 가족들과 모여서 차례를 지내고, 맛있는 음식을 먹어요. (Nữ: Mọi người tụ tập với gia đình để làm lễ cúng tổ tiên và ăn những món ăn ngon.)
+### English Explain:
+        1. In Korea, people travel alone on holidays.
+        2. In Korea, people gather with their families to perform ancestral rites on holidays.
+        3. The man knows a lot about Korean holiday culture.
+        4. The woman likes to travel on holidays.
+        --------------------
+        <g>여자: 가족들과 모여서 차례를 지내고, 맛있는 음식을 먹어요.</g> (Woman: People gather with their families to perform ancestral rites and eat delicious food.)
+
+108. ### Text Audio:
+        남자: 혹시 외국인 근로자를 위한 무료 법률 상담이 있다는 것을 알고 있어요?
+        여자: 정말요? 어디에서 받을 수 있어요?
+        남자: 외국인 지원 센터에서 받을 수 있다고 들었어요.
+### Vietnamese:
+        Nam: Bạn có biết có dịch vụ tư vấn pháp luật miễn phí cho người lao động nước ngoài không?
+        Nữ: Thật vậy sao? Tôi có thể nhận được ở đâu?
+        Nam: Tôi nghe nói là có thể nhận được ở trung tâm hỗ trợ người nước ngoài.
+### English:
+        Man: Do you know that there is free legal consultation for foreign workers?
+        Woman: Really? Where can I get it?
+        Man: I heard that you can get it at the Foreign Support Center.
+### Answer:
+        nan
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Không thể nhận tư vấn pháp luật tại trung tâm hỗ trợ người nước ngoài.
+        2. Người lao động nước ngoài không cần nhận tư vấn pháp luật.
+        3. Có dịch vụ tư vấn pháp luật miễn phí cho người lao động nước ngoài.
+        4. Người phụ nữ đang điều hành trung tâm hỗ trợ người nước ngoài.
+        --------------------
+        남자: 혹시 외국인 근로자를 위한 무료 법률 상담이 있다는 것을 알고 있어요? (Nam: Bạn có biết có dịch vụ tư vấn pháp luật miễn phí cho người lao động nước ngoài không?)
+### English Explain:
+        1. Legal consultation cannot be received at the Foreign Support Center.
+        2. Foreign workers do not need to receive legal consultation.
+        3. There is free legal consultation for foreign workers.
+        4. The woman is running the Foreign Support Center.
+        --------------------
+        <g>남자: 혹시 외국인 근로자를 위한 무료 법률 상담이 있다는 것을 알고 있어요?</g> (Man: Do you know that there is free legal consultation for foreign workers?)
+
+109. ### Text Audio:
+        여자: 한국에 온 지 얼마나 됐어요?
+        남자: 1년쯤 됐어요. 아직 한국말이 서툴러요.
+        여자: 괜찮아요. 저도 처음에는 그랬어요.
+### Vietnamese:
+        Nữ: Bạn đến Hàn Quốc được bao lâu rồi?
+        Nam: Khoảng 1 năm rồi. Tôi vẫn còn kém tiếng Hàn.
+        Nữ: Không sao đâu. Lúc đầu tôi cũng vậy.
+### English:
+        Woman: How long have you been in Korea?
+        Man: It's been about a year. I'm still not good at Korean.
+        Woman: It's okay. I was like that at first too.
+### Answer:
+        nan
+### Correct Answer: 4
+### Vietnamese Explain:
+        1. Người đàn ông đã đến Hàn Quốc được 10 năm.
+        2. Người đàn ông nói tiếng Hàn rất tốt.
+        3. Người phụ nữ vẫn còn kém tiếng Hàn nhưng không sao.
+        4. Người phụ nữ đã kém tiếng Hàn khi mới đến Hàn Quốc.
+        --------------------
+        여자: 괜찮아요. 저도 처음에는 그랬어요. (Nữ: Không sao đâu. Lúc đầu tôi cũng vậy.)
+### English Explain:
+        1. The man has been in Korea for 10 years.
+        2. The man speaks Korean very well.
+        3. The woman is still not good at Korean but it's okay.
+        4. The woman was not good at Korean when she first came to Korea.
+        --------------------
+        <g>여자: 괜찮아요. 저도 처음에는 그랬어요.</g> (Woman: It's okay. I was like that at first too.)

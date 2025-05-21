@@ -1,0 +1,56 @@
+1.  ### Text Audio:
+        여자: 안녕하세요? 저는 네팔 사람입니다.
+        남자: 안녕하세요? 저는 몽골 사람입니다.
+### Vietnamese:
+        Nữ: Xin chào? Tôi là người Nepal. 
+        Nam: Xin chào? Tôi là người Mông Cổ.
+        
+### English:
+        Woman: Hello? I am from Nepal. 
+        Man: Hello? I am from Mongolia.
+        
+### Answer:
+        
+### Correct Answer: 3
+### Vietnamese Explain:
+        1. Tên 
+        2. Tuổi 
+        3. Quốc tịch 
+        4. Giới tính
+        ------------------
+        네팔 사람, 몽골 사람 => 국적.
+### English Explain:
+        1. Name 
+        2. Age 
+        3. Nationality 
+        4. Gender
+        ------------------
+        <g>네팔 사람, 몽골 사람 => 국적.</g>
+
+2.  ### Text Audio:
+        남자: 어부입니까?
+        여자: 아니요. 저는 농부입니다.
+### Vietnamese:
+        Nam: Cô là ngư dân à? 
+        Nữ: Không, tôi là nông dân.
+### English:
+        Man: Are you a fisherman? 
+        Woman: No, I am a farmer.
+        
+### Answer:
+        
+### Correct Answer: 2
+### Vietnamese Explain:
+        1. Quê quán 
+        2. Nghề nghiệp 
+        3. Tên 
+        4. Quốc tịch
+        ------------------
+        어부, 농부 => 직업.
+### English Explain:
+        1. Hometown 
+        2. Job 
+        3. Name 
+        4. Nationality
+        ------------------
+        <g>어부, 농부 => 직업.</g>

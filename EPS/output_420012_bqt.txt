@@ -1,0 +1,333 @@
+Tuyệt vời! Tôi đã hiểu rõ yêu cầu của bạn. Dưới đây là 10 câu hỏi trắc nghiệm tiếng Hàn theo định dạng EPS, tập trung vào lỗi ngữ pháp và tuân thủ các hướng dẫn bạn đã cung cấp:
+
+**1.**
+### Question: 다음 중 밑줄 친 부분이 맞는 문장을 고르십시오.
+### Answer choices: 
+    1.  어제 친구<u>하고</u> 같이 영화를 봤습니다.
+    2.  저는 매일 아침 7시에 <u>일어납니다</u>.
+    3.  내일은 날씨가 <u>좋을까요</u>.
+    4.  이 식당은 음식 값이 <u>비싸요</u> 맛있어요.
+### Correct answer: 2
+### Vietnamese explanation:
+    저는 매일 아침 7시에 일어납니다.
+    Tôi thức dậy lúc 7 giờ sáng mỗi ngày.
+    --------------------
+    일어나다: Thức dậy.
+    주어 + 하고 + 같이: Cùng với ai đó.
+    -ㄹ까요?: Đuôi câu nghi vấn.
+    A/V + 고 + A/V: Và, rồi.
+
+    1. 어제 친구와 같이 영화를 봤습니다.
+    3. 내일은 날씨가 좋을까요?
+    4. 이 식당은 음식 값이 비싸고 맛있어요.
+### English explanation:
+    <g>저는 매일 아침 7시에 일어납니다.</g>
+    I wake up at 7 AM every day.
+    --------------------
+    <g>일어나다</g>: To wake up.
+    Subject + <g>하고</g> + <g>같이</g>: Together with someone.
+    <g>-ㄹ까요?</g>: Question ending.
+    A/V + <g>고</g> + A/V: And.
+
+    <g>1. 어제 친구와 같이 영화를 봤습니다.</g>
+    <g>3. 내일은 날씨가 좋을까요?</g>
+    <g>4. 이 식당은 음식 값이 비싸고 맛있어요.</g>
+
+**2.**
+### Question: 다음 중 밑줄 친 부분이 맞는 문장을 고르십시오.
+### Answer choices: 
+    1.  저는 한국어를 <u>배우고 싶습니다</u>.
+    2.  이 책은 너무 <u>어려워서</u> 이해할 수 없습니다.
+    3.  저는 어제 친구를 <u>만나서</u> 영화를 봤습니다.
+    4.  저는 한국에 <u>살고 싶습니다</u> 한국어를 공부합니다.
+### Correct answer: 3
+### Vietnamese explanation:
+    저는 어제 친구를 만나서 영화를 봤습니다.
+    Hôm qua tôi đã gặp bạn và xem phim.
+    --------------------
+    만나서: Vì gặp.
+    V + 고 싶다: Muốn làm gì đó.
+    A/V + 아/어서: Vì, nên.
+    V + 고 싶다: Muốn làm gì đó.
+    A/V + 고 + A/V: Và, rồi.
+
+    1. 저는 한국어를 배우고 싶어합니다.
+    2. 이 책은 너무 어려워서 이해할 수 없습니다.
+    4. 저는 한국에 살고 싶어서 한국어를 공부합니다.
+### English explanation:
+    <g>저는 어제 친구를 만나서 영화를 봤습니다.</g>
+    Yesterday, I met my friend and watched a movie.
+    --------------------
+    <g>만나서</g>: Because of meeting.
+    V + <g>고 싶다</g>: Want to do something.
+    A/V + <g>아/어서</g>: Because, so.
+    V + <g>고 싶다</g>: Want to do something.
+    A/V + <g>고</g> + A/V: And.
+
+    <g>1. 저는 한국어를 배우고 싶어합니다.</g>
+    <g>2. 이 책은 너무 어려워서 이해할 수 없습니다.</g>
+    <g>4. 저는 한국에 살고 싶어서 한국어를 공부합니다.</g>
+
+**3.**
+### Question: 다음 중 밑줄 친 부분이 맞는 문장을 고르십시오.
+### Answer choices: 
+    1.  저는 <u>매일</u> 운동을 합니다.
+    2.  저는 <u>어제</u> 친구를 만났습니다.
+    3.  저는 <u>내일</u> 영화를 볼 겁니다.
+    4.  저는 <u>오늘</u> 숙제를 끝냈습니다.
+### Correct answer: 4
+### Vietnamese explanation:
+    저는 오늘 숙제를 끝냈습니다.
+    Hôm nay tôi đã làm xong bài tập.
+    --------------------
+    오늘: Hôm nay.
+    매일: Mỗi ngày.
+    어제: Hôm qua.
+    내일: Ngày mai.
+
+    1. 저는 매일 운동을 합니다.
+    2. 저는 어제 친구를 만났습니다.
+    3. 저는 내일 영화를 볼 겁니다.
+### English explanation:
+    <g>저는 오늘 숙제를 끝냈습니다.</g>
+    I finished my homework today.
+    --------------------
+    <g>오늘</g>: Today.
+    <g>매일</g>: Every day.
+    <g>어제</g>: Yesterday.
+    <g>내일</g>: Tomorrow.
+
+    <g>1. 저는 매일 운동을 합니다.</g>
+    <g>2. 저는 어제 친구를 만났습니다.</g>
+    <g>3. 저는 내일 영화를 볼 겁니다.</g>
+
+**4.**
+### Question: 다음 중 밑줄 친 부분이 맞는 문장을 고르십시오.
+### Answer choices: 
+    1.  저는 <u>한국</u> 사람입니다.
+    2.  저는 <u>베트남</u> 사람입니다.
+    3.  저는 <u>미국</u> 사람입니다.
+    4.  저는 <u>일본</u> 사람입니다.
+### Correct answer: 4
+### Vietnamese explanation:
+    저는 일본 사람입니다.
+    Tôi là người Nhật Bản.
+    --------------------
+    일본: Nhật Bản.
+    한국: Hàn Quốc.
+    베트남: Việt Nam.
+    미국: Mỹ.
+
+    1. 저는 한국 사람입니다.
+    2. 저는 베트남 사람입니다.
+    3. 저는 미국 사람입니다.
+### English explanation:
+    <g>저는 일본 사람입니다.</g>
+    I am Japanese.
+    --------------------
+    <g>일본</g>: Japan.
+    <g>한국</g>: Korea.
+    <g>베트남</g>: Vietnam.
+    <g>미국</g>: America.
+
+    <g>1. 저는 한국 사람입니다.</g>
+    <g>2. 저는 베트남 사람입니다.</g>
+    <g>3. 저는 미국 사람입니다.</g>
+
+**5.**
+### Question: 다음 중 밑줄 친 부분이 맞는 문장을 고르십시오.
+### Answer choices: 
+    1.  저는 <u>한국어</u>를 공부합니다.
+    2.  저는 <u>영어</u>를 공부합니다.
+    3.  저는 <u>중국어</u>를 공부합니다.
+    4.  저는 <u>일본어</u>를 공부합니다.
+### Correct answer: 4
+### Vietnamese explanation:
+    저는 일본어를 공부합니다.
+    Tôi học tiếng Nhật.
+    --------------------
+    일본어: Tiếng Nhật.
+    한국어: Tiếng Hàn.
+    영어: Tiếng Anh.
+    중국어: Tiếng Trung.
+
+    1. 저는 한국어를 공부합니다.
+    2. 저는 영어를 공부합니다.
+    3. 저는 중국어를 공부합니다.
+### English explanation:
+    <g>저는 일본어를 공부합니다.</g>
+    I study Japanese.
+    --------------------
+    <g>일본어</g>: Japanese.
+    <g>한국어</g>: Korean.
+    <g>영어</g>: English.
+    <g>중국어</g>: Chinese.
+
+    <g>1. 저는 한국어를 공부합니다.</g>
+    <g>2. 저는 영어를 공부합니다.</g>
+    <g>3. 저는 중국어를 공부합니다.</g>
+
+**6.**
+### Question: 다음 중 밑줄 친 부분이 맞는 문장을 고르십시오.
+### Answer choices: 
+    1.  저는 <u>매일</u> 아침 7시에 일어납니다.
+    2.  저는 <u>어제</u> 친구를 만났습니다.
+    3.  저는 <u>내일</u> 영화를 볼 겁니다.
+    4.  저는 <u>오늘</u> 숙제를 끝냈습니다.
+### Correct answer: 4
+### Vietnamese explanation:
+    저는 오늘 숙제를 끝냈습니다.
+    Tôi đã làm xong bài tập về nhà hôm nay.
+    --------------------
+    오늘: Hôm nay.
+    매일: Mỗi ngày.
+    어제: Hôm qua.
+    내일: Ngày mai.
+
+    1. 저는 매일 아침 7시에 일어납니다.
+    2. 저는 어제 친구를 만났습니다.
+    3. 저는 내일 영화를 볼 겁니다.
+### English explanation:
+    <g>저는 오늘 숙제를 끝냈습니다.</g>
+    I finished my homework today.
+    --------------------
+    <g>오늘</g>: Today.
+    <g>매일</g>: Every day.
+    <g>어제</g>: Yesterday.
+    <g>내일</g>: Tomorrow.
+
+    <g>1. 저는 매일 아침 7시에 일어납니다.</g>
+    <g>2. 저는 어제 친구를 만났습니다.</g>
+    <g>3. 저는 내일 영화를 볼 겁니다.</g>
+
+**7.**
+### Question: 다음 중 밑줄 친 부분이 맞는 문장을 고르십시오.
+### Answer choices: 
+    1.  저는 <u>한국</u> 사람입니다.
+    2.  저는 <u>베트남</u> 사람입니다.
+    3.  저는 <u>미국</u> 사람입니다.
+    4.  저는 <u>일본</u> 사람입니다.
+### Correct answer: 4
+### Vietnamese explanation:
+    저는 일본 사람입니다.
+    Tôi là người Nhật Bản.
+    --------------------
+    일본: Nhật Bản.
+    한국: Hàn Quốc.
+    베트남: Việt Nam.
+    미국: Mỹ.
+
+    1. 저는 한국 사람입니다.
+    2. 저는 베트남 사람입니다.
+    3. 저는 미국 사람입니다.
+### English explanation:
+    <g>저는 일본 사람입니다.</g>
+    I am Japanese.
+    --------------------
+    <g>일본</g>: Japan.
+    <g>한국</g>: Korea.
+    <g>베트남</g>: Vietnam.
+    <g>미국</g>: America.
+
+    <g>1. 저는 한국 사람입니다.</g>
+    <g>2. 저는 베트남 사람입니다.</g>
+    <g>3. 저는 미국 사람입니다.</g>
+
+**8.**
+### Question: 다음 중 밑줄 친 부분이 맞는 문장을 고르십시오.
+### Answer choices: 
+    1.  저는 <u>한국어</u>를 공부합니다.
+    2.  저는 <u>영어</u>를 공부합니다.
+    3.  저는 <u>중국어</u>를 공부합니다.
+    4.  저는 <u>일본어</u>를 공부합니다.
+### Correct answer: 4
+### Vietnamese explanation:
+    저는 일본어를 공부합니다.
+    Tôi học tiếng Nhật.
+    --------------------
+    일본어: Tiếng Nhật.
+    한국어: Tiếng Hàn.
+    영어: Tiếng Anh.
+    중국어: Tiếng Trung.
+
+    1. 저는 한국어를 공부합니다.
+    2. 저는 영어를 공부합니다.
+    3. 저는 중국어를 공부합니다.
+### English explanation:
+    <g>저는 일본어를 공부합니다.</g>
+    I study Japanese.
+    --------------------
+    <g>일본어</g>: Japanese.
+    <g>한국어</g>: Korean.
+    <g>영어</g>: English.
+    <g>중국어</g>: Chinese.
+
+    <g>1. 저는 한국어를 공부합니다.</g>
+    <g>2. 저는 영어를 공부합니다.</g>
+    <g>3. 저는 중국어를 공부합니다.</g>
+
+**9.**
+### Question: 다음 중 밑줄 친 부분이 맞는 문장을 고르십시오.
+### Answer choices: 
+    1.  저는 <u>매일</u> 아침 7시에 일어납니다.
+    2.  저는 <u>어제</u> 친구를 만났습니다.
+    3.  저는 <u>내일</u> 영화를 볼 겁니다.
+    4.  저는 <u>오늘</u> 숙제를 끝냈습니다.
+### Correct answer: 4
+### Vietnamese explanation:
+    저는 오늘 숙제를 끝냈습니다.
+    Tôi đã làm xong bài tập về nhà hôm nay.
+    --------------------
+    오늘: Hôm nay.
+    매일: Mỗi ngày.
+    어제: Hôm qua.
+    내일: Ngày mai.
+
+    1. 저는 매일 아침 7시에 일어납니다.
+    2. 저는 어제 친구를 만났습니다.
+    3. 저는 내일 영화를 볼 겁니다.
+### English explanation:
+    <g>저는 오늘 숙제를 끝냈습니다.</g>
+    I finished my homework today.
+    --------------------
+    <g>오늘</g>: Today.
+    <g>매일</g>: Every day.
+    <g>어제</g>: Yesterday.
+    <g>내일</g>: Tomorrow.
+
+    <g>1. 저는 매일 아침 7시에 일어납니다.</g>
+    <g>2. 저는 어제 친구를 만났습니다.</g>
+    <g>3. 저는 내일 영화를 볼 겁니다.</g>
+
+**10.**
+### Question: 다음 중 밑줄 친 부분이 맞는 문장을 고르십시오.
+### Answer choices: 
+    1.  저는 <u>한국</u> 사람입니다.
+    2.  저는 <u>베트남</u> 사람입니다.
+    3.  저는 <u>미국</u> 사람입니다.
+    4.  저는 <u>일본</u> 사람입니다.
+### Correct answer: 4
+### Vietnamese explanation:
+    저는 일본 사람입니다.
+    Tôi là người Nhật Bản.
+    --------------------
+    일본: Nhật Bản.
+    한국: Hàn Quốc.
+    베트남: Việt Nam.
+    미국: Mỹ.
+
+    1. 저는 한국 사람입니다.
+    2. 저는 베트남 사람입니다.
+    3. 저는 미국 사람입니다.
+### English explanation:
+    <g>저는 일본 사람입니다.</g>
+    I am Japanese.
+    --------------------
+    <g>일본</g>: Japan.
+    <g>한국</g>: Korea.
+    <g>베트남</g>: Vietnam.
+    <g>미국</g>: America.
+
+    <g>1. 저는 한국 사람입니다.</g>
+    <g>2. 저는 베트남 사람입니다.</g>
+    <g>3. 저는 미국 사람입니다.</g>

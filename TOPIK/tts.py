@@ -7,7 +7,7 @@ from pydub import AudioSegment
 from typing import List, Tuple, Optional, Dict
 
 class KoreanTextToSpeech:
-    def __init__(self, output_dir: str = "audio_files", sound_effects_dir: str = "sound_effects"):
+    def __init__(self, output_dir = "audio_files", sound_effects_dir = "sound_effects"):
         """
         Khởi tạo class với thư mục đầu ra
         
